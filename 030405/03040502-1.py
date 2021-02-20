@@ -1,51 +1,84 @@
 import string
 import random
+from math import gcd
+#print('\n\033[4m'+'3' + '\033[0m'+'\n2')
 
-variable1 = random.choice(string.ascii_lowercase)
-variable2 = random.choice(string.ascii_lowercase)
+# dod = int(input("Select degree of difficulty:\n1.Easy\n2.Hard\nEnter option number:"))
+
+variable_set = random.choice(['ab', 'mn', 'xy'])
+variable1 = variable_set[0]
+variable2 = variable_set[1]
 
 def superscript(variable, power):
-    if power == 1:
-        return variable + chr(0x00b9)
-    elif power == 2 or power == 3:
-        return variable + chr(0x00b0 + power)
+    if power == 0:
+        return ''
+    elif power == 1:
+        return variable
     else:
-        return variable + chr(0x2070 + power)
+        power = str(power)
+        superscript_array = ''
+        for i in power:
+            if i == '1':
+                superscript_array += chr(0x00b9)
+            elif i == '2' or i == '3':
+                superscript_array += chr(0x00b0 + int(i) )
+            elif i == '+' or i == '-':
+                superscript_array += chr(0x207A) if i == '+' else chr(0x207B)
+            elif i == '0':
+                superscript_array += ''
+            else:
+                superscript_array += chr(0x2070 + int(i) )
+
+        return variable + superscript_array
 
 def convert_to_term(coefficient, variable1, power1, variable2, power2):
-    return str(coefficient) + superscript(variable1, power1) + superscript(variable2, power2)
+    return (str(coefficient) if coefficient != 1 else '') + superscript(variable1, power1) + superscript(variable2, power2)
 
 def terms(is_numerator):
     if is_numerator:
-        coefficient = random.randint(11, 99)
-        power1 = random.randint(4, 9)
-        power2 = random.randint(4, 9)
+        coefficient = random.randint(1, 50)
+        power1 = random.randint(-9, 9)
+        power2 = random.randint(-9, 9)
         return [ coefficient, variable1, power1, variable2, power2, convert_to_term(coefficient, variable1, power1, variable2, power2)]
     else:
-        coefficient = random.randint(1, 9)
-        power1 = random.randint(1, 3)
-        power2 = random.randint(1, 3)
+        coefficient = random.randint(1, 5) * 2
+        power1 = random.randint(-9, 9)
+        power2 = random.randint(-9, 9)
         return [ coefficient, variable1, power1, variable2, power2, convert_to_term(coefficient, variable1, power1, variable2, power2)]
 
-def sol(n, d, qcoefficient, qpower1, qpower2, quotient, remainder):
+def sol(n, d, qcoefficient, qpower1, qpower2, ans_num, ans_den):
     print("\n--------------------------------SOLUTION--------------------------------------")
     print("We have numerator as: " + n + " and the denominator as: " + d)
-    print("So by dividing the coefficients we get the number as:" + str(qcoefficient))
+    print("So by simplifying the coefficients we get the fraction as:" + underline(str(qcoefficient)) + '\n\t\t\t\t\t\t\t   ' + ans_den)
     print("Further subtrating the powers of variables in the denominator with that of numerator we get the two variables as: " + superscript(variable1, qpower1) + " and " + superscript(variable2, qpower2))
-    print("So we have the quotient as: " + quotient)
-    print("And the remainder becomes: " + str(remainder))
+    print("So we have the answer as: " + underline(ans_num) + '\n\t\t\t     ' + ans_den)
 
-def options(n, d, correct_option):
-    qcoefficient, qpower1, qpower2 = ( n[0]//d[0], n[2]-d[2], n[4]-d[4])
-    quotient = convert_to_term(qcoefficient, variable1, qpower1, variable2, qpower2)
-    remainder = n[0]%d[0]
+def correct_sign(nsign, dsign):
+    if nsign == '+' and dsign == '+':
+        return ''
+    elif nsign == '-' and dsign == '-':
+        return ''
+    else:
+        return '-'
+
+def options(n, d, correct_option, nsign, dsign):
+    qcoefficient, qpower1, qpower2 = ( n[0]//gcd(n[0], d[0]), n[2]-d[2], n[4]-d[4])
+    ans_num = convert_to_term(qcoefficient, variable1, qpower1, variable2, qpower2)
+    ans_den = str( d[0]//gcd(n[0], d[0]) )
+    if n[0]%d[0] == 0:
+        ans_den = '1'
+    asign = correct_sign(nsign, dsign)
     option_array = []
 
     for i in range(4):
         if i + 1 == correct_option:
-            option_array.append( ' ' + quotient + ', ' + str(remainder))
+            option_array.append( underline(asign + ans_num) + '\n     ' + ans_den )
         else:
-            option_array.append( random.choice('  -') + convert_to_term(qcoefficient + random.randint(-5, 5), variable1, random.randint(1,9), variable2, random.randint(1,9)) + ', ' + str(random.randint(1,10)) )
+            random_number = random.choice([ -qcoefficient, qcoefficient ])
+            power1 = random.choice([ -qpower1, n[2]+d[2], n[2]//d[2] if d[2] != 0 else n[2] ])
+            power2 = random.choice([ -qpower2, n[4]+d[4], n[4]//d[4] if d[4] != 0 else n[4] ])
+            opt_den = random.choice([ -int(ans_den), int(ans_den)])
+            option_array.append( underline(convert_to_term( random_number, variable1, power1, variable2, power2 )) + '\n    ' + str(opt_den) )
 
     for i in range(1, 5):
         print(str(i) + '. ' + option_array[i-1])
@@ -54,14 +87,19 @@ def options(n, d, correct_option):
     
     if selected == correct_option:
         print("You have Selected the right option")
-        sol(numerator[5], denominator[5], qcoefficient, qpower1, qpower2, quotient, remainder)
+        sol(n[5], d[5], qcoefficient, qpower1, qpower2, ans_num, ans_den)
     else:
         print("The selected option is wrong")
-        sol(n[5], d[5], qcoefficient, qpower1, qpower2, quotient, remainder)
+        sol(n[5], d[5], qcoefficient, qpower1, qpower2, ans_num, ans_den)
 
+def underline(term):
+    return '\033[4m'+ term + '\033[0m'
+
+nsign = random.choice('+-')
+dsign = random.choice('+-')
 numerator = terms(True)
 denominator = terms(False)
 
-print("Divide the following monomial and select the correct quotient and remainder:" + numerator[5] + "/" + denominator[5])
+print("Divide the following monomials and select the correct options: " + underline( (nsign if nsign == '-' else '') + numerator[5] ) + "\n\t\t\t\t\t\t\t       " + (dsign if dsign == '-' else '') + denominator[5])
 correct_option = random.randint(1, 4)
-options(numerator, denominator, correct_option)
+options(numerator, denominator, correct_option, nsign, dsign)
