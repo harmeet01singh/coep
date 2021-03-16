@@ -6,7 +6,14 @@ import numpy as np
 import random as rd
 import warnings
 import csv
+import sys
+#from csv_module import store_csv
+import store_csv
 
+#CSV code
+csvobj = store_csv.store_csv()
+
+#from coep_csv import store_csv
 #to ignore divide by zero warning
 warnings.filterwarnings("ignore")
 
@@ -84,7 +91,8 @@ def print_Options(corr_op):
             \n3)x = {:2}, y = {:2}
             \n4)x = {:2}, y = {:2}'''.format(opt[0][0],opt[0][1],opt[1][0],opt[1][1],opt[2][0],opt[2][1],opt[3][0],opt[3][1])
     print(Final_options_str)
-    return [opt,Final_options_str,opt.index(corr_op)+1]
+    print(opt,opt.index(corr_op))
+    return [opt,Final_options_str,opt.index(corr_op)]
 
 def print_solution(corr_op):
     global D,Dx,Dy
@@ -180,6 +188,8 @@ def calculate_variables():
     return [x,y,D]
 
 def main_function():
+    Tn='0304060404'
+    Vn='v5'
     x=0.0
     y=0.0
     D=0.0
@@ -191,17 +201,23 @@ def main_function():
     options,options_str,corr_op_index = print_Options(corr_op)
     #take_input(options,corr_op)
     Solution = print_solution(corr_op)
+    Corr_a= options.pop(corr_op_index)
+    wrong_a1,wrong_a2,wrong_a3=options
 
-    return {'Question':Question,'Options':options_str,'Answer':corr_op_index,'Solution':Solution}
+    database_dict= csvobj.database_fn(
+        Topic_Number=Tn,
+        Variation=Vn,
+        Question=Question,
+        Correct_Answer_1=Corr_a,
+        Wrong_Answer_1=wrong_a1,
+        Wrong_Answer_2=wrong_a2,
+        Wrong_Answer_3=wrong_a3,
+        Solution_text=Solution
+    )
+    return database_dict
 
-
-#open csv file
-with open('determinants.csv','w',newline='') as f:
-    fieldnames = ['Question','Options','Answer','Solution']
-    thewriter = csv.DictWriter(f, fieldnames=fieldnames)
-    thewriter.writeheader()
-
-    for i in range(10):
-        field_dict = main_function()
-        thewriter.writerow(field_dict)
-
+csvobj.putInCsv(
+    NumberOfIterations=10,
+    main_function=main_function,
+    filename=__file__
+)
