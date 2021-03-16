@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/input/asciimath.js" charset="UTF-8"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Home</title>
+<link href="resources/css/bootstrap.min.css" rel="stylesheet">
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/input/asciimath.js" charset="UTF-8"></script>
+
+
+</head>
+<style>
+ body{background-color:#343a40; padding:10px 10%}
+#UploadQue h1{ text-align: center;  color:#fff; font-size: 25px ; padding:10px ;}
+#UploadQue label{ text-align: center;  color:#fff; font-size: 25px ; padding:10px ;}
+#randeredQue, #MathPreview {width:100%; height:300px; background-color: #fff; padding:10px;overflow: scroll;}
+#MathPreviewOP1, #MathPreviewOP2, #MathPreviewOP3, #MathPreviewOP4, #MathPreviewOP5
+{height:auto; background-color: #fff; padding:20px 5px; margin:5px;}
+#saveQue{ margin:10px 0;}
+</style>
+<body>
+<div class="container-fluid" id="UploadQue"> 
+<h1>Virtual Maths Lab</h1>   
+<h1>Check latex format Question</h1>           
+<div class="row"> 
+<div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+
+ <form>
+    <div class="form-group">
+      <label for="comment">Enter Question in latex format:</label>
+		      <textarea class="form-control" rows="8" id="MathInput" style="font-size : 25px"></textarea>
+      <label for="comment">Enter options in latex format:</label>
+		     <div class="col-sm-12 col-md-12 col-lg-12 col-xl-12">
+		       <textarea class="col-sm-12 col-md-12 col-lg-12 col-xl-12" rows="2" id="MathInputOP1"></textarea>
+		       <textarea class="col-sm-12 col-md-12 col-lg-12 col-xl-12" rows="2" id="MathInputOP2"></textarea>
+		       <textarea class="col-sm-12 col-md-12 col-lg-12 col-xl-12" rows="2" id="MathInputOP3"></textarea>
+		       <textarea class="col-sm-12 col-md-12 col-lg-12 col-xl-12" rows="2" id="MathInputOP4"></textarea>
+		       <textarea class="col-sm-12 col-md-12 col-lg-12 col-xl-12" rows="2" id="MathInputOP5"></textarea>
+		    </div>
+    </div>
+    <br/><button type="button" class="btn btn-primary" id="RanderQue" onclick = typesetInput(this)>Check Question</button>
+    </div>
+    
+    <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
+    
+    <div class="form-group">
+      <label for="comment">Question:</label>
+    <div id="MathPreview" style="font-size : 25px; scroll : auto;"></div><br/>
+    <label for="comment">Question options:</label>
+    <div class="row"> 
+    <div id="MathPreviewOP1" class="col-sm-12 col-md-12 col-lg-12 col-xl-12"></div>
+    <div id="MathPreviewOP2" class="col-sm-12 col-md-12 col-lg-12 col-xl-12"></div>
+    <div id="MathPreviewOP3" class="col-sm-12 col-md-12 col-lg-12 col-xl-12"></div>
+    
+    <div id="MathPreviewOP4" class="col-sm-12 col-md-12 col-lg-12 col-xl-12"></div>
+    <div id="MathPreviewOP5" class="col-sm-12 col-md-12 col-lg-12 col-xl-12"></div>
+      
+</div>
+<!-- <button type="button" class="btn btn-primary" id="saveQue">SAVE</button> -->
+    </div>
+    
+    </div>
+  </form>
+
+</div>
+</div>
+
+      
+<script src="resources/js/Jquery.3.4.1.js"></script>
+ <script src="resources/js/popper.min.js"></script>
+ <script src="resources/js/bootstrap.min.js"></script>	
+ <script type="text/javascript" src="resources/src/randerQues.js"></script>
+ <script type="text/javascript" src="resources/core/namespace.js"></script>
+	<script type="text/javascript" src="resources/core/ajaxMngr.js"></script>
+	
+
+</body>
+</html>
