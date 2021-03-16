@@ -3,9 +3,12 @@
 import numpy as np
 import random as rd
 import warnings
-
+from coep_csv import store_csv
 #to ignore divide by zero warning
 warnings.filterwarnings("ignore")
+
+#CSV code
+csvobj = store_csv.store_csv()
 
 coeff_list = []
 opt = []
@@ -15,13 +18,13 @@ Dx = np.zeros((2,2))
 Dy = np.zeros((2,2))
 
 def print_Questions(x=0,y=0):
-    print(
-        '''
+    q='''
         \n====================Question====================
         \nWhich of the following represents correct set of linear simultaneous equations for given solution
         \n(x = {}, y = {})
         \n---------------------------------------------------------------------------------------------------'''.format(int(x),int(y))
-    )
+    print(q)
+    return q
 
 def print_Options():
     global opt
@@ -52,32 +55,30 @@ def print_Options():
             \n3){}
             \n4){}'''.format(opt[0],opt[1],opt[2],opt[3])
     )
+    print(opt)
     return oseq
 
 def print_solution():
-    print(
-        ''' \n====================Solution====================
+    s1 = ''' \n====================Solution====================
             \nTo check the corectness of the solution
             \nsubstitute values of x and y into the addition of both the equations in the given option pair'''
-    )
-    print(
-        ''' \n {}x + ({}y) = {} 
+    print(s1)
+    s2 = ''' \n {}x + ({}y) = {} 
             \n {}x + ({}y) = {}'''.format(a1,b1,c1,a2,b2,c2)
-    )
-    print(
-        '''\nAdding both the equations 
+    print(s2)
+    s3 = '''\nAdding both the equations 
             \n     {}x + ({})y = {} 
             \n +   ({})x + ({})y = {}
             \n-------------------------------
             \n     ({})x + ({})y = {}'''.format(a1,b1,c1,a2,b2,c2,a1+a2,b1+b2,c1+c2)
-    )
-    print(
-        '''\nSubstituting values of x and y in the above equation
+    print(s3)
+    s4 = '''\nSubstituting values of x and y in the above equation
             \nL.H.S = ({} x ({})) + ({} x ({}))
             \nL.H.S = {} + ({})
             \nL.H.S = {}
             \nL.H.S = R.H.S'''.format(a1+a2,int(x),b1+b2,int(y),int((a1+a2)*x),int((b1+b2)*y),int((a1+a2)*x + (b1+b2)*y))
-    )
+    print(s4)
+    return s1+s2+s3+s4
 
 def take_input(options,corr_op):
     ans = None
@@ -93,7 +94,6 @@ def take_input(options,corr_op):
         print('--------------------------------\nYour answer is right')
     else:
         print('--------------------------------\nWrong answer!!\n')
-        print_solution()
 
 def calculate_variables():
     global coeff_list
@@ -130,6 +130,9 @@ def calculate_variables():
     return [x,y,D]
 
 def main_function():
+    #not correct tn and vn only for test purposes
+    Tn='0304060404'
+    Vn='v5'
     x=0.0
     y=0.0
     D=0.0
@@ -138,8 +141,27 @@ def main_function():
         x,y,D = calculate_variables()
         #print(x,y,np.linalg.det(D))
     #x,y = calculate_variables()
-    print_Questions(x,y)
+    Question=print_Questions(x,y)
     options = print_Options()
+    print(options)
     take_input(options,[a1,b1,c1,a2,b2,c2])
+    Solution=print_solution()
+
+    #database_dict= csvobj.database_fn(
+    #    Topic_Number=Tn,
+    #    Variation=Vn,
+    #    Question=Question,
+    #    Correct_Answer_1=Corr_a,
+    #    Wrong_Answer_1=wrong_a1,
+    #    Wrong_Answer_2=wrong_a2,
+    #    Wrong_Answer_3=wrong_a3,
+    #    Solution_text=Solution
+    #)
+    #return database_dict
 
 main_function()
+#csvobj.putInCsv(
+#    NumberOfIterations=10,
+#    main_function=main_function,
+#    filename=__file__
+#)
