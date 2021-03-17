@@ -1,0 +1,8 @@
+setup.py
+csv_latex/__init__.py
+csv_latex/csv.py
+csv_latex/latex.py
+latex_module.egg-info/PKG-INFO
+latex_module.egg-info/SOURCES.txt
+latex_module.egg-info/dependency_links.txt
+latex_module.egg-info/top_level.txt
