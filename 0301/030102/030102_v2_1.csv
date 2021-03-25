@@ -1,0 +1,91 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $24 - 8$ and $12 + 4$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $24 - 8 = 16$
+ <br>Second expression $12 + 4 = 16$
+<br>Since both expression give same values i.e. $16$, answer is True",
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $3 * 3$ and $17 - 8$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 3 = 9$
+ <br>Second expression $17 - 8 = 9$
+<br>Since both expression give same values i.e. $9$, answer is True",
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $9 + 3$ and $24 - 12$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 + 3 = 12$
+ <br>Second expression $24 - 12 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $16 - 6$ and $2 * 5$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $16 - 6 = 10$
+ <br>Second expression $2 * 5 = 10$
+<br>Since both expression give same values i.e. $10$, answer is True",
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $4 - 9$ and $10 * 9$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $4 - 9 = -5$
+ <br>Second expression $10 * 9 = 90$
+<br>Since both expressions give different values, the answer is False",
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $11 + 5$ and $5 * 9$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $11 + 5 = 16$
+ <br>Second expression $5 * 9 = 45$
+<br>Since both expressions give different values, the answer is False",
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $9 + 24$ and $9 - 16$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $9 + 24 = 33$
+ <br>Second expression $9 - 16 = -7$
+<br>Since both expressions give different values, the answer is False",
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $20 + 16$ and $3 * 10$, will they form equation",False,,,,True,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $20 + 16 = 36$
+ <br>Second expression $3 * 10 = 30$
+<br>Since both expressions give different values, the answer is False",
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $6 + 6$ and $3 * 4$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 + 6 = 12$
+ <br>Second expression $3 * 4 = 12$
+<br>Since both expression give same values i.e. $12$, answer is True",
+text,1,030102,v2,"
+====================Question====================
+ <br> If two expressions are $18 + 0$ and $20 - 2$, will they form equation",True,,,,False,,,60,3,,," 
+====================Solution====================<br>
+            
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $18 + 0 = 18$
+ <br>Second expression $20 - 2 = 18$
+<br>Since both expression give same values i.e. $18$, answer is True",
