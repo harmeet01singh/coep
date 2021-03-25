@@ -1,0 +1,61 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,030102,7,Playground is $750$ metres from Office. Hospital is $550$ metres from Office. Assuming Playground and Hospital are in the opposite direction from Office which of the following statement is correct?,Hospital is nearer to Office than Playground,,,,Playground is nearer to Hospital than Office,Office is at same distance from Playground and Hospital,Playground is nearer to Office than Hospital,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Office and Playground be $x$, and the distance between Office and Hospital be $y$.
+Here $x=$$750$$m$ and $y=$$550$$m$.
+Playground---$750$$m$--->Office---$550$$m$--->Hospital
+As we can see that the distance between Office and Playground is $750$$m$, and the distance between Office and Hospital is $550$$m$.
+Since the distance between Office and Hospital $<$ distance between Office and Playground
+Hospital is nearer to Office than Playground",
+text,text,030102,7,Coffee Shop is $900$ metres from Police Station. Factory is $350$ metres from Police Station. Assuming Coffee Shop and Factory are in the opposite direction from Police Station which of the following statement is correct?,Factory is nearer to Police Station than Coffee Shop,,,,Coffee Shop is nearer to Police Station than Factory,Police Station is at same distance from Coffee Shop and Factory,Coffee Shop is nearer to Factory than Police Station,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Police Station and Coffee Shop be $x$, and the distance between Police Station and Factory be $y$.
+Here $x=$$900$$m$ and $y=$$350$$m$.
+Coffee Shop---$900$$m$--->Police Station---$350$$m$--->Factory
+As we can see that the distance between Police Station and Coffee Shop is $900$$m$, and the distance between Police Station and Factory is $350$$m$.
+Since the distance between Police Station and Factory $<$ distance between Police Station and Coffee Shop
+Factory is nearer to Police Station than Coffee Shop",
+text,text,030102,7,Restaurant is $650$ metres from Factory. Mall is $300$ metres from Factory. Assuming Restaurant and Mall are in the opposite direction from Factory which of the following statement is correct?,Mall is nearer to Factory than Restaurant,,,,Restaurant is nearer to Factory than Mall,Restaurant is nearer to Mall than Factory,Factory is at same distance from Restaurant and Mall,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Factory and Restaurant be $x$, and the distance between Factory and Mall be $y$.
+Here $x=$$650$$m$ and $y=$$300$$m$.
+Restaurant---$650$$m$--->Factory---$300$$m$--->Mall
+As we can see that the distance between Factory and Restaurant is $650$$m$, and the distance between Factory and Mall is $300$$m$.
+Since the distance between Factory and Mall $<$ distance between Factory and Restaurant
+Mall is nearer to Factory than Restaurant",
+text,text,030102,7,Supermarket is $550$ metres from Playground. Theatre is $250$ metres from Playground. Assuming Supermarket and Theatre are in the opposite direction from Playground which of the following statement is correct?,Theatre is nearer to Playground than Supermarket,,,,Supermarket is nearer to Playground than Theatre,Playground is at same distance from Supermarket and Theatre,Supermarket is nearer to Theatre than Playground,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Playground and Supermarket be $x$, and the distance between Playground and Theatre be $y$.
+Here $x=$$550$$m$ and $y=$$250$$m$.
+Supermarket---$550$$m$--->Playground---$250$$m$--->Theatre
+As we can see that the distance between Playground and Supermarket is $550$$m$, and the distance between Playground and Theatre is $250$$m$.
+Since the distance between Playground and Theatre $<$ distance between Playground and Supermarket
+Theatre is nearer to Playground than Supermarket",
+text,text,030102,7,Stationary is $50$ metres from Factory. Tuition is $950$ metres from Factory. Assuming Stationary and Tuition are in the opposite direction from Factory which of the following statement is correct?,Stationary is nearer to Factory than Tuition,,,,Tuition is nearer to Factory than Stationary,Factory is at same distance from Stationary and Tuition,Stationary is nearer to Tuition than Factory,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Factory and Stationary be $x$, and the distance between Factory and Tuition be $y$.
+Here $x=$$50$$m$ and $y=$$950$$m$.
+Stationary---$50$$m$--->Factory---$950$$m$--->Tuition
+As we can see that the distance between Factory and Stationary is $50$$m$, and the distance between Factory and Tuition is $950$$m$.
+Since the distance between Factory and Stationary $<$ distance between Factory and Tuition
+Stationary is nearer to Factory than Tuition",
+text,text,030102,7,Mall is $200$ metres from Restaurant. Theatre is $600$ metres from Restaurant. Assuming Mall and Theatre are in the opposite direction from Restaurant which of the following statement is correct?,Mall is nearer to Restaurant than Theatre,,,,Mall is nearer to Theatre than Restaurant,Restaurant is at same distance from Mall and Theatre,Theatre is nearer to Restaurant than Mall,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Restaurant and Mall be $x$, and the distance between Restaurant and Theatre be $y$.
+Here $x=$$200$$m$ and $y=$$600$$m$.
+Mall---$200$$m$--->Restaurant---$600$$m$--->Theatre
+As we can see that the distance between Restaurant and Mall is $200$$m$, and the distance between Restaurant and Theatre is $600$$m$.
+Since the distance between Restaurant and Mall $<$ distance between Restaurant and Theatre
+Mall is nearer to Restaurant than Theatre",
+text,text,030102,7,Playground is $450$ metres from Factory. Restaurant is $100$ metres from Factory. Assuming Playground and Restaurant are in the opposite direction from Factory which of the following statement is correct?,Restaurant is nearer to Factory than Playground,,,,Playground is nearer to Factory than Restaurant,Factory is at same distance from Playground and Restaurant,Playground is nearer to Restaurant than Factory,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Factory and Playground be $x$, and the distance between Factory and Restaurant be $y$.
+Here $x=$$450$$m$ and $y=$$100$$m$.
+Playground---$450$$m$--->Factory---$100$$m$--->Restaurant
+As we can see that the distance between Factory and Playground is $450$$m$, and the distance between Factory and Restaurant is $100$$m$.
+Since the distance between Factory and Restaurant $<$ distance between Factory and Playground
+Restaurant is nearer to Factory than Playground",
+text,text,030102,7,Mall is $200$ metres from Petrol Pump. Factory is $500$ metres from Petrol Pump. Assuming Mall and Factory are in the opposite direction from Petrol Pump which of the following statement is correct?,Mall is nearer to Petrol Pump than Factory,,,,Petrol Pump is at same distance from Mall and Factory,Factory is nearer to Petrol Pump than Mall,Mall is nearer to Factory than Petrol Pump,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Petrol Pump and Mall be $x$, and the distance between Petrol Pump and Factory be $y$.
+Here $x=$$200$$m$ and $y=$$500$$m$.
+Mall---$200$$m$--->Petrol Pump---$500$$m$--->Factory
+As we can see that the distance between Petrol Pump and Mall is $200$$m$, and the distance between Petrol Pump and Factory is $500$$m$.
+Since the distance between Petrol Pump and Mall $<$ distance between Petrol Pump and Factory
+Mall is nearer to Petrol Pump than Factory",
+text,text,030102,7,Restaurant is $600$ metres from Theatre. Tuition is $900$ metres from Theatre. Assuming Restaurant and Tuition are in the opposite direction from Theatre which of the following statement is correct?,Restaurant is nearer to Theatre than Tuition,,,,Restaurant is nearer to Tuition than Theatre,Theatre is at same distance from Restaurant and Tuition,Tuition is nearer to Theatre than Restaurant,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Theatre and Restaurant be $x$, and the distance between Theatre and Tuition be $y$.
+Here $x=$$600$$m$ and $y=$$900$$m$.
+Restaurant---$600$$m$--->Theatre---$900$$m$--->Tuition
+As we can see that the distance between Theatre and Restaurant is $600$$m$, and the distance between Theatre and Tuition is $900$$m$.
+Since the distance between Theatre and Restaurant $<$ distance between Theatre and Tuition
+Restaurant is nearer to Theatre than Tuition",
+text,text,030102,7,Stationary is $50$ metres from Tuition. Factory is $750$ metres from Tuition. Assuming Stationary and Factory are in the opposite direction from Tuition which of the following statement is correct?,Stationary is nearer to Tuition than Factory,,,,Factory is nearer to Tuition than Stationary,Tuition is at same distance from Stationary and Factory,Stationary is nearer to Factory than Tuition,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Tuition and Stationary be $x$, and the distance between Tuition and Factory be $y$.
+Here $x=$$50$$m$ and $y=$$750$$m$.
+Stationary---$50$$m$--->Tuition---$750$$m$--->Factory
+As we can see that the distance between Tuition and Stationary is $50$$m$, and the distance between Tuition and Factory is $750$$m$.
+Since the distance between Tuition and Stationary $<$ distance between Tuition and Factory
+Stationary is nearer to Tuition than Factory",

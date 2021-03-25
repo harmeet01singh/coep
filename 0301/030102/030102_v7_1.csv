@@ -1,0 +1,91 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,030102,7,Medicine Shop is $900$ metres from Library. Playground is $400$ metres from Library. Assuming Medicine Shop and Playground are in the same direction from Library which of the following statement is correct?,Library is nearer to Playground than Medicine Shop,,,,Medicine Shop is at same distance from Library and Playground,Medicine Shop is nearer to Playground than Library,Playground is at same distance from Library and Medicine Shop,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Library and Medicine Shop be $x$, and the distance between Library and Playground be $y$.
+Here $x=$$900$$m$ and $y=$$400$$m$.
+Library---$400$$m$--->Playground
+Library-----$900$$m$----->Medicine Shop
+Distance between Medicine Shop and Playground $= $$900$$-$$400$$ = $$500$$m$    ...([distance between Library & Medicine Shop] $-$ [distance between Library & Playground])
+Library----$400$$m$---->Playground----$500$$m$---->Medicine Shop
+As we can see that the distance between Library and Playground is $400$$m$, and the distance between Medicine Shop and Playground is $500$$m$.
+Since the distance between Library and Playground $<$ distance between Medicine Shop and Playground
+Library is nearer to Playground than Medicine Shop",
+text,text,030102,7,Bus Stop is $450$ metres from Petrol Pump. Theatre is $300$ metres from Petrol Pump. Assuming Bus Stop and Theatre are in the same direction from Petrol Pump which of the following statement is correct?,Bus Stop is nearer to Theatre than Petrol Pump,,,,Theatre is at same distance from Petrol Pump and Bus Stop,Petrol Pump is nearer to Theatre than Bus Stop,Bus Stop is at same distance from Petrol Pump and Theatre,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Petrol Pump and Bus Stop be $x$, and the distance between Petrol Pump and Theatre be $y$.
+Here $x=$$450$$m$ and $y=$$300$$m$.
+Petrol Pump---$300$$m$--->Theatre
+Petrol Pump-----$450$$m$----->Bus Stop
+Distance between Bus Stop and Theatre $= $$450$$-$$300$$ = $$150$$m$    ...([distance between Petrol Pump & Bus Stop] $-$ [distance between Petrol Pump & Theatre])
+Petrol Pump----$300$$m$---->Theatre----$150$$m$---->Bus Stop
+As we can see that the distance between Petrol Pump and Theatre is $300$$m$, and the distance between Bus Stop and Theatre is $150$$m$.
+Since the distance between Bus Stop and Theatre $<$ distance between Petrol Pump and Theatre
+Bus Stop is nearer to Theatre than Petrol Pump",
+text,text,030102,7,Petrol Pump is $550$ metres from Police Station. Supermarket is $850$ metres from Police Station. Assuming Petrol Pump and Supermarket are in the same direction from Police Station which of the following statement is correct?,Supermarket is nearer to Petrol Pump than Police Station,,,,Petrol Pump is at same distance from Police Station and Supermarket,Police Station is nearer to Petrol Pump than Supermarket,Supermarket is at same distance from Police Station and Petrol Pump,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Police Station and Petrol Pump be $x$, and the distance between Police Station and Supermarket be $y$.
+Here $x=$$550$$m$ and $y=$$850$$m$.
+Police Station---$550$$m$--->Petrol Pump
+Police Station-----$850$$m$----->Supermarket
+Distance between Petrol Pump and Supermarket $= $$850$$-$$550$$ = $$300$$m$    ...([distance between Police Station & Supermarket] $-$ [distance between Police Station & Petrol Pump])
+Police Station----$550$$m$---->Petrol Pump----$300$$m$---->Supermarket
+As we can see that the distance between Police Station and Petrol Pump is $550$$m$, and the distance between Petrol Pump and Supermarket is $300$$m$.
+Since the distance between Petrol Pump and Supermarket $<$ distance between Police Station and Petrol Pump
+Supermarket is nearer to Petrol Pump than Police Station",
+text,text,030102,7,Office is $800$ metres from Playground. Library is $900$ metres from Playground. Assuming Office and Library are in the same direction from Playground which of the following statement is correct?,Library is nearer to Office than Playground,,,,Library is at same distance from Playground and Office,Office is at same distance from Playground and Library,Playground is nearer to Office than Library,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Playground and Office be $x$, and the distance between Playground and Library be $y$.
+Here $x=$$800$$m$ and $y=$$900$$m$.
+Playground---$800$$m$--->Office
+Playground-----$900$$m$----->Library
+Distance between Office and Library $= $$900$$-$$800$$ = $$100$$m$    ...([distance between Playground & Library] $-$ [distance between Playground & Office])
+Playground----$800$$m$---->Office----$100$$m$---->Library
+As we can see that the distance between Playground and Office is $800$$m$, and the distance between Office and Library is $100$$m$.
+Since the distance between Office and Library $<$ distance between Playground and Office
+Library is nearer to Office than Playground",
+text,text,030102,7,Medicine Shop is $50$ metres from Petrol Pump. Salon is $850$ metres from Petrol Pump. Assuming Medicine Shop and Salon are in the same direction from Petrol Pump which of the following statement is correct?,Petrol Pump is nearer to Medicine Shop than Salon,,,,Salon is at same distance from Petrol Pump and Medicine Shop,Salon is nearer to Medicine Shop than Petrol Pump,Medicine Shop is at same distance from Petrol Pump and Salon,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Petrol Pump and Medicine Shop be $x$, and the distance between Petrol Pump and Salon be $y$.
+Here $x=$$50$$m$ and $y=$$850$$m$.
+Petrol Pump---$50$$m$--->Medicine Shop
+Petrol Pump-----$850$$m$----->Salon
+Distance between Medicine Shop and Salon $= $$850$$-$$50$$ = $$800$$m$    ...([distance between Petrol Pump & Salon] $-$ [distance between Petrol Pump & Medicine Shop])
+Petrol Pump----$50$$m$---->Medicine Shop----$800$$m$---->Salon
+As we can see that the distance between Petrol Pump and Medicine Shop is $50$$m$, and the distance between Medicine Shop and Salon is $800$$m$.
+Since the distance between Petrol Pump and Medicine Shop $<$ distance between Medicine Shop and Salon
+Petrol Pump is nearer to Medicine Shop than Salon",
+text,text,030102,7,Petrol Pump is $650$ metres from Playground. Medicine Shop is $150$ metres from Playground. Assuming Petrol Pump and Medicine Shop are in the same direction from Playground which of the following statement is correct?,Playground is nearer to Medicine Shop than Petrol Pump,,,,Petrol Pump is at same distance from Playground and Medicine Shop,Medicine Shop is at same distance from Playground and Petrol Pump,Petrol Pump is nearer to Medicine Shop than Playground,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Playground and Petrol Pump be $x$, and the distance between Playground and Medicine Shop be $y$.
+Here $x=$$650$$m$ and $y=$$150$$m$.
+Playground---$150$$m$--->Medicine Shop
+Playground-----$650$$m$----->Petrol Pump
+Distance between Petrol Pump and Medicine Shop $= $$650$$-$$150$$ = $$500$$m$    ...([distance between Playground & Petrol Pump] $-$ [distance between Playground & Medicine Shop])
+Playground----$150$$m$---->Medicine Shop----$500$$m$---->Petrol Pump
+As we can see that the distance between Playground and Medicine Shop is $150$$m$, and the distance between Petrol Pump and Medicine Shop is $500$$m$.
+Since the distance between Playground and Medicine Shop $<$ distance between Petrol Pump and Medicine Shop
+Playground is nearer to Medicine Shop than Petrol Pump",
+text,text,030102,7,Coffee Shop is $450$ metres from Library. Bus Stop is $350$ metres from Library. Assuming Coffee Shop and Bus Stop are in the same direction from Library which of the following statement is correct?,Coffee Shop is nearer to Bus Stop than Library,,,,Library is nearer to Bus Stop than Coffee Shop,Bus Stop is at same distance from Library and Coffee Shop,Coffee Shop is at same distance from Library and Bus Stop,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Library and Coffee Shop be $x$, and the distance between Library and Bus Stop be $y$.
+Here $x=$$450$$m$ and $y=$$350$$m$.
+Library---$350$$m$--->Bus Stop
+Library-----$450$$m$----->Coffee Shop
+Distance between Coffee Shop and Bus Stop $= $$450$$-$$350$$ = $$100$$m$    ...([distance between Library & Coffee Shop] $-$ [distance between Library & Bus Stop])
+Library----$350$$m$---->Bus Stop----$100$$m$---->Coffee Shop
+As we can see that the distance between Library and Bus Stop is $350$$m$, and the distance between Coffee Shop and Bus Stop is $100$$m$.
+Since the distance between Coffee Shop and Bus Stop $<$ distance between Library and Bus Stop
+Coffee Shop is nearer to Bus Stop than Library",
+text,text,030102,7,Bus Stop is $450$ metres from Restaurant. Tuition is $650$ metres from Restaurant. Assuming Bus Stop and Tuition are in the same direction from Restaurant which of the following statement is correct?,Tuition is nearer to Bus Stop than Restaurant,,,,Tuition is at same distance from Restaurant and Bus Stop,Restaurant is nearer to Bus Stop than Tuition,Bus Stop is at same distance from Restaurant and Tuition,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Restaurant and Bus Stop be $x$, and the distance between Restaurant and Tuition be $y$.
+Here $x=$$450$$m$ and $y=$$650$$m$.
+Restaurant---$450$$m$--->Bus Stop
+Restaurant-----$650$$m$----->Tuition
+Distance between Bus Stop and Tuition $= $$650$$-$$450$$ = $$200$$m$    ...([distance between Restaurant & Tuition] $-$ [distance between Restaurant & Bus Stop])
+Restaurant----$450$$m$---->Bus Stop----$200$$m$---->Tuition
+As we can see that the distance between Restaurant and Bus Stop is $450$$m$, and the distance between Bus Stop and Tuition is $200$$m$.
+Since the distance between Bus Stop and Tuition $<$ distance between Restaurant and Bus Stop
+Tuition is nearer to Bus Stop than Restaurant",
+text,text,030102,7,Theatre is $900$ metres from Mall. School is $300$ metres from Mall. Assuming Theatre and School are in the same direction from Mall which of the following statement is correct?,Mall is nearer to School than Theatre,,,,Theatre is at same distance from Mall and School,School is at same distance from Mall and Theatre,Theatre is nearer to School than Mall,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Mall and Theatre be $x$, and the distance between Mall and School be $y$.
+Here $x=$$900$$m$ and $y=$$300$$m$.
+Mall---$300$$m$--->School
+Mall-----$900$$m$----->Theatre
+Distance between Theatre and School $= $$900$$-$$300$$ = $$600$$m$    ...([distance between Mall & Theatre] $-$ [distance between Mall & School])
+Mall----$300$$m$---->School----$600$$m$---->Theatre
+As we can see that the distance between Mall and School is $300$$m$, and the distance between Theatre and School is $600$$m$.
+Since the distance between Mall and School $<$ distance between Theatre and School
+Mall is nearer to School than Theatre",
+text,text,030102,7,Stationary is $450$ metres from Tuition. Supermarket is $400$ metres from Tuition. Assuming Stationary and Supermarket are in the same direction from Tuition which of the following statement is correct?,Stationary is nearer to Supermarket than Tuition,,,,Stationary is at same distance from Tuition and Supermarket,Supermarket is at same distance from Tuition and Stationary,Tuition is nearer to Supermarket than Stationary,60,3,,2016.mohit.kale@ves.ac.in,"Let the distance between Tuition and Stationary be $x$, and the distance between Tuition and Supermarket be $y$.
+Here $x=$$450$$m$ and $y=$$400$$m$.
+Tuition---$400$$m$--->Supermarket
+Tuition-----$450$$m$----->Stationary
+Distance between Stationary and Supermarket $= $$450$$-$$400$$ = $$50$$m$    ...([distance between Tuition & Stationary] $-$ [distance between Tuition & Supermarket])
+Tuition----$400$$m$---->Supermarket----$50$$m$---->Stationary
+As we can see that the distance between Tuition and Supermarket is $400$$m$, and the distance between Stationary and Supermarket is $50$$m$.
+Since the distance between Stationary and Supermarket $<$ distance between Tuition and Supermarket
+Stationary is nearer to Supermarket than Tuition",
