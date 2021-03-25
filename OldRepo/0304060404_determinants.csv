@@ -1,14 +1,14 @@
 Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
-text,text,0304060404,v5,"
+text,1,0304060404,v5,"
 ====================Question====================
         
 Solve the following equations using Determinants method (cramer's rule)
         
-Equation 1 -> -16x + -19y = -35
+Equation 1 -> 21x + -29y = -8
         
-Equation 2 -> 37x + -10y = 27
+Equation 2 -> 31x + -3y = 28
         
----------------------------------------------------------------------------------------------------","[1, 1]",,,,"[1, 0]","[-1, -1]","[0, 1]",60,3,,,"
+---------------------------------------------------------------------------------------------------","[1, 1]",,,,"[-1, -1]","[0, -1]","[-1, 0]",60,3,,,"
 ====================Solution====================
             
 First calculate value of Determinant D with
@@ -19,14 +19,14 @@ D =
 |      |
 |a2  b2| 
             
-|-16  -19|
+| 21  -29|
 |        |
-| 37  -10|
+| 31   -3|
             
 D = (a1 x b2) - (a2 x b1) 
- = (-16 x -10) - (37 x -19) 
- = (160) - (-703) 
- = 862 
+ = (21 x -3) - (31 x -29) 
+ = (-63) - (-899) 
+ = 836 
         
             
 Then calculate value of Determinant Dx with
@@ -37,14 +37,14 @@ Dx =
 |      |
 |c2  b2|
             
-|-35  -19|
+| -8  -29|
 |        |
-| 27  -10|
+| 28   -3|
             
 Dx = (c1 x b2) - (c2 x b1) 
- = (-35 x -10) - (27 x -19) 
- = (350) - (-513) 
- = 862 
+ = (-8 x -3) - (28 x -29) 
+ = (24) - (-812) 
+ = 836 
         
             
 Finally calculate value of Determinant Dy with
@@ -55,24 +55,24 @@ Dy =
 |      |
 |a2  c2|
             
-|-16  -35|
+| 21   -8|
 |        |
-| 37   27|
+| 31   28|
             
 Dy = (a1 x c2) - (a2 x c1) 
- = (-16 x 27) - (37 x -35) 
- = (-432) - (-1295) 
- = 862 
+ = (21 x 28) - (31 x -8) 
+ = (588) - (-248) 
+ = 836 
         
             
 Divide Dx with D to obtain x
             
- x = Dx / D = (862)/(862) = 1 
+ x = Dx / D = (836)/(836) = 1 
         
             
 Divide Dy with D to obtain y
             
- y = Dy / D = (862)/(862) = 1 
+ y = Dy / D = (836)/(836) = 1 
         
 --------------------------------
 The correct answer is -
@@ -80,16 +80,16 @@ The correct answer is -
 x: 1
             
 y: 1",
-text,text,0304060404,v5,"
+text,1,0304060404,v5,"
 ====================Question====================
         
 Solve the following equations using Determinants method (cramer's rule)
         
-Equation 1 -> 12x + -21y = 33
+Equation 1 -> 6x + 37y = 29
         
-Equation 2 -> -21x + 20y = -41
+Equation 2 -> -3x + 4y = -37
         
----------------------------------------------------------------------------------------------------","[1, -1]",,,,"[-1, 1]","[5, -4]","[-4, 5]",60,3,,,"
+---------------------------------------------------------------------------------------------------","[11, -1]",,,,"[-7, 9]","[9, -7]","[-11, 1]",60,3,,,"
 ====================Solution====================
             
 First calculate value of Determinant D with
@@ -100,14 +100,14 @@ D =
 |      |
 |a2  b2| 
             
-| 12  -21|
+|  6   37|
 |        |
-|-21   20|
+| -3    4|
             
 D = (a1 x b2) - (a2 x b1) 
- = (12 x 20) - (-21 x -21) 
- = (240) - (441) 
- = -201 
+ = (6 x 4) - (-3 x 37) 
+ = (24) - (-111) 
+ = 134 
         
             
 Then calculate value of Determinant Dx with
@@ -118,14 +118,14 @@ Dx =
 |      |
 |c2  b2|
             
-| 33  -21|
+| 29   37|
 |        |
-|-41   20|
+|-37    4|
             
 Dx = (c1 x b2) - (c2 x b1) 
- = (33 x 20) - (-41 x -21) 
- = (660) - (861) 
- = -201 
+ = (29 x 4) - (-37 x 37) 
+ = (116) - (-1369) 
+ = 1484 
         
             
 Finally calculate value of Determinant Dy with
@@ -136,41 +136,41 @@ Dy =
 |      |
 |a2  c2|
             
-| 12   33|
+|  6   29|
 |        |
-|-21  -41|
+| -3  -37|
             
 Dy = (a1 x c2) - (a2 x c1) 
- = (12 x -41) - (-21 x 33) 
- = (-492) - (-693) 
- = 201 
+ = (6 x -37) - (-3 x 29) 
+ = (-222) - (-87) 
+ = -134 
         
             
 Divide Dx with D to obtain x
             
- x = Dx / D = (-201)/(-201) = 1 
+ x = Dx / D = (1484)/(134) = 11 
         
             
 Divide Dy with D to obtain y
             
- y = Dy / D = (201)/(-201) = -1 
+ y = Dy / D = (-134)/(134) = -1 
         
 --------------------------------
 The correct answer is -
             
-x: 1
+x: 11
             
 y: -1",
-text,text,0304060404,v5,"
+text,1,0304060404,v5,"
 ====================Question====================
         
 Solve the following equations using Determinants method (cramer's rule)
         
-Equation 1 -> 42x + 42y = 0
+Equation 1 -> 25x + 7y = -11
         
-Equation 2 -> 14x + 45y = -31
+Equation 2 -> -14x + 3y = 20
         
----------------------------------------------------------------------------------------------------","[1, -1]",,,,"[0, 1]","[1, 0]","[-1, 1]",60,3,,,"
+---------------------------------------------------------------------------------------------------","[-1, 2]",,,,"[1, 0]","[1, -2]","[-2, 1]",60,3,,,"
 ====================Solution====================
             
 First calculate value of Determinant D with
@@ -181,14 +181,14 @@ D =
 |      |
 |a2  b2| 
             
-| 42   42|
+| 25    7|
 |        |
-| 14   45|
+|-14    3|
             
 D = (a1 x b2) - (a2 x b1) 
- = (42 x 45) - (14 x 42) 
- = (1890) - (588) 
- = 1302 
+ = (25 x 3) - (-14 x 7) 
+ = (75) - (-98) 
+ = 172 
         
             
 Then calculate value of Determinant Dx with
@@ -199,14 +199,14 @@ Dx =
 |      |
 |c2  b2|
             
-|  0   42|
+|-11    7|
 |        |
-|-31   45|
+| 20    3|
             
 Dx = (c1 x b2) - (c2 x b1) 
- = (0 x 45) - (-31 x 42) 
- = (0) - (-1302) 
- = 1302 
+ = (-11 x 3) - (20 x 7) 
+ = (-33) - (140) 
+ = -172 
         
             
 Finally calculate value of Determinant Dy with
@@ -217,122 +217,41 @@ Dy =
 |      |
 |a2  c2|
             
-| 42    0|
+| 25  -11|
 |        |
-| 14  -31|
+|-14   20|
             
 Dy = (a1 x c2) - (a2 x c1) 
- = (42 x -31) - (14 x 0) 
- = (-1302) - (0) 
- = -1302 
+ = (25 x 20) - (-14 x -11) 
+ = (500) - (154) 
+ = 345 
         
             
 Divide Dx with D to obtain x
             
- x = Dx / D = (1302)/(1302) = 1 
+ x = Dx / D = (-172)/(172) = -1 
         
             
 Divide Dy with D to obtain y
             
- y = Dy / D = (-1302)/(1302) = -1 
-        
---------------------------------
-The correct answer is -
-            
-x: 1
-            
-y: -1",
-text,text,0304060404,v5,"
-====================Question====================
-        
-Solve the following equations using Determinants method (cramer's rule)
-        
-Equation 1 -> -30x + 37y = -7
-        
-Equation 2 -> 39x + -5y = -34
-        
----------------------------------------------------------------------------------------------------","[-1, -1]",,,,"[0, -1]","[-1, 0]","[1, 1]",60,3,,,"
-====================Solution====================
-            
-First calculate value of Determinant D with
-            
-D = 
-            
-|a1  b1|
-|      |
-|a2  b2| 
-            
-|-30   37|
-|        |
-| 39   -5|
-            
-D = (a1 x b2) - (a2 x b1) 
- = (-30 x -5) - (39 x 37) 
- = (150) - (1443) 
- = -1293 
-        
-            
-Then calculate value of Determinant Dx with
-            
-Dx =
-            
-|c1  b1|
-|      |
-|c2  b2|
-            
-| -7   37|
-|        |
-|-34   -5|
-            
-Dx = (c1 x b2) - (c2 x b1) 
- = (-7 x -5) - (-34 x 37) 
- = (35) - (-1258) 
- = 1293 
-        
-            
-Finally calculate value of Determinant Dy with
-            
-Dy =
-            
-|a1  c1|
-|      |
-|a2  c2|
-            
-|-30   -7|
-|        |
-| 39  -34|
-            
-Dy = (a1 x c2) - (a2 x c1) 
- = (-30 x -34) - (39 x -7) 
- = (1020) - (-273) 
- = 1293 
-        
-            
-Divide Dx with D to obtain x
-            
- x = Dx / D = (1293)/(-1293) = -1 
-        
-            
-Divide Dy with D to obtain y
-            
- y = Dy / D = (1293)/(-1293) = -1 
+ y = Dy / D = (345)/(172) = 2 
         
 --------------------------------
 The correct answer is -
             
 x: -1
             
-y: -1",
-text,text,0304060404,v5,"
+y: 2",
+text,1,0304060404,v5,"
 ====================Question====================
         
 Solve the following equations using Determinants method (cramer's rule)
         
-Equation 1 -> -32x + -2y = 30
+Equation 1 -> -29x + 13y = 42
         
-Equation 2 -> 21x + 4y = -17
+Equation 2 -> -15x + -33y = -18
         
----------------------------------------------------------------------------------------------------","[-1, 1]",,,,"[1, -1]","[-5, -1]","[-1, 1]",60,3,,,"
+---------------------------------------------------------------------------------------------------","[-1, 1]",,,,"[-1, 0]","[0, 0]","[0, -1]",60,3,,,"
 ====================Solution====================
             
 First calculate value of Determinant D with
@@ -343,14 +262,14 @@ D =
 |      |
 |a2  b2| 
             
-|-32   -2|
+|-29   13|
 |        |
-| 21    4|
+|-15  -33|
             
 D = (a1 x b2) - (a2 x b1) 
- = (-32 x 4) - (21 x -2) 
- = (-128) - (-42) 
- = -85 
+ = (-29 x -33) - (-15 x 13) 
+ = (957) - (-195) 
+ = 1152 
         
             
 Then calculate value of Determinant Dx with
@@ -361,14 +280,14 @@ Dx =
 |      |
 |c2  b2|
             
-| 30   -2|
+| 42   13|
 |        |
-|-17    4|
+|-18  -33|
             
 Dx = (c1 x b2) - (c2 x b1) 
- = (30 x 4) - (-17 x -2) 
- = (120) - (34) 
- = 85 
+ = (42 x -33) - (-18 x 13) 
+ = (-1386) - (-234) 
+ = -1152 
         
             
 Finally calculate value of Determinant Dy with
@@ -379,24 +298,24 @@ Dy =
 |      |
 |a2  c2|
             
-|-32   30|
+|-29   42|
 |        |
-| 21  -17|
+|-15  -18|
             
 Dy = (a1 x c2) - (a2 x c1) 
- = (-32 x -17) - (21 x 30) 
- = (544) - (630) 
- = -85 
+ = (-29 x -18) - (-15 x 42) 
+ = (522) - (-630) 
+ = 1152 
         
             
 Divide Dx with D to obtain x
             
- x = Dx / D = (85)/(-85) = -1 
+ x = Dx / D = (-1152)/(1152) = -1 
         
             
 Divide Dy with D to obtain y
             
- y = Dy / D = (-85)/(-85) = 1 
+ y = Dy / D = (1152)/(1152) = 1 
         
 --------------------------------
 The correct answer is -
@@ -404,16 +323,16 @@ The correct answer is -
 x: -1
             
 y: 1",
-text,text,0304060404,v5,"
+text,1,0304060404,v5,"
 ====================Question====================
         
 Solve the following equations using Determinants method (cramer's rule)
         
-Equation 1 -> -8x + -41y = 1
+Equation 1 -> 4x + -24y = 20
         
-Equation 2 -> -1x + 2y = -7
+Equation 2 -> -45x + 11y = 34
         
----------------------------------------------------------------------------------------------------","[5, -1]",,,,"[1, 0]","[-1, 5]","[1, -5]",60,3,,,"
+---------------------------------------------------------------------------------------------------","[-1, -1]",,,,"[0, 0]","[0, 0]","[1, 1]",60,3,,,"
 ====================Solution====================
             
 First calculate value of Determinant D with
@@ -424,14 +343,14 @@ D =
 |      |
 |a2  b2| 
             
-| -8  -41|
+|  4  -24|
 |        |
-| -1    2|
+|-45   11|
             
 D = (a1 x b2) - (a2 x b1) 
- = (-8 x 2) - (-1 x -41) 
- = (-16) - (41) 
- = -57 
+ = (4 x 11) - (-45 x -24) 
+ = (44) - (1080) 
+ = -1035 
         
             
 Then calculate value of Determinant Dx with
@@ -442,14 +361,14 @@ Dx =
 |      |
 |c2  b2|
             
-|  1  -41|
+| 20  -24|
 |        |
-| -7    2|
+| 34   11|
             
 Dx = (c1 x b2) - (c2 x b1) 
- = (1 x 2) - (-7 x -41) 
- = (2) - (287) 
- = -285 
+ = (20 x 11) - (34 x -24) 
+ = (220) - (-816) 
+ = 1035 
         
             
 Finally calculate value of Determinant Dy with
@@ -460,41 +379,41 @@ Dy =
 |      |
 |a2  c2|
             
-| -8    1|
+|  4   20|
 |        |
-| -1   -7|
+|-45   34|
             
 Dy = (a1 x c2) - (a2 x c1) 
- = (-8 x -7) - (-1 x 1) 
- = (56) - (-1) 
- = 57 
+ = (4 x 34) - (-45 x 20) 
+ = (136) - (-900) 
+ = 1035 
         
             
 Divide Dx with D to obtain x
             
- x = Dx / D = (-285)/(-57) = 5 
+ x = Dx / D = (1035)/(-1035) = -1 
         
             
 Divide Dy with D to obtain y
             
- y = Dy / D = (57)/(-57) = -1 
+ y = Dy / D = (1035)/(-1035) = -1 
         
 --------------------------------
 The correct answer is -
             
-x: 5
+x: -1
             
 y: -1",
-text,text,0304060404,v5,"
+text,1,0304060404,v5,"
 ====================Question====================
         
 Solve the following equations using Determinants method (cramer's rule)
         
-Equation 1 -> 16x + -22y = 12
+Equation 1 -> -32x + -40y = 8
         
-Equation 2 -> -39x + 44y = -10
+Equation 2 -> -22x + -32y = 10
         
----------------------------------------------------------------------------------------------------","[-2, -2]",,,,"[1, 2]","[2, 1]","[5, -3]",60,3,,,"
+---------------------------------------------------------------------------------------------------","[1, -1]",,,,"[-1, 1]","[-4, 8]","[8, -4]",60,3,,,"
 ====================Solution====================
             
 First calculate value of Determinant D with
@@ -505,14 +424,14 @@ D =
 |      |
 |a2  b2| 
             
-| 16  -22|
+|-32  -40|
 |        |
-|-39   44|
+|-22  -32|
             
 D = (a1 x b2) - (a2 x b1) 
- = (16 x 44) - (-39 x -22) 
- = (704) - (858) 
- = -154 
+ = (-32 x -32) - (-22 x -40) 
+ = (1024) - (880) 
+ = 144 
         
             
 Then calculate value of Determinant Dx with
@@ -523,14 +442,14 @@ Dx =
 |      |
 |c2  b2|
             
-| 12  -22|
+|  8  -40|
 |        |
-|-10   44|
+| 10  -32|
             
 Dx = (c1 x b2) - (c2 x b1) 
- = (12 x 44) - (-10 x -22) 
- = (528) - (220) 
- = 308 
+ = (8 x -32) - (10 x -40) 
+ = (-256) - (-400) 
+ = 144 
         
             
 Finally calculate value of Determinant Dy with
@@ -541,41 +460,203 @@ Dy =
 |      |
 |a2  c2|
             
-| 16   12|
+|-32    8|
 |        |
-|-39  -10|
+|-22   10|
             
 Dy = (a1 x c2) - (a2 x c1) 
- = (16 x -10) - (-39 x 12) 
- = (-160) - (-468) 
- = 308 
+ = (-32 x 10) - (-22 x 8) 
+ = (-320) - (-176) 
+ = -144 
         
             
 Divide Dx with D to obtain x
             
- x = Dx / D = (308)/(-154) = -2 
+ x = Dx / D = (144)/(144) = 1 
         
             
 Divide Dy with D to obtain y
             
- y = Dy / D = (308)/(-154) = -2 
+ y = Dy / D = (-144)/(144) = -1 
+        
+--------------------------------
+The correct answer is -
+            
+x: 1
+            
+y: -1",
+text,1,0304060404,v5,"
+====================Question====================
+        
+Solve the following equations using Determinants method (cramer's rule)
+        
+Equation 1 -> 16x + 0y = 16
+        
+Equation 2 -> -44x + 2y = -2
+        
+---------------------------------------------------------------------------------------------------","[1, 21]",,,,"[-21, -1]","[21, 1]","[21, 1]",60,3,,,"
+====================Solution====================
+            
+First calculate value of Determinant D with
+            
+D = 
+            
+|a1  b1|
+|      |
+|a2  b2| 
+            
+| 16    0|
+|        |
+|-44    2|
+            
+D = (a1 x b2) - (a2 x b1) 
+ = (16 x 2) - (-44 x 0) 
+ = (32) - (0) 
+ = 32 
+        
+            
+Then calculate value of Determinant Dx with
+            
+Dx =
+            
+|c1  b1|
+|      |
+|c2  b2|
+            
+| 16    0|
+|        |
+| -2    2|
+            
+Dx = (c1 x b2) - (c2 x b1) 
+ = (16 x 2) - (-2 x 0) 
+ = (32) - (0) 
+ = 32 
+        
+            
+Finally calculate value of Determinant Dy with
+            
+Dy =
+            
+|a1  c1|
+|      |
+|a2  c2|
+            
+| 16   16|
+|        |
+|-44   -2|
+            
+Dy = (a1 x c2) - (a2 x c1) 
+ = (16 x -2) - (-44 x 16) 
+ = (-32) - (-704) 
+ = 672 
+        
+            
+Divide Dx with D to obtain x
+            
+ x = Dx / D = (32)/(32) = 1 
+        
+            
+Divide Dy with D to obtain y
+            
+ y = Dy / D = (672)/(32) = 21 
+        
+--------------------------------
+The correct answer is -
+            
+x: 1
+            
+y: 21",
+text,1,0304060404,v5,"
+====================Question====================
+        
+Solve the following equations using Determinants method (cramer's rule)
+        
+Equation 1 -> -6x + -42y = -30
+        
+Equation 2 -> -12x + -21y = 3
+        
+---------------------------------------------------------------------------------------------------","[-2, 1]",,,,"[0, -2]","[2, -1]","[-1, 2]",60,3,,,"
+====================Solution====================
+            
+First calculate value of Determinant D with
+            
+D = 
+            
+|a1  b1|
+|      |
+|a2  b2| 
+            
+| -6  -42|
+|        |
+|-12  -21|
+            
+D = (a1 x b2) - (a2 x b1) 
+ = (-6 x -21) - (-12 x -42) 
+ = (126) - (504) 
+ = -378 
+        
+            
+Then calculate value of Determinant Dx with
+            
+Dx =
+            
+|c1  b1|
+|      |
+|c2  b2|
+            
+|-30  -42|
+|        |
+|  3  -21|
+            
+Dx = (c1 x b2) - (c2 x b1) 
+ = (-30 x -21) - (3 x -42) 
+ = (630) - (-126) 
+ = 756 
+        
+            
+Finally calculate value of Determinant Dy with
+            
+Dy =
+            
+|a1  c1|
+|      |
+|a2  c2|
+            
+| -6  -30|
+|        |
+|-12    3|
+            
+Dy = (a1 x c2) - (a2 x c1) 
+ = (-6 x 3) - (-12 x -30) 
+ = (-18) - (360) 
+ = -378 
+        
+            
+Divide Dx with D to obtain x
+            
+ x = Dx / D = (756)/(-378) = -2 
+        
+            
+Divide Dy with D to obtain y
+            
+ y = Dy / D = (-378)/(-378) = 1 
         
 --------------------------------
 The correct answer is -
             
 x: -2
             
-y: -2",
-text,text,0304060404,v5,"
+y: 1",
+text,1,0304060404,v5,"
 ====================Question====================
         
 Solve the following equations using Determinants method (cramer's rule)
         
-Equation 1 -> 48x + 12y = 36
+Equation 1 -> 0x + -20y = 20
         
-Equation 2 -> -4x + 4y = -8
+Equation 2 -> 1x + 31y = 19
         
----------------------------------------------------------------------------------------------------","[1, -1]",,,,"[-1, 1]","[1, 0]","[1, -1]",60,3,,,"
+---------------------------------------------------------------------------------------------------","[50, -1]",,,,"[-50, 18]","[-1, 50]","[-50, 1]",60,3,,,"
 ====================Solution====================
             
 First calculate value of Determinant D with
@@ -586,14 +667,14 @@ D =
 |      |
 |a2  b2| 
             
-| 48   12|
+|  0  -20|
 |        |
-| -4    4|
+|  1   31|
             
 D = (a1 x b2) - (a2 x b1) 
- = (48 x 4) - (-4 x 12) 
- = (192) - (-48) 
- = 239 
+ = (0 x 31) - (1 x -20) 
+ = (0) - (-20) 
+ = 19 
         
             
 Then calculate value of Determinant Dx with
@@ -604,14 +685,14 @@ Dx =
 |      |
 |c2  b2|
             
-| 36   12|
+| 20  -20|
 |        |
-| -8    4|
+| 19   31|
             
 Dx = (c1 x b2) - (c2 x b1) 
- = (36 x 4) - (-8 x 12) 
- = (144) - (-96) 
- = 239 
+ = (20 x 31) - (19 x -20) 
+ = (620) - (-380) 
+ = 999 
         
             
 Finally calculate value of Determinant Dy with
@@ -622,41 +703,41 @@ Dy =
 |      |
 |a2  c2|
             
-| 48   36|
+|  0   20|
 |        |
-| -4   -8|
+|  1   19|
             
 Dy = (a1 x c2) - (a2 x c1) 
- = (48 x -8) - (-4 x 36) 
- = (-384) - (-144) 
- = -239 
+ = (0 x 19) - (1 x 20) 
+ = (0) - (20) 
+ = -19 
         
             
 Divide Dx with D to obtain x
             
- x = Dx / D = (239)/(239) = 1 
+ x = Dx / D = (999)/(19) = 52 
         
             
 Divide Dy with D to obtain y
             
- y = Dy / D = (-239)/(239) = -1 
+ y = Dy / D = (-19)/(19) = -1 
         
 --------------------------------
 The correct answer is -
             
-x: 1
+x: 50
             
 y: -1",
-text,text,0304060404,v5,"
+text,1,0304060404,v5,"
 ====================Question====================
         
 Solve the following equations using Determinants method (cramer's rule)
         
-Equation 1 -> 16x + 26y = 10
+Equation 1 -> 7x + -30y = -37
         
-Equation 2 -> 17x + -10y = -27
+Equation 2 -> 0x + -30y = -30
         
----------------------------------------------------------------------------------------------------","[-1, 1]",,,,"[1, -1]","[0, 0]","[-1, 1]",60,3,,,"
+---------------------------------------------------------------------------------------------------","[-1, 1]",,,,"[1, -5]","[1, -1]","[-1, 1]",60,3,,,"
 ====================Solution====================
             
 First calculate value of Determinant D with
@@ -667,14 +748,14 @@ D =
 |      |
 |a2  b2| 
             
-| 16   26|
+|  7  -30|
 |        |
-| 17  -10|
+|  0  -30|
             
 D = (a1 x b2) - (a2 x b1) 
- = (16 x -10) - (17 x 26) 
- = (-160) - (442) 
- = -601 
+ = (7 x -30) - (0 x -30) 
+ = (-210) - (0) 
+ = -209 
         
             
 Then calculate value of Determinant Dx with
@@ -685,14 +766,14 @@ Dx =
 |      |
 |c2  b2|
             
-| 10   26|
+|-37  -30|
 |        |
-|-27  -10|
+|-30  -30|
             
 Dx = (c1 x b2) - (c2 x b1) 
- = (10 x -10) - (-27 x 26) 
- = (-100) - (-702) 
- = 601 
+ = (-37 x -30) - (-30 x -30) 
+ = (1110) - (900) 
+ = 209 
         
             
 Finally calculate value of Determinant Dy with
@@ -703,24 +784,24 @@ Dy =
 |      |
 |a2  c2|
             
-| 16   10|
+|  7  -37|
 |        |
-| 17  -27|
+|  0  -30|
             
 Dy = (a1 x c2) - (a2 x c1) 
- = (16 x -27) - (17 x 10) 
- = (-432) - (170) 
- = -601 
+ = (7 x -30) - (0 x -37) 
+ = (-210) - (0) 
+ = -209 
         
             
 Divide Dx with D to obtain x
             
- x = Dx / D = (601)/(-601) = -1 
+ x = Dx / D = (209)/(-209) = -1 
         
             
 Divide Dy with D to obtain y
             
- y = Dy / D = (-601)/(-601) = 1 
+ y = Dy / D = (-209)/(-209) = 1 
         
 --------------------------------
 The correct answer is -
@@ -728,84 +809,3 @@ The correct answer is -
 x: -1
             
 y: 1",
-text,text,0304060404,v5,"
-====================Question====================
-        
-Solve the following equations using Determinants method (cramer's rule)
-        
-Equation 1 -> -34x + -26y = -40
-        
-Equation 2 -> -47x + -46y = -5
-        
----------------------------------------------------------------------------------------------------","[5, -5]",,,,"[5, -5]","[2, -4]","[-5, 5]",60,3,,,"
-====================Solution====================
-            
-First calculate value of Determinant D with
-            
-D = 
-            
-|a1  b1|
-|      |
-|a2  b2| 
-            
-|-34  -26|
-|        |
-|-47  -46|
-            
-D = (a1 x b2) - (a2 x b1) 
- = (-34 x -46) - (-47 x -26) 
- = (1564) - (1222) 
- = 341 
-        
-            
-Then calculate value of Determinant Dx with
-            
-Dx =
-            
-|c1  b1|
-|      |
-|c2  b2|
-            
-|-40  -26|
-|        |
-| -5  -46|
-            
-Dx = (c1 x b2) - (c2 x b1) 
- = (-40 x -46) - (-5 x -26) 
- = (1840) - (130) 
- = 1709 
-        
-            
-Finally calculate value of Determinant Dy with
-            
-Dy =
-            
-|a1  c1|
-|      |
-|a2  c2|
-            
-|-34  -40|
-|        |
-|-47   -5|
-            
-Dy = (a1 x c2) - (a2 x c1) 
- = (-34 x -5) - (-47 x -40) 
- = (170) - (1880) 
- = -1709 
-        
-            
-Divide Dx with D to obtain x
-            
- x = Dx / D = (1709)/(341) = 5 
-        
-            
-Divide Dy with D to obtain y
-            
- y = Dy / D = (-1709)/(341) = -5 
-        
---------------------------------
-The correct answer is -
-            
-x: 5
-            
-y: -5",

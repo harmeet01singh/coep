@@ -6,12 +6,8 @@ import numpy as np
 import random as rd
 import warnings
 import csv
-import sys
-#from csv_module import store_csv
-import store_csv
+from csv_latex.csv import database_fn,putInCsv
 
-#CSV code
-csvobj = store_csv.store_csv()
 
 #from coep_csv import store_csv
 #to ignore divide by zero warning
@@ -204,7 +200,8 @@ def main_function():
     Corr_a= options.pop(corr_op_index)
     wrong_a1,wrong_a2,wrong_a3=options
 
-    database_dict= csvobj.database_fn(
+    database_dict= database_fn(
+        Answer_Type='1',
         Topic_Number=Tn,
         Variation=Vn,
         Question=Question,
@@ -216,8 +213,9 @@ def main_function():
     )
     return database_dict
 
-csvobj.putInCsv(
-    NumberOfIterations=10,
-    main_function=main_function,
-    filename=__file__
+putInCsv(
+    Topic_Number='0304060404',
+    Number_Of_Iterations=10,
+    Main_Function=main_function,
+    Filename=__file__
 )
