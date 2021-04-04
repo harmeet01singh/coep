@@ -1,0 +1,121 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030202,v1,"
+
+Atharva had $110$ bananas. He distributes all bananas evenly among $10$ friends.How many bananas did Atharva gave to each of his friends?Let each friend of Atharva gets $k$ bananas.Select the correct statements from below.<br>",$(10\times k)\div 10 = 110\div10 $,,,,$k+10 = 110+10 $,$10 \times k = 110 \times 10 $,$k-10 = 110-10 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Atharva gets $k$ bananas.<br>
+            
+Now, total 110 bananas had been distributed among 10 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $10k = 110$<br>
+            
+$10k\div10 = 110\div10$ 	   (Dividing both sides by 10)",
+text,1,030202,v1,"
+
+Disha baked $51$ cookies and distributed them equally into $17$ packs. How many cookies did Disha put in each packet?Let Disha put $k$ cookies in each packet.Select the correct statements from below.<br>",$(17\times k)\div 17 = 51\div17 $,,,,$k+17 = 51+17 $,$17 \times k = 51 \times 17 $,$k-17 = 51-17 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Disha put $k$ cookies in each packet.<br>
+            
+Now, total 51 cookies had been distributed into 17 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $17k = 51$<br>
+            
+$17k\div17 = 51\div17$ 	   (Dividing both sides by 17)",
+text,1,030202,v1,"
+
+Lalit baked $159$ cookies and distributed them equally into $3$ packs. How many cookies did Lalit put in each packet?Let Lalit put $k$ cookies in each packet.Select the correct statements from below.<br>",$(3\times k)\div 3 = 159\div3 $,,,,$k+3 = 159+3 $,$3 \times k = 159 \times 3 $,$k-3 = 159-3 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Lalit put $k$ cookies in each packet.<br>
+            
+Now, total 159 cookies had been distributed into 3 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $3k = 159$<br>
+            
+$3k\div3 = 159\div3$ 	   (Dividing both sides by 3)",
+text,1,030202,v1,"
+
+Tina baked $120$ cookies and distributed them equally into $12$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(12\times k)\div 12 = 120\div12 $,,,,$k+12 = 120+12 $,$12 \times k = 120 \times 12 $,$k-12 = 120-12 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 120 cookies had been distributed into 12 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $12k = 120$<br>
+            
+$12k\div12 = 120\div12$ 	   (Dividing both sides by 12)",
+text,1,030202,v1,"
+
+Tina baked $160$ cookies and splitted them equally into $5$ packs. How many cookies did Tina put in each packet?Let Tina put $k$ cookies in each packet.Select the correct statements from below.<br>",$(5\times k)\div 5 = 160\div5 $,,,,$k+5 = 160+5 $,$5 \times k = 160 \times 5 $,$k-5 = 160-5 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Tina put $k$ cookies in each packet.<br>
+            
+Now, total 160 cookies had been splitted into 5 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $5k = 160$<br>
+            
+$5k\div5 = 160\div5$ 	   (Dividing both sides by 5)",
+text,1,030202,v1,"
+
+Suresh had $136$ rasgullas. He distributes all rasgullas evenly among $2$ friends.How many rasgullas did Suresh gave to each of his friends?Let each friend of Suresh gets $k$ rasgullas.Select the correct statements from below.<br>",$(2\times k)\div 2 = 136\div2 $,,,,$k+2 = 136+2 $,$2 \times k = 136 \times 2 $,$k-2 = 136-2 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Suresh gets $k$ rasgullas.<br>
+            
+Now, total 136 rasgullas had been distributed among 2 friends and each one got $k$ number of rasgullas .<br>
+            
+Then according to given conditions we get this equation :-<br> $2k = 136$<br>
+            
+$2k\div2 = 136\div2$ 	   (Dividing both sides by 2)",
+text,1,030202,v1,"
+
+Geeta baked $106$ cookies and distributed them equally into $53$ packs. How many cookies did Geeta put in each packet?Let Geeta put $k$ cookies in each packet.Select the correct statements from below.<br>",$(53\times k)\div 53 = 106\div53 $,,,,$k+53 = 106+53 $,$53 \times k = 106 \times 53 $,$k-53 = 106-53 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Geeta put $k$ cookies in each packet.<br>
+            
+Now, total 106 cookies had been distributed into 53 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $53k = 106$<br>
+            
+$53k\div53 = 106\div53$ 	   (Dividing both sides by 53)",
+text,1,030202,v1,"
+
+Suresh had $105$ bananas. He distributes all bananas evenly among $21$ friends.How many bananas did Suresh gave to each of his friends?Let each friend of Suresh gets $k$ bananas.Select the correct statements from below.<br>",$(21\times k)\div 21 = 105\div21 $,,,,$k+21 = 105+21 $,$21 \times k = 105 \times 21 $,$k-21 = 105-21 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Suresh gets $k$ bananas.<br>
+            
+Now, total 105 bananas had been distributed among 21 friends and each one got $k$ number of bananas .<br>
+            
+Then according to given conditions we get this equation :-<br> $21k = 105$<br>
+            
+$21k\div21 = 105\div21$ 	   (Dividing both sides by 21)",
+text,1,030202,v1,"
+
+Tina had $160$ pedhas. She distributes all pedhas evenly among $8$ friends.How many pedhas did Tina gave to each of her friends?Let each friend of Tina gets $k$ pedhas.Select the correct statements from below.<br>",$(8\times k)\div 8 = 160\div8 $,,,,$k+8 = 160+8 $,$8 \times k = 160 \times 8 $,$k-8 = 160-8 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let each friend of Tina gets $k$ pedhas.<br>
+            
+Now, total 160 pedhas had been distributed among 8 friends and each one got $k$ number of pedhas .<br>
+            
+Then according to given conditions we get this equation :-<br> $8k = 160$<br>
+            
+$8k\div8 = 160\div8$ 	   (Dividing both sides by 8)",
+text,1,030202,v1,"
+
+Atharva baked $215$ cookies and distributed them equally into $5$ packs. How many cookies did Atharva put in each packet?Let Atharva put $k$ cookies in each packet.Select the correct statements from below.<br>",$(5\times k)\div 5 = 215\div5 $,,,,$k+5 = 215+5 $,$5 \times k = 215 \times 5 $,$k-5 = 215-5 $,60,3,,2019hanish.valecha@ves.ac.in,"
+To answer these questions we need to use Dividing both the sides of equations by some non zero number.<br>
+            
+Let Atharva put $k$ cookies in each packet.<br>
+            
+Now, total 215 cookies had been distributed into 5 packs and each packet got $k$ number of cookies.<br>
+            
+Then according to given conditions we get this equation :-<br> $5k = 215$<br>
+            
+$5k\div5 = 215\div5$ 	   (Dividing both sides by 5)",
