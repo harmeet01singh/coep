@@ -1,0 +1,36 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,030202,v1,Let Reema have '$x$' litres of juice. Reema fills juice in $13$ bottles of $10$ litre volume. Select correct operation to solve for '$x$'. ,$ ( x \div 13 ) \times 13 = 10 \times 13 $,,,,$ ( x + 13 ) + 13 = 10 + 13 $,$ ( x + 13 ) - 13 = 10 - 13 $,$ ( x + 13 ) - 13 = 10 - 13 $,60,3,,2019suraj.moolya@ves.ac.in,"
+        Reema had $'x'$ litres of juice which will fill<br>  into $13$ bottles of $10$ litre volume.
+       <br>  We want to find '$x$'
+        
+        <br> Therefore we write ,
+        <br> $( x \div 13 )  =  10 $
+        <br> $( x \div 13 ) \times 13 = 10 \times 13$   ,by multiplying $13$ on both sides ",
+text,text,030202,v1,Let Reema have '$c$' pedas . Reema distributed pedas among $10$ students and each student got $10$ pedas. Select correct operation to solve for '$c$'.,$ ( c \div 10 ) \times 10 = 10 \times 10 $,,,,$ ( c \times 10 ) \times 10 = 10 \times 10 $,$ ( c - 10 ) + 10 = 10 + 10 $,$ ( c - 10 ) + 10 = 10 + 10 $,60,3,,2019suraj.moolya@ves.ac.in,"
+        Reema had '$c$' pedas which was distributed to $10$ students. Each student recieves $10$ pedas.
+        <br>We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 10 )  =  10 $
+        <br> $( c \div 10 ) \times 10 = 10 \times 10$   ,by multiplying $10$ on both sides ",
+text,text,030202,v1,Let Rohan have '$n$' samosa . Rohan distributed samosa among $13$ students and each student got $13$ samosa. Select correct operation to solve for '$n$'.,$ ( n \div 13 ) \times 13 = 13 \times 13 $,,,,$ ( n - 13 ) + 13 = 13 + 13 $,$ ( n \times 13 ) \div 13 = 13 \div 13 $,$ ( n \times 13 ) \div 13 = 13 \div 13 $,60,3,,2019suraj.moolya@ves.ac.in,"
+        Rohan had '$n$' samosa which was distributed to $13$ students. Each student recieves $13$ samosa.
+        <br>We want to find '$n$'
+        
+        <br> Therefore we write ,
+        <br> $( n \div 13 )  =  13 $
+        <br> $( n \div 13 ) \times 13 = 13 \times 13$   ,by multiplying $13$ on both sides ",
+text,text,030202,v1,Let Rohan have '$c$' icecreams . Rohan distributed icecreams among $2$ students and each student got $14$ icecreams. Select correct operation to solve for '$c$'.,$ ( c \div 2 ) \times 2 = 14 \times 2 $,,,,$ ( c \times 2 ) \div 2 = 14 \div 2 $,$ ( c + 2 ) + 2 = 14 + 2 $,$ ( c + 2 ) + 2 = 14 + 2 $,60,3,,2019suraj.moolya@ves.ac.in,"
+        Rohan had '$c$' icecreams which was distributed to $2$ students. Each student recieves $14$ icecreams.
+        <br>We want to find '$c$'
+        
+        <br> Therefore we write ,
+        <br> $( c \div 2 )  =  14 $
+        <br> $( c \div 2 ) \times 2 = 14 \times 2$   ,by multiplying $2$ on both sides ",
+text,text,030202,v1,Let Seema have '$q$' ladoo . Seema distributed ladoo among $4$ students and each student got $6$ ladoo. Select correct operation to solve for '$q$'.,$ ( q \div 4 ) \times 4 = 6 \times 4 $,,,,$ ( q - 4 ) + 4 = 6 + 4 $,$ ( q - 4 ) - 4 = 6 - 4 $,$ ( q - 4 ) - 4 = 6 - 4 $,60,3,,2019suraj.moolya@ves.ac.in,"
+        Seema had '$q$' ladoo which was distributed to $4$ students. Each student recieves $6$ ladoo.
+        <br>We want to find '$q$'
+        
+        <br> Therefore we write ,
+        <br> $( q \div 4 )  =  6 $
+        <br> $( q \div 4 ) \times 4 = 6 \times 4$   ,by multiplying $4$ on both sides ",
