@@ -1,0 +1,196 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030203,1,"Mehul and Aarav have a total of 84 T-shirts.If Mehul has 8 more T-shirts than Aarav, how many T-shirts does each one have?
+",Aarav has 38 T-shirts and Mehul has 46 T-shirts,,,,Aarav has 23 T-shirts and Mehul has 61 T-shirts,Aarav has 44 T-shirts and Mehul has 52 T-shirts,Aarav has 46 T-shirts and Mehul has 38 T-shirts,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Aarav has $x$ T-shirts.
+    <br/>Since, Mehul has $8$ more T-shirts than Aarav
+    <br/>Therefore, Mehul will have x+$8$ T-shirts.
+    <br/>Since, Aarav and Mehul have a total of $84$ T-shirts
+    <br/>=> $x+(x+8)=84$ 
+        <br/>=> $x+x+8=84$     
+        <br/>=> $2x+8=84$<br/>=> $2x =84-8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{76}{2}$
+<br/>=> $x=38$
+<br/>=> $x+8=38+8=46$
+<br/>Hence, Aarav has $38$ T-shirts and Mehul has $46$ T-shirts ",
+text,1,030203,1,"Yuti and Gopal have a total of 62 chocolates.If Gopal has 12 more chocolates than Yuti, how many chocolates does each one have?
+",Yuti has 25 chocolates and Gopal has 37 chocolates,,,,Yuti has 44 chocolates and Gopal has 18 chocolates,Yuti has 38 chocolates and Gopal has 50 chocolates,Yuti has 37 chocolates and Gopal has 25 chocolates,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Yuti has $x$ chocolates.
+    <br/>Since, Gopal has $12$ more chocolates than Yuti
+    <br/>Therefore, Gopal will have x+$12$ chocolates.
+    <br/>Since, Yuti and Gopal have a total of $62$ chocolates
+    <br/>=> $x+(x+12)=62$ 
+        <br/>=> $x+x+12=62$     
+        <br/>=> $2x+12=62$<br/>=> $2x =62-12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{50}{2}$
+<br/>=> $x=25$
+<br/>=> $x+12=25+12=37$
+<br/>Hence, Yuti has $25$ chocolates and Gopal has $37$ chocolates ",
+text,1,030203,1,"Onkar and Aadesh have a total of 62 T-shirts.If Aadesh has 12 more T-shirts than Onkar, how many T-shirts does each one have?
+",Onkar has 25 T-shirts and Aadesh has 37 T-shirts,,,,Onkar has 41 T-shirts and Aadesh has 21 T-shirts,Onkar has 26 T-shirts and Aadesh has 38 T-shirts,Onkar has 37 T-shirts and Aadesh has 25 T-shirts,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Onkar has $x$ T-shirts.
+    <br/>Since, Aadesh has $12$ more T-shirts than Onkar
+    <br/>Therefore, Aadesh will have x+$12$ T-shirts.
+    <br/>Since, Onkar and Aadesh have a total of $62$ T-shirts
+    <br/>=> $x+(x+12)=62$ 
+        <br/>=> $x+x+12=62$     
+        <br/>=> $2x+12=62$<br/>=> $2x =62-12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{50}{2}$
+<br/>=> $x=25$
+<br/>=> $x+12=25+12=37$
+<br/>Hence, Onkar has $25$ T-shirts and Aadesh has $37$ T-shirts ",
+text,1,030203,1,"Gauravi and Gargi have a total of 30 sheets.If Gauravi has 18 more sheets than Gargi, how many sheets does each one have?
+",Gargi has 6 sheets and Gauravi has 24 sheets,,,,Gargi has 28 sheets and Gauravi has 2 sheets,Gargi has 36 sheets and Gauravi has 54 sheets,Gargi has 24 sheets and Gauravi has 6 sheets,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Gargi has $x$ sheets.
+    <br/>Since, Gauravi has $18$ more sheets than Gargi
+    <br/>Therefore, Gauravi will have x+$18$ sheets.
+    <br/>Since, Gargi and Gauravi have a total of $30$ sheets
+    <br/>=> $x+(x+18)=30$ 
+        <br/>=> $x+x+18=30$     
+        <br/>=> $2x+18=30$<br/>=> $2x =30-18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{12}{2}$
+<br/>=> $x=6$
+<br/>=> $x+18=6+18=24$
+<br/>Hence, Gargi has $6$ sheets and Gauravi has $24$ sheets ",
+text,1,030203,1,"Vivek and Rahul have a total of 74 shirts.If Rahul has 12 more shirts than Vivek, how many shirts does each one have?
+",Vivek has 31 shirts and Rahul has 43 shirts,,,,Vivek has 32 shirts and Rahul has 42 shirts,Vivek has 50 shirts and Rahul has 62 shirts,Vivek has 43 shirts and Rahul has 31 shirts,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Vivek has $x$ shirts.
+    <br/>Since, Rahul has $12$ more shirts than Vivek
+    <br/>Therefore, Rahul will have x+$12$ shirts.
+    <br/>Since, Vivek and Rahul have a total of $74$ shirts
+    <br/>=> $x+(x+12)=74$ 
+        <br/>=> $x+x+12=74$     
+        <br/>=> $2x+12=74$<br/>=> $2x =74-12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{62}{2}$
+<br/>=> $x=31$
+<br/>=> $x+12=31+12=43$
+<br/>Hence, Vivek has $31$ shirts and Rahul has $43$ shirts ",
+text,1,030203,1,"Utkarsh and Tejas have a total of 30 Apples.If Tejas has 4 more Apples than Utkarsh, how many Apples does each one have?
+",Utkarsh has 13 Apples and Tejas has 17 Apples,,,,Utkarsh has 41 Apples and Tejas has 11 Apples,Utkarsh has 38 Apples and Tejas has 42 Apples,Utkarsh has 17 Apples and Tejas has 13 Apples,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Utkarsh has $x$ Apples.
+    <br/>Since, Tejas has $4$ more Apples than Utkarsh
+    <br/>Therefore, Tejas will have x+$4$ Apples.
+    <br/>Since, Utkarsh and Tejas have a total of $30$ Apples
+    <br/>=> $x+(x+4)=30$ 
+        <br/>=> $x+x+4=30$     
+        <br/>=> $2x+4=30$<br/>=> $2x =30-4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{26}{2}$
+<br/>=> $x=13$
+<br/>=> $x+4=13+4=17$
+<br/>Hence, Utkarsh has $13$ Apples and Tejas has $17$ Apples ",
+text,1,030203,1,"Mihir and Gaurav have a total of 34 pants.If Gaurav has 16 more pants than Mihir, how many pants does each one have?
+",Mihir has 9 pants and Gaurav has 25 pants,,,,Mihir has 24 pants and Gaurav has 10 pants,Mihir has 26 pants and Gaurav has 42 pants,Mihir has 25 pants and Gaurav has 9 pants,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Mihir has $x$ pants.
+    <br/>Since, Gaurav has $16$ more pants than Mihir
+    <br/>Therefore, Gaurav will have x+$16$ pants.
+    <br/>Since, Mihir and Gaurav have a total of $34$ pants
+    <br/>=> $x+(x+16)=34$ 
+        <br/>=> $x+x+16=34$     
+        <br/>=> $2x+16=34$<br/>=> $2x =34-16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{18}{2}$
+<br/>=> $x=9$
+<br/>=> $x+16=9+16=25$
+<br/>Hence, Mihir has $9$ pants and Gaurav has $25$ pants ",
+text,1,030203,1,"Tushar and Devang have a total of 52 Watermelons.If Tushar has 20 more Watermelons than Devang, how many Watermelons does each one have?
+",Devang has 16 Watermelons and Tushar has 36 Watermelons,,,,Devang has 29 Watermelons and Tushar has 23 Watermelons,Devang has 28 Watermelons and Tushar has 48 Watermelons,Devang has 36 Watermelons and Tushar has 16 Watermelons,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Devang has $x$ Watermelons.
+    <br/>Since, Tushar has $20$ more Watermelons than Devang
+    <br/>Therefore, Tushar will have x+$20$ Watermelons.
+    <br/>Since, Devang and Tushar have a total of $52$ Watermelons
+    <br/>=> $x+(x+20)=52$ 
+        <br/>=> $x+x+20=52$     
+        <br/>=> $2x+20=52$<br/>=> $2x =52-20$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{32}{2}$
+<br/>=> $x=16$
+<br/>=> $x+20=16+20=36$
+<br/>Hence, Devang has $16$ Watermelons and Tushar has $36$ Watermelons ",
+text,1,030203,1,"Vivek and Akshata have a total of 36 T-shirts.If Vivek has 10 more T-shirts than Akshata, how many T-shirts does each one have?
+",Akshata has 13 T-shirts and Vivek has 23 T-shirts,,,,Akshata has 41 T-shirts and Vivek has 5 T-shirts,Akshata has 24 T-shirts and Vivek has 34 T-shirts,Akshata has 23 T-shirts and Vivek has 13 T-shirts,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Akshata has $x$ T-shirts.
+    <br/>Since, Vivek has $10$ more T-shirts than Akshata
+    <br/>Therefore, Vivek will have x+$10$ T-shirts.
+    <br/>Since, Akshata and Vivek have a total of $36$ T-shirts
+    <br/>=> $x+(x+10)=36$ 
+        <br/>=> $x+x+10=36$     
+        <br/>=> $2x+10=36$<br/>=> $2x =36-10$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{26}{2}$
+<br/>=> $x=13$
+<br/>=> $x+10=13+10=23$
+<br/>Hence, Akshata has $13$ T-shirts and Vivek has $23$ T-shirts ",
+text,1,030203,1,"Rahul and Rohit have a total of 72 candies.If Rahul has 16 more candies than Rohit, how many candies does each one have?
+",Rohit has 28 candies and Rahul has 44 candies,,,,Rohit has 31 candies and Rahul has 41 candies,Rohit has 45 candies and Rahul has 61 candies,Rohit has 44 candies and Rahul has 28 candies,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Rohit has $x$ candies.
+    <br/>Since, Rahul has $16$ more candies than Rohit
+    <br/>Therefore, Rahul will have x+$16$ candies.
+    <br/>Since, Rohit and Rahul have a total of $72$ candies
+    <br/>=> $x+(x+16)=72$ 
+        <br/>=> $x+x+16=72$     
+        <br/>=> $2x+16=72$<br/>=> $2x =72-16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{56}{2}$
+<br/>=> $x=28$
+<br/>=> $x+16=28+16=44$
+<br/>Hence, Rohit has $28$ candies and Rahul has $44$ candies ",
+text,1,030203,1,"Tushar and Vivek have a total of 32 Watermelons.If Tushar has 16 more Watermelons than Vivek, how many Watermelons does each one have?
+",Vivek has 8 Watermelons and Tushar has 24 Watermelons,,,,Vivek has 46 Watermelons and Tushar has 14 Watermelons,Vivek has 39 Watermelons and Tushar has 55 Watermelons,Vivek has 24 Watermelons and Tushar has 8 Watermelons,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Vivek has $x$ Watermelons.
+    <br/>Since, Tushar has $16$ more Watermelons than Vivek
+    <br/>Therefore, Tushar will have x+$16$ Watermelons.
+    <br/>Since, Vivek and Tushar have a total of $32$ Watermelons
+    <br/>=> $x+(x+16)=32$ 
+        <br/>=> $x+x+16=32$     
+        <br/>=> $2x+16=32$<br/>=> $2x =32-16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{16}{2}$
+<br/>=> $x=8$
+<br/>=> $x+16=8+16=24$
+<br/>Hence, Vivek has $8$ Watermelons and Tushar has $24$ Watermelons ",
+text,1,030203,1,"Aakash and Isha have a total of 42 Cookies.If Isha has 2 more Cookies than Aakash, how many Cookies does each one have?
+",Aakash has 20 Cookies and Isha has 22 Cookies,,,,Aakash has 39 Cookies and Isha has 3 Cookies,Aakash has 43 Cookies and Isha has 45 Cookies,Aakash has 22 Cookies and Isha has 20 Cookies,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Aakash has $x$ Cookies.
+    <br/>Since, Isha has $2$ more Cookies than Aakash
+    <br/>Therefore, Isha will have x+$2$ Cookies.
+    <br/>Since, Aakash and Isha have a total of $42$ Cookies
+    <br/>=> $x+(x+2)=42$ 
+        <br/>=> $x+x+2=42$     
+        <br/>=> $2x+2=42$<br/>=> $2x =42-2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{40}{2}$
+<br/>=> $x=20$
+<br/>=> $x+2=20+2=22$
+<br/>Hence, Aakash has $20$ Cookies and Isha has $22$ Cookies ",
+text,1,030203,1,"Suyash and Gayatri have a total of 50 pants.If Gayatri has 18 more pants than Suyash, how many pants does each one have?
+",Suyash has 16 pants and Gayatri has 34 pants,,,,Suyash has 37 pants and Gayatri has 13 pants,Suyash has 45 pants and Gayatri has 63 pants,Suyash has 34 pants and Gayatri has 16 pants,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Suyash has $x$ pants.
+    <br/>Since, Gayatri has $18$ more pants than Suyash
+    <br/>Therefore, Gayatri will have x+$18$ pants.
+    <br/>Since, Suyash and Gayatri have a total of $50$ pants
+    <br/>=> $x+(x+18)=50$ 
+        <br/>=> $x+x+18=50$     
+        <br/>=> $2x+18=50$<br/>=> $2x =50-18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{32}{2}$
+<br/>=> $x=16$
+<br/>=> $x+18=16+18=34$
+<br/>Hence, Suyash has $16$ pants and Gayatri has $34$ pants ",
+text,1,030203,1,"Prathamesh and Aditi have a total of 34 Watermelons.If Aditi has 2 more Watermelons than Prathamesh, how many Watermelons does each one have?
+",Prathamesh has 16 Watermelons and Aditi has 18 Watermelons,,,,Prathamesh has 23 Watermelons and Aditi has 11 Watermelons,Prathamesh has 27 Watermelons and Aditi has 29 Watermelons,Prathamesh has 18 Watermelons and Aditi has 16 Watermelons,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Prathamesh has $x$ Watermelons.
+    <br/>Since, Aditi has $2$ more Watermelons than Prathamesh
+    <br/>Therefore, Aditi will have x+$2$ Watermelons.
+    <br/>Since, Prathamesh and Aditi have a total of $34$ Watermelons
+    <br/>=> $x+(x+2)=34$ 
+        <br/>=> $x+x+2=34$     
+        <br/>=> $2x+2=34$<br/>=> $2x =34-2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{32}{2}$
+<br/>=> $x=16$
+<br/>=> $x+2=16+2=18$
+<br/>Hence, Prathamesh has $16$ Watermelons and Aditi has $18$ Watermelons ",
+text,1,030203,1,"Devang and Chaitrali have a total of 70 books.If Devang has 16 more books than Chaitrali, how many books does each one have?
+",Chaitrali has 27 books and Devang has 43 books,,,,Chaitrali has 28 books and Devang has 42 books,Chaitrali has 29 books and Devang has 45 books,Chaitrali has 43 books and Devang has 27 books,60,3,,2018.aaryan.raina@ves.ac.in,"let us assume Chaitrali has $x$ books.
+    <br/>Since, Devang has $16$ more books than Chaitrali
+    <br/>Therefore, Devang will have x+$16$ books.
+    <br/>Since, Chaitrali and Devang have a total of $70$ books
+    <br/>=> $x+(x+16)=70$ 
+        <br/>=> $x+x+16=70$     
+        <br/>=> $2x+16=70$<br/>=> $2x =70-16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{54}{2}$
+<br/>=> $x=27$
+<br/>=> $x+16=27+16=43$
+<br/>Hence, Chaitrali has $27$ books and Devang has $43$ books ",
