@@ -122,7 +122,7 @@ def main_function():
     database_dict= database_fn(
     Answer_Type='1',
     Topic_Number='030203',
-    Variation='4',
+    Variation='v3_12',
     Question=question,
     Correct_Answer_1=o3,
     Wrong_Answer_1=o1,
@@ -134,4 +134,4 @@ def main_function():
     return database_dict
 
 #main_function()
-putInCsv('030203',15,main_function,'v2_4')
+putInCsv('030203',15,main_function,'v3_12')
