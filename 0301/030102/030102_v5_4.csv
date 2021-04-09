@@ -1,0 +1,6 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,030102,5,Are A and B identical in shape and size: A = B?,Yes,,,,Maybe,Can't tell!,No,60,3,images/030102_D_S_S.png,2019surendra.totre@ves.ac.in,"Since they are equal shapes, the correct answer is Yes.",
+text,text,030102,5,Are A and B identical in shape and size: A = B?,No,,,,Can't tell!,Yes,Maybe,60,3,images/030102_D_S_R.png,2019surendra.totre@ves.ac.in,"Since they are different shapes, the correct answer is No.",
+text,text,030102,5,Are A and B identical in shape and size: A = B?,No,,,,Can't tell!,Yes,Maybe,60,3,images/030102_D_T_R.png,2019surendra.totre@ves.ac.in,"Since they are different shapes, the correct answer is No.",
+text,text,030102,5,Are A and B identical in shape and size: A = B?,No,,,,Yes,Can't tell!,Maybe,60,3,images/030102_D_T_S.png,2019surendra.totre@ves.ac.in,"Since they are different shapes, the correct answer is No.",
+text,text,030102,5,Are A and B identical in shape and size: A = B?,No,,,,Maybe,Yes,Can't tell!,60,3,images/030102_D_R_C.png,2019surendra.totre@ves.ac.in,"Since they are different shapes, the correct answer is No.",
