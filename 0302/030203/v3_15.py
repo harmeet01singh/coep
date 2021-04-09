@@ -92,7 +92,7 @@ def main_function():
 
 
         database_dict= database_fn(
-        Answer_Type='1',
+        Answer_Type='v3_15',
         Topic_Number='030203',
         Variation=7,
         Question=question,
@@ -110,7 +110,7 @@ putInCsv(
     Topic_Number='030203',
     Number_Of_Iterations=18,
     Main_Function=main_function,
-    Filename='v2_7')
+    Filename='v3_15')
 
 
 
