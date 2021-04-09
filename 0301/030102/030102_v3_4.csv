@@ -1,0 +1,261 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030102,3,"If Shruti has $69$  shirts, Divya has $61$  shirts, Aakriti has $49$  shirts and Kajal has $41$  shirts.
+Which two pairs will form an equation?
+","(Shruti , Divya) and (Aakriti , Kajal)",,,,"(Shruti , Aakriti) and (Divya , Kajal)","(Shruti , Kajal) and (Divya , Aakriti)","(Shruti , Kajal) and (Divya , Yuti)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Shruti, Divya, Aakriti and Kajal
+are $69$, $61$, $49$ and $41$ respectively
+Now, $69 - 61 = 8$
+Also, $49 - 41 = 8$
+=> $69 - 61 = 49 - 41$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Shruti and Divya , Aakriti and Kajal
+",
+text,1,030102,3,"If Veerja weighs $45$ Kg and Pranali weighs $39$ Kg, Vaishnavi weighs $41$ Kg and Soham weighs $35$ Kg.
+Which two pairs will form an equation?
+","(Veerja , Pranali) and (Vaishnavi , Soham)",,,,"(Veerja , Vaishnavi) and (Pranali , Soham)","(Veerja , Soham) and (Pranali , Vaishnavi)","(Veerja , Soham) and (Pranali , Manali)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Veerja, Pranali, Vaishnavi and Soham
+are $45$, $39$, $41$ and $35$ respectively
+Now, $45 - 39 = 6$
+Also, $41 - 35 = 6$
+=> $45 - 39 = 41 - 35$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Veerja and Pranali , Vaishnavi and Soham
+",
+text,1,030102,3,"If Akshata has $66$  books, Gargi has $58$  books, Suyash has $49$  books and Utkarsh has $41$  books.
+Which two pairs will form an equation?
+","(Akshata , Gargi) and (Suyash , Utkarsh)",,,,"(Akshata , Suyash) and (Gargi , Utkarsh)","(Akshata , Utkarsh) and (Gargi , Suyash)","(Akshata , Utkarsh) and (Gargi , Gargi)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Akshata, Gargi, Suyash and Utkarsh
+are $66$, $58$, $49$ and $41$ respectively
+Now, $66 - 58 = 8$
+Also, $49 - 41 = 8$
+=> $66 - 58 = 49 - 41$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Akshata and Gargi , Suyash and Utkarsh
+",
+text,1,030102,3,"If Ninad weighs $43$ Kg and Isha weighs $50$ Kg, Divya weighs $39$ Kg and Akanksha weighs $32$ Kg.
+Which two pairs will form an equation?
+","(Ninad , Isha) and (Divya , Akanksha)",,,,"(Ninad , Divya) and (Isha , Akanksha)","(Ninad , Akanksha) and (Isha , Divya)","(Ninad , Akanksha) and (Isha , Mehul)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Ninad, Isha, Divya and Akanksha
+are $50$, $43$, $39$ and $32$ respectively
+Now, $50 - 43 = 7$
+Also, $39 - 32 = 7$
+=> $50 - 43 = 39 - 32$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ninad and Isha , Divya and Akanksha
+",
+text,1,030102,3,"If Neha has $64$  pencils, Mihir has $58$  pencils, Chaitanya has $49$  pencils and Onkar has $43$  pencils.
+Which two pairs will form an equation?
+","(Neha , Mihir) and (Chaitanya , Onkar)",,,,"(Neha , Chaitanya) and (Mihir , Onkar)","(Neha , Onkar) and (Mihir , Chaitanya)","(Neha , Onkar) and (Mihir , Abhijeet)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Neha, Mihir, Chaitanya and Onkar
+are $64$, $58$, $49$ and $43$ respectively
+Now, $64 - 58 = 6$
+Also, $49 - 43 = 6$
+=> $64 - 58 = 49 - 43$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Neha and Mihir , Chaitanya and Onkar
+",
+text,1,030102,3,"If Kshitij weighs $69$ Kg and Pranali weighs $51$ Kg, Tejas weighs $57$ Kg and Pranali weighs $39$ Kg.
+Which two pairs will form an equation?
+","(Kshitij , Pranali) and (Tejas , Pranali)",,,,"(Kshitij , Tejas) and (Pranali , Pranali)","(Kshitij , Pranali) and (Pranali , Tejas)","(Kshitij , Pranali) and (Pranali , Darshan)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Kshitij, Pranali, Tejas and Pranali
+are $69$, $51$, $57$ and $39$ respectively
+Now, $69 - 51 = 18$
+Also, $57 - 39 = 18$
+=> $69 - 51 = 57 - 39$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Kshitij and Pranali , Tejas and Pranali
+",
+text,1,030102,3,"If Tushar weighs $35$ Kg and Pooja weighs $39$ Kg, Ganesh weighs $45$ Kg and Gagan weighs $49$ Kg.
+Which two pairs will form an equation?
+","(Tushar , Pooja) and (Ganesh , Gagan)",,,,"(Tushar , Ganesh) and (Pooja , Gagan)","(Tushar , Gagan) and (Pooja , Ganesh)","(Tushar , Gagan) and (Pooja , Ninad)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Tushar, Pooja, Ganesh and Gagan
+are $39$, $35$, $49$ and $45$ respectively
+Now, $39 - 35 = 4$
+Also, $49 - 45 = 4$
+=> $39 - 35 = 49 - 45$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Tushar and Pooja , Ganesh and Gagan
+",
+text,1,030102,3,"If Ishan weighs $65$ Kg and Gaurav weighs $49$ Kg, Sanket weighs $53$ Kg and Utkarsh weighs $37$ Kg.
+Which two pairs will form an equation?
+","(Ishan , Gaurav) and (Sanket , Utkarsh)",,,,"(Ishan , Sanket) and (Gaurav , Utkarsh)","(Ishan , Utkarsh) and (Gaurav , Sanket)","(Ishan , Utkarsh) and (Gaurav , Aabha)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Ishan, Gaurav, Sanket and Utkarsh
+are $65$, $49$, $53$ and $37$ respectively
+Now, $65 - 49 = 16$
+Also, $53 - 37 = 16$
+=> $65 - 49 = 53 - 37$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ishan and Gaurav , Sanket and Utkarsh
+",
+text,1,030102,3,"If Ishika weighs $41$ Kg and Kajal weighs $35$ Kg, Gaurav weighs $48$ Kg and Nishi weighs $42$ Kg.
+Which two pairs will form an equation?
+","(Ishika , Kajal) and (Gaurav , Nishi)",,,,"(Ishika , Gaurav) and (Kajal , Nishi)","(Ishika , Nishi) and (Kajal , Gaurav)","(Ishika , Nishi) and (Kajal , Atharva)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Ishika, Kajal, Gaurav and Nishi
+are $41$, $35$, $48$ and $42$ respectively
+Now, $41 - 35 = 6$
+Also, $48 - 42 = 6$
+=> $41 - 35 = 48 - 42$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Ishika and Kajal , Gaurav and Nishi
+",
+text,1,030102,3,"If Isha has $42$  sheets, Vinay has $33$  sheets, Gagan has $34$  sheets and Mehul has $41$  sheets.
+Which two pairs will form an equation?
+","(Isha , Gagan) and (Vinay , Mehul)",,,,"(Isha , Vinay) and (Gagan , Mehul)","(Isha , Mehul) and (Vinay , Gagan)","(Isha , Om) and (Vinay , Gagan)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Isha, Vinay, Gagan and Mehul
+are $42$, $41$, $34$ and $33$ respectively
+Now, $42 - 41 = 1$
+Also, $34 - 33 = 1$
+=> $42 - 41 = 34 - 33$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Isha and Vinay , Gagan and Mehul
+",
+text,1,030102,3,"If Vaibhav weighs $48$ Kg and Tanvi weighs $44$ Kg, Gaurav weighs $37$ Kg and Yash weighs $33$ Kg.
+Which two pairs will form an equation?
+","(Vaibhav , Tanvi) and (Gaurav , Yash)",,,,"(Vaibhav , Gaurav) and (Tanvi , Yash)","(Vaibhav , Yash) and (Tanvi , Gaurav)","(Vaibhav , Yash) and (Tanvi , Tushar)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Vaibhav, Tanvi, Gaurav and Yash
+are $48$, $44$, $37$ and $33$ respectively
+Now, $48 - 44 = 4$
+Also, $37 - 33 = 4$
+=> $48 - 44 = 37 - 33$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Vaibhav and Tanvi , Gaurav and Yash
+",
+text,1,030102,3,"If Pranali weighs $47$ Kg and Ninad weighs $28$ Kg, Yogesh weighs $29$ Kg and Isha weighs $46$ Kg.
+Which two pairs will form an equation?
+","(Pranali , Yogesh) and (Ninad , Isha)",,,,"(Pranali , Ninad) and (Yogesh , Isha)","(Pranali , Isha) and (Ninad , Yogesh)","(Pranali , Kajal) and (Ninad , Yogesh)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Pranali, Ninad, Yogesh and Isha
+are $47$, $46$, $29$ and $28$ respectively
+Now, $47 - 46 = 1$
+Also, $29 - 28 = 1$
+=> $47 - 46 = 29 - 28$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Pranali and Ninad , Yogesh and Isha
+",
+text,1,030102,3,"If Aboli weighs $45$ Kg and Suyash weighs $32$ Kg, Vivek weighs $43$ Kg and Vaibhav weighs $30$ Kg.
+Which two pairs will form an equation?
+","(Aboli , Suyash) and (Vivek , Vaibhav)",,,,"(Aboli , Vivek) and (Suyash , Vaibhav)","(Aboli , Vaibhav) and (Suyash , Vivek)","(Aboli , Vaibhav) and (Suyash , Om)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Aboli, Suyash, Vivek and Vaibhav
+are $45$, $32$, $43$ and $30$ respectively
+Now, $45 - 32 = 13$
+Also, $43 - 30 = 13$
+=> $45 - 32 = 43 - 30$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aboli and Suyash , Vivek and Vaibhav
+",
+text,1,030102,3,"If Smital has $28$  Cookies, Mehul has $31$  Cookies, Yuti has $42$  Cookies and Soham has $45$  Cookies.
+Which two pairs will form an equation?
+","(Smital , Mehul) and (Yuti , Soham)",,,,"(Smital , Yuti) and (Mehul , Soham)","(Smital , Soham) and (Mehul , Yuti)","(Smital , Soham) and (Mehul , Dharmesh)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Smital, Mehul, Yuti and Soham
+are $31$, $28$, $45$ and $42$ respectively
+Now, $31 - 28 = 3$
+Also, $45 - 42 = 3$
+=> $31 - 28 = 45 - 42$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Smital and Mehul , Yuti and Soham
+",
+text,1,030102,3,"If Abhijeet has $53$  Apples, Gopal has $51$  Apples, Divya has $44$  Apples and Gayatri has $42$  Apples.
+Which two pairs will form an equation?
+","(Abhijeet , Gopal) and (Divya , Gayatri)",,,,"(Abhijeet , Divya) and (Gopal , Gayatri)","(Abhijeet , Gayatri) and (Gopal , Divya)","(Abhijeet , Gayatri) and (Gopal , Pranali)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Abhijeet, Gopal, Divya and Gayatri
+are $53$, $51$, $44$ and $42$ respectively
+Now, $53 - 51 = 2$
+Also, $44 - 42 = 2$
+=> $53 - 51 = 44 - 42$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Abhijeet and Gopal , Divya and Gayatri
+",
+text,1,030102,3,"If Aadesh weighs $32$ Kg and Aboli weighs $51$ Kg, Prajwal weighs $45$ Kg and Suyash weighs $64$ Kg.
+Which two pairs will form an equation?
+","(Aadesh , Aboli) and (Prajwal , Suyash)",,,,"(Aadesh , Prajwal) and (Aboli , Suyash)","(Aadesh , Suyash) and (Aboli , Prajwal)","(Aadesh , Suyash) and (Aboli , Aniket)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Aadesh, Aboli, Prajwal and Suyash
+are $51$, $32$, $64$ and $45$ respectively
+Now, $51 - 32 = 19$
+Also, $64 - 45 = 19$
+=> $51 - 32 = 64 - 45$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aadesh and Aboli , Prajwal and Suyash
+",
+text,1,030102,3,"If Anuja weighs $37$ Kg and Shantanu weighs $46$ Kg, Gautami weighs $57$ Kg and Vaibhav weighs $66$ Kg.
+Which two pairs will form an equation?
+","(Anuja , Shantanu) and (Gautami , Vaibhav)",,,,"(Anuja , Gautami) and (Shantanu , Vaibhav)","(Anuja , Vaibhav) and (Shantanu , Gautami)","(Anuja , Vaibhav) and (Shantanu , Veerja)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Anuja, Shantanu, Gautami and Vaibhav
+are $46$, $37$, $66$ and $57$ respectively
+Now, $46 - 37 = 9$
+Also, $66 - 57 = 9$
+=> $46 - 37 = 66 - 57$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Anuja and Shantanu , Gautami and Vaibhav
+",
+text,1,030102,3,"If Aarav weighs $45$ Kg and Devang weighs $48$ Kg, Aruni weighs $46$ Kg and Divya weighs $49$ Kg.
+Which two pairs will form an equation?
+","(Aarav , Devang) and (Aruni , Divya)",,,,"(Aarav , Aruni) and (Devang , Divya)","(Aarav , Divya) and (Devang , Aruni)","(Aarav , Divya) and (Devang , Aabha)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Aarav, Devang, Aruni and Divya
+are $48$, $45$, $49$ and $46$ respectively
+Now, $48 - 45 = 3$
+Also, $49 - 46 = 3$
+=> $48 - 45 = 49 - 46$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Aarav and Devang , Aruni and Divya
+",
+text,1,030102,3,"If Manali has $66$  chocolates, Tanvi has $46$  chocolates, Prathamesh has $48$  chocolates and Kajal has $28$  chocolates.
+Which two pairs will form an equation?
+","(Manali , Tanvi) and (Prathamesh , Kajal)",,,,"(Manali , Prathamesh) and (Tanvi , Kajal)","(Manali , Kajal) and (Tanvi , Prathamesh)","(Manali , Kajal) and (Tanvi , Prathamesh)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Manali, Tanvi, Prathamesh and Kajal
+are $66$, $46$, $48$ and $28$ respectively
+Now, $66 - 46 = 20$
+Also, $48 - 28 = 20$
+=> $66 - 46 = 48 - 28$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Manali and Tanvi , Prathamesh and Kajal
+",
+text,1,030102,3,"If Akanksha weighs $41$ Kg and Chaitanya weighs $34$ Kg, Onkar weighs $41$ Kg and Varun weighs $48$ Kg.
+Which two pairs will form an equation?
+","(Akanksha , Chaitanya) and (Onkar , Varun)",,,,"(Akanksha , Onkar) and (Chaitanya , Varun)","(Akanksha , Varun) and (Chaitanya , Onkar)","(Akanksha , Varun) and (Chaitanya , Aarav)",60,3,,2018.aaryan.raina@ves.ac.in,"Since, it is given that the weights of Akanksha, Chaitanya, Onkar and Varun
+are $41$, $34$, $48$ and $41$ respectively
+Now, $41 - 34 = 7$
+Also, $48 - 41 = 7$
+=> $41 - 34 = 48 - 41$
+=> L.H.S = R.H.S
+As we know that,
+An Equation is a mathematical statement consisting of an equal symbol between two expressions having the same value.
+Therefore, according to the question,
+The two pairs which will form an equation are : Akanksha and Chaitanya , Onkar and Varun
+",
