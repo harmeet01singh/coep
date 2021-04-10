@@ -1,0 +1,51 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,v1,"The sum of a cetrtain number and five is six,represent in equation",$b+5=6$,,,,$5b=6$,$5b+5=6$,$b=5-6$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $5$ and $6$
+solution would be : $b+5=6$
+",
+text,1,30203,v1,"The sum of a cetrtain number and nine is nine,represent in equation",$c+9=9$,,,,$9c=9$,$9c+9=9$,$c=9-9$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $9$ and $9$
+solution would be : $c+9=9$
+",
+text,1,30203,v1,"The sum of a cetrtain number and seven is three,represent in equation",$y+7=3$,,,,$7y=3$,$7y+7=3$,$y=7-3$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $7$ and $3$
+solution would be : $y+7=3$
+",
+text,1,30203,v1,"The sum of a cetrtain number and four is fifteen,represent in equation",$y+4=15$,,,,$4y=15$,$4y+4=15$,$y=4-15$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $4$ and $15$
+solution would be : $y+4=15$
+",
+text,1,30203,v1,"The sum of a cetrtain number and five is fourteen,represent in equation",$x+5=14$,,,,$5x=14$,$5x+5=14$,$x=5-14$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $5$ and $14$
+solution would be : $x+5=14$
+",
+text,1,30203,v1,"The sum of a cetrtain number and nine is fifteen,represent in equation",$y+9=15$,,,,$9y=15$,$9y+9=15$,$y=9-15$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$y$
+Sum means addition
+Constant terms are : $9$ and $15$
+solution would be : $y+9=15$
+",
+text,1,30203,v1,"The sum of a cetrtain number and nine is six,represent in equation",$c+9=6$,,,,$9c=6$,$9c+9=6$,$c=9-6$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$c$
+Sum means addition
+Constant terms are : $9$ and $6$
+solution would be : $c+9=6$
+",
+text,1,30203,v1,"The sum of a cetrtain number and eight is fourteen,represent in equation",$x+8=14$,,,,$8x=14$,$8x+8=14$,$x=8-14$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $8$ and $14$
+solution would be : $x+8=14$
+",
+text,1,30203,v1,"The sum of a cetrtain number and eight is seven,represent in equation",$x+8=7$,,,,$8x=7$,$8x+8=7$,$x=8-7$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$x$
+Sum means addition
+Constant terms are : $8$ and $7$
+solution would be : $x+8=7$
+",
+text,1,30203,v1,"The sum of a cetrtain number and three is seven,represent in equation",$b+3=7$,,,,$3b=7$,$3b+3=7$,$b=3-7$,60,3,,2018.hemkesh.raina@ves.ac.in,"Let's say certain no. will be :$b$
+Sum means addition
+Constant terms are : $3$ and $7$
+solution would be : $b+3=7$
+",

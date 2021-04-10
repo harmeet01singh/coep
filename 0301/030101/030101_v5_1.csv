@@ -1,41 +1,15 @@
 Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
-text,1,030101,v1,"Spinning of ferris wheel is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Spinning of ferris wheel will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Analog weighing machine is an equation - True or False ? 
+text,1,30101,v1,"Analog weighing machine is an equation - True or False ? 
 ",True,,,,False,,,60,3,,2018.hemkesh.raina@ves.ac.in,Analog weighing machine will form a equation because in this situation the LHS will be equal to RHS,
-text,1,030101,v1,"Placing books on bookshelf is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Placing books on bookshelf will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Balanced see-saw is an equation - True or False ? 
-",True,,,,False,,,60,3,,2018.hemkesh.raina@ves.ac.in,Balanced see-saw will form a equation because in this situation the LHS will be equal to RHS,
-text,1,030101,v1,"Spinning of ferris wheel is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Spinning of ferris wheel will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Simple pulley system is an equation - True or False ? 
+text,1,30101,v1,"Simple pulley system is an equation - True or False ? 
 ",True,,,,False,,,60,3,,2018.hemkesh.raina@ves.ac.in,Simple pulley system will form a equation because in this situation the LHS will be equal to RHS,
-text,1,030101,v1,"Balanced see-saw is an equation - True or False ? 
+text,1,30101,v1,"Balanced see-saw is an equation - True or False ? 
 ",True,,,,False,,,60,3,,2018.hemkesh.raina@ves.ac.in,Balanced see-saw will form a equation because in this situation the LHS will be equal to RHS,
-text,1,030101,v1,"Placing books on bookshelf is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Placing books on bookshelf will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Placing books on bookshelf is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Placing books on bookshelf will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Spinning of ferris wheel is an equation - True or False ? 
+text,1,30101,v1,"Spinning of ferris wheel is an equation - True or False ? 
 ",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Spinning of ferris wheel will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Filling water in bucket is an equation - True or False ? 
+text,1,30101,v1,"Filling water in bucket is an equation - True or False ? 
 ",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Filling water in bucket will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Placing books on bookshelf is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Placing books on bookshelf will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Simple pulley system is an equation - True or False ? 
-",True,,,,False,,,60,3,,2018.hemkesh.raina@ves.ac.in,Simple pulley system will form a equation because in this situation the LHS will be equal to RHS,
-text,1,030101,v1,"Balanced see-saw is an equation - True or False ? 
-",True,,,,False,,,60,3,,2018.hemkesh.raina@ves.ac.in,Balanced see-saw will form a equation because in this situation the LHS will be equal to RHS,
-text,1,030101,v1,"Placing books on bookshelf is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Placing books on bookshelf will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"A lever system is an equation - True or False ? 
+text,1,30101,v1,"A lever system is an equation - True or False ? 
 ",True,,,,False,,,60,3,,2018.hemkesh.raina@ves.ac.in,A lever system will form a equation because in this situation the LHS will be equal to RHS,
-text,1,030101,v1,"Placing books on bookshelf is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Placing books on bookshelf will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Spinning of ferris wheel is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Spinning of ferris wheel will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Spinning of ferris wheel is an equation - True or False ? 
-",False,,,,True,,,60,3,,2018.hemkesh.raina@ves.ac.in,Spinning of ferris wheel will not form a equation because in this situation the LHS will not be equal to RHS,
-text,1,030101,v1,"Simple pulley system is an equation - True or False ? 
-",True,,,,False,,,60,3,,2018.hemkesh.raina@ves.ac.in,Simple pulley system will form a equation because in this situation the LHS will be equal to RHS,
+text,1,30101,v1,"Car-towing is an equation - True or False ? 
+",True,,,,False,,,60,3,,2018.hemkesh.raina@ves.ac.in,Car-towing will form a equation because in this situation the LHS will be equal to RHS,

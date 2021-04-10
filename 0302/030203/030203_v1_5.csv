@@ -1,0 +1,39 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,v5,"Solve for x, $4x = 8$",2.0,,,,32,4,12,60,3,,,"solution: 
+$4x = 8$$x = $$\frac{8}{4}$(dividing by 4 on both sides)$x = 2.0$",
+text,1,30203,v5,"Solve for x, $4x = 24$",6.0,,,,96,20,28,60,3,,,"solution: 
+$4x = 24$$x = $$\frac{24}{4}$(dividing by 4 on both sides)$x = 6.0$",
+text,1,30203,v5,"Solve for x, $11x = 44$",4.0,,,,484,33,55,60,3,,,"solution: 
+$11x = 44$$x = $$\frac{44}{11}$(dividing by 11 on both sides)$x = 4.0$",
+text,1,30203,v5,"Solve for x, $11x = 77$",7.0,,,,847,66,88,60,3,,,"solution: 
+$11x = 77$$x = $$\frac{77}{11}$(dividing by 11 on both sides)$x = 7.0$",
+text,1,30203,v5,"Solve for x, $4x = 28$",7.0,,,,112,24,32,60,3,,,"solution: 
+$4x = 28$$x = $$\frac{28}{4}$(dividing by 4 on both sides)$x = 7.0$",
+text,1,30203,v5,"Solve for x, $6x = 24$",4.0,,,,144,18,30,60,3,,,"solution: 
+$6x = 24$$x = $$\frac{24}{6}$(dividing by 6 on both sides)$x = 4.0$",
+text,1,30203,v5,"Solve for x, $21x = 210$",10.0,,,,4410,189,231,60,3,,,"solution: 
+$21x = 210$$x = $$\frac{210}{21}$(dividing by 21 on both sides)$x = 10.0$",
+text,1,30203,v5,"Solve for x, $20x = 120$",6.0,,,,2400,100,140,60,3,,,"solution: 
+$20x = 120$$x = $$\frac{120}{20}$(dividing by 20 on both sides)$x = 6.0$",
+text,1,30203,v5,"Solve for x, $4x = 12$",3.0,,,,48,8,16,60,3,,,"solution: 
+$4x = 12$$x = $$\frac{12}{4}$(dividing by 4 on both sides)$x = 3.0$",
+text,1,30203,v5,"Solve for x, $3x = 30$",10.0,,,,90,27,33,60,3,,,"solution: 
+$3x = 30$$x = $$\frac{30}{3}$(dividing by 3 on both sides)$x = 10.0$",
+text,1,30203,v5,"Solve for x, $9x = 27$",3.0,,,,243,18,36,60,3,,,"solution: 
+$9x = 27$$x = $$\frac{27}{9}$(dividing by 9 on both sides)$x = 3.0$",
+text,1,30203,v5,"Solve for x, $4x = 20$",5.0,,,,80,16,24,60,3,,,"solution: 
+$4x = 20$$x = $$\frac{20}{4}$(dividing by 4 on both sides)$x = 5.0$",
+text,1,30203,v5,"Solve for x, $3x = 21$",7.0,,,,63,18,24,60,3,,,"solution: 
+$3x = 21$$x = $$\frac{21}{3}$(dividing by 3 on both sides)$x = 7.0$",
+text,1,30203,v5,"Solve for x, $18x = 54$",3.0,,,,972,36,72,60,3,,,"solution: 
+$18x = 54$$x = $$\frac{54}{18}$(dividing by 18 on both sides)$x = 3.0$",
+text,1,30203,v5,"Solve for x, $2x = 20$",10.0,,,,40,18,22,60,3,,,"solution: 
+$2x = 20$$x = $$\frac{20}{2}$(dividing by 2 on both sides)$x = 10.0$",
+text,1,30203,v5,"Solve for x, $13x = 130$",10.0,,,,1690,117,143,60,3,,,"solution: 
+$13x = 130$$x = $$\frac{130}{13}$(dividing by 13 on both sides)$x = 10.0$",
+text,1,30203,v5,"Solve for x, $2x = 14$",7.0,,,,28,12,16,60,3,,,"solution: 
+$2x = 14$$x = $$\frac{14}{2}$(dividing by 2 on both sides)$x = 7.0$",
+text,1,30203,v5,"Solve for x, $6x = 12$",2.0,,,,72,6,18,60,3,,,"solution: 
+$6x = 12$$x = $$\frac{12}{6}$(dividing by 6 on both sides)$x = 2.0$",
+text,1,30203,v5,"Solve for x, $6x = 30$",5.0,,,,180,24,36,60,3,,,"solution: 
+$6x = 30$$x = $$\frac{30}{6}$(dividing by 6 on both sides)$x = 5.0$",
