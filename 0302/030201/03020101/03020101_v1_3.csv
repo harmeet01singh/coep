@@ -1,0 +1,71 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,03020101,v3,"Ques. The product of a certain number and nine is twenty-nine, represent in equation",$9x=29$,,,,$29*(x+9)=29$,$29*(9x)=29$,$9x+x=29$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $9$
+Solution would be: $$9x=29$$
+Coefficient of $x$ is: $9$
+Constant term is: $29$
+",
+text,1,03020101,v3,"Ques. The product of a certain number and nine is thirteen, represent in equation",$9x=13$,,,,$13*(x+9)=13$,$13*(9x)=13$,$9x+x=13$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $9$
+Solution would be: $$9x=13$$
+Coefficient of $x$ is: $9$
+Constant term is: $13$
+",
+text,1,03020101,v3,"Ques. The product of a certain number and three is eighteen, represent in equation",$3a=18$,,,,$18*(a+3)=18$,$18*(3a)=18$,$3a+a=18$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $a$
+Product means multiplication
+Hence, the certain number $a$ is to be multiplied by $3$
+Solution would be: $$3a=18$$
+Coefficient of $a$ is: $3$
+Constant term is: $18$
+",
+text,1,03020101,v3,"Ques. The product of a certain number and four is ten, represent in equation",$4c=10$,,,,$10*(c+4)=10$,$10*(4c)=10$,$4c+c=10$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $4$
+Solution would be: $$4c=10$$
+Coefficient of $c$ is: $4$
+Constant term is: $10$
+",
+text,1,03020101,v3,"Ques. The product of a certain number and twelve is twenty-one, represent in equation",$12x=21$,,,,$21*(x+12)=21$,$21*(12x)=21$,$12x+x=21$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $12$
+Solution would be: $$12x=21$$
+Coefficient of $x$ is: $12$
+Constant term is: $21$
+",
+text,1,03020101,v3,"Ques. The product of a certain number and three is nineteen, represent in equation",$3x=19$,,,,$19*(x+3)=19$,$19*(3x)=19$,$3x+x=19$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $3$
+Solution would be: $$3x=19$$
+Coefficient of $x$ is: $3$
+Constant term is: $19$
+",
+text,1,03020101,v3,"Ques. The product of a certain number and nineteen is eighteen, represent in equation",$19c=18$,,,,$18*(c+19)=18$,$18*(19c)=18$,$19c+c=18$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $c$
+Product means multiplication
+Hence, the certain number $c$ is to be multiplied by $19$
+Solution would be: $$19c=18$$
+Coefficient of $c$ is: $19$
+Constant term is: $18$
+",
+text,1,03020101,v3,"Ques. The product of a certain number and seven is twenty-six, represent in equation",$7x=26$,,,,$26*(x+7)=26$,$26*(7x)=26$,$7x+x=26$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $x$
+Product means multiplication
+Hence, the certain number $x$ is to be multiplied by $7$
+Solution would be: $$7x=26$$
+Coefficient of $x$ is: $7$
+Constant term is: $26$
+",
+text,1,03020101,v3,"Ques. The product of a certain number and fourteen is eight, represent in equation",$14y=8$,,,,$8*(y+14)=8$,$8*(14y)=8$,$14y+y=8$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $14$
+Solution would be: $$14y=8$$
+Coefficient of $y$ is: $14$
+Constant term is: $8$
+",
+text,1,03020101,v3,"Ques. The product of a certain number and thirteen is twenty-four, represent in equation",$13y=24$,,,,$24*(y+13)=24$,$24*(13y)=24$,$13y+y=24$,60,3,,2019janhavi.mhatre@ves.ac.in,"Let's assume the certain number to be: $y$
+Product means multiplication
+Hence, the certain number $y$ is to be multiplied by $13$
+Solution would be: $$13y=24$$
+Coefficient of $y$ is: $13$
+Constant term is: $24$
+",
