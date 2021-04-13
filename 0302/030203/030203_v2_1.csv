@@ -1,0 +1,31 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030203,v1,"For the equation $b + 9 = 26$, is the value of $b=16$? (Yes/No)",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$b + 9 = 26$
+$b - 9 = 26 - 9            (Subtracting 9 from both sides)
+$$b = 17$",
+text,1,030203,v1,"For the equation $c + 4 = 16$, is the value of $c=11$? (Yes/No)",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$c + 4 = 16$
+$c - 4 = 16 - 4            (Subtracting 4 from both sides)
+$$c = 12$",
+text,1,030203,v1,"For the equation $a + 4 = 18$, is the value of $a=13$? (Yes/No)",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$a + 4 = 18$
+$a - 4 = 18 - 4            (Subtracting 4 from both sides)
+$$a = 14$",
+text,1,030203,v1,"For the equation $c + 5 = 30$, is the value of $c=27$? (Yes/No)",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$c + 5 = 30$
+$c - 5 = 30 - 5            (Subtracting 5 from both sides)
+$$c = 25$",
+text,1,030203,v1,"For the equation $x + 2 = 24$, is the value of $x=22$? (Yes/No)",Yes,,,,No,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x + 2 = 24$
+$x - 2 = 24 - 2            (Subtracting 2 from both sides)
+$$x = 22$",
+text,1,030203,v1,"For the equation $x + 4 = 14$, is the value of $x=9$? (Yes/No)",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x + 4 = 14$
+$x - 4 = 14 - 4            (Subtracting 4 from both sides)
+$$x = 10$",
+text,1,030203,v1,"For the equation $x + 3 = 10$, is the value of $x=6$? (Yes/No)",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x + 3 = 10$
+$x - 3 = 10 - 3            (Subtracting 3 from both sides)
+$$x = 7$",
+text,1,030203,v1,"For the equation $y + 8 = 30$, is the value of $y=21$? (Yes/No)",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$y + 8 = 30$
+$y - 8 = 30 - 8            (Subtracting 8 from both sides)
+$$y = 22$",
+text,1,030203,v1,"For the equation $x + 7 = 19$, is the value of $x=11$? (Yes/No)",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x + 7 = 19$
+$x - 7 = 19 - 7            (Subtracting 7 from both sides)
+$$x = 12$",
+text,1,030203,v1,"For the equation $x + 5 = 14$, is the value of $x=11$? (Yes/No)",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x + 5 = 14$
+$x - 5 = 14 - 5            (Subtracting 5 from both sides)
+$$x = 9$",

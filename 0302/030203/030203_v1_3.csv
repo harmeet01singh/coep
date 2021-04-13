@@ -1,0 +1,61 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,v3," Solve for x, $12x + 4 = 32$",2.33,,,,-3,48,432,60,3,,,"solution: 
+$12x + 4 = 32$
+$12x = 32 - 4$(subtracting 4 from both sides)$12x = 28$$x = $$\frac{28}{12}$(dividing by 12 on both sides)$x = 2.33$",
+text,1,30203,v3," Solve for x, $6x + 18 = 30$",2,,,,-8,54,288,60,3,,,"solution: 
+$6x + 18 = 30$
+$6x = 30 - 18$(subtracting 18 from both sides)$6x = 12$$x = $$\frac{12}{6}$(dividing by 6 on both sides)$x = 2.0$",
+text,1,30203,v3," Solve for x, $10x + 10 = 22$",1.2,,,,-3.2,42,320,60,3,,,"solution: 
+$10x + 10 = 22$
+$10x = 22 - 10$(subtracting 10 from both sides)$10x = 12$$x = $$\frac{12}{10}$(dividing by 10 on both sides)$x = 1.2$",
+text,1,30203,v3," Solve for x, $10x + 4 = 26$",2.2,,,,-3,40,300,60,3,,,"solution: 
+$10x + 4 = 26$
+$10x = 26 - 4$(subtracting 4 from both sides)$10x = 22$$x = $$\frac{22}{10}$(dividing by 10 on both sides)$x = 2.2$",
+text,1,30203,v3," Solve for x, $2x + 8 = 28$",10,,,,-18,38,72,60,3,,,"solution: 
+$2x + 8 = 28$
+$2x = 28 - 8$(subtracting 8 from both sides)$2x = 20$$x = $$\frac{20}{2}$(dividing by 2 on both sides)$x = 10.0$",
+text,1,30203,v3," Solve for x, $12x + 10 = 22$",1,,,,-2.666666667,44,384,60,3,,,"solution: 
+$12x + 10 = 22$
+$12x = 22 - 10$(subtracting 10 from both sides)$12x = 12$$x = $$\frac{12}{12}$(dividing by 12 on both sides)$x = 1.0$",
+text,1,30203,v3," Solve for x, $8x + 22 = 36$",1.75,,,,-7.25,66,464,60,3,,,"solution: 
+$8x + 22 = 36$
+$8x = 36 - 22$(subtracting 22 from both sides)$8x = 14$$x = $$\frac{14}{8}$(dividing by 8 on both sides)$x = 1.75$",
+text,1,30203,v3," Solve for x, $6x + 12 = 26$",2.33,,,,-6.333333333,44,228,60,3,,,"solution: 
+$6x + 12 = 26$
+$6x = 26 - 12$(subtracting 12 from both sides)$6x = 14$$x = $$\frac{14}{6}$(dividing by 6 on both sides)$x = 2.33$",
+text,1,30203,v3," Solve for x, $10x + 14 = 26$",1.2,,,,-4,50,400,60,3,,,"solution: 
+$10x + 14 = 26$
+$10x = 26 - 14$(subtracting 14 from both sides)$10x = 12$$x = $$\frac{12}{10}$(dividing by 10 on both sides)$x = 1.2$",
+text,1,30203,v3," Solve for x, $8x + 8 = 36$",3.5,,,,-5.5,52,352,60,3,,,"solution: 
+$8x + 8 = 36$
+$8x = 36 - 8$(subtracting 8 from both sides)$8x = 28$$x = $$\frac{28}{8}$(dividing by 8 on both sides)$x = 3.5$",
+text,1,30203,v3," Solve for x, $6x + 8 = 32$",4,,,,-6.666666667,46,240,60,3,,,"solution: 
+$6x + 8 = 32$
+$6x = 32 - 8$(subtracting 8 from both sides)$6x = 24$$x = $$\frac{24}{6}$(dividing by 6 on both sides)$x = 4.0$",
+text,1,30203,v3," Solve for x, $2x + 8 = 32$",12,,,,-20,42,80,60,3,,,"solution: 
+$2x + 8 = 32$
+$2x = 32 - 8$(subtracting 8 from both sides)$2x = 24$$x = $$\frac{24}{2}$(dividing by 2 on both sides)$x = 12.0$",
+text,1,30203,v3," Solve for x, $10x + 16 = 30$",1.4,,,,-4.6,56,460,60,3,,,"solution: 
+$10x + 16 = 30$
+$10x = 30 - 16$(subtracting 16 from both sides)$10x = 14$$x = $$\frac{14}{10}$(dividing by 10 on both sides)$x = 1.4$",
+text,1,30203,v3," Solve for x, $10x + 4 = 32$",2.8,,,,-3.6,46,360,60,3,,,"solution: 
+$10x + 4 = 32$
+$10x = 32 - 4$(subtracting 4 from both sides)$10x = 28$$x = $$\frac{28}{10}$(dividing by 10 on both sides)$x = 2.8$",
+text,1,30203,v3," Solve for x, $6x + 10 = 34$",4,,,,-7.333333333,50,264,60,3,,,"solution: 
+$6x + 10 = 34$
+$6x = 34 - 10$(subtracting 10 from both sides)$6x = 24$$x = $$\frac{24}{6}$(dividing by 6 on both sides)$x = 4.0$",
+text,1,30203,v3," Solve for x, $8x + 18 = 30$",1.5,,,,-6,56,384,60,3,,,"solution: 
+$8x + 18 = 30$
+$8x = 30 - 18$(subtracting 18 from both sides)$8x = 12$$x = $$\frac{12}{8}$(dividing by 8 on both sides)$x = 1.5$",
+text,1,30203,v3," Solve for x, $8x + 18 = 24$",0.75,,,,-5.25,50,336,60,3,,,"solution: 
+$8x + 18 = 24$
+$8x = 24 - 18$(subtracting 18 from both sides)$8x = 6$$x = $$\frac{6}{8}$(dividing by 8 on both sides)$x = 0.75$",
+text,1,30203,v3," Solve for x, $10x + 14 = 32$",1.8,,,,-4.6,56,460,60,3,,,"solution: 
+$10x + 14 = 32$
+$10x = 32 - 14$(subtracting 14 from both sides)$10x = 18$$x = $$\frac{18}{10}$(dividing by 10 on both sides)$x = 1.8$",
+text,1,30203,v3," Solve for x, $8x + 16 = 24$",1,,,,-5,48,320,60,3,,,"solution: 
+$8x + 16 = 24$
+$8x = 24 - 16$(subtracting 16 from both sides)$8x = 8$$x = $$\frac{8}{8}$(dividing by 8 on both sides)$x = 1.0$",
+text,1,30203,v3," Solve for x, $8x + 20 = 36$",2,,,,-7,64,448,60,3,,,"solution: 
+$8x + 20 = 36$
+$8x = 36 - 20$(subtracting 20 from both sides)$8x = 16$$x = $$\frac{16}{8}$(dividing by 8 on both sides)$x = 2.0$",

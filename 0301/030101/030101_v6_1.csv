@@ -1,31 +1,56 @@
 Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
-text,1,030101,6,"Two persons A and B are sitting on either side of a See-Saw. Person A is having more weight than Person B, it is an equation.
-",False,,,,True,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, Two persons A and B are sitting on either side of a See-Saw. Person A is having more weight than Person B will not form an equation",
-text,1,030101,6,"In a Tug of War if no side wins, it is an equation.
-",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, In a Tug of War if no side wins will form an equation",
-text,1,030101,6,"If Vaibhav has 35 toys and Aakriti has 63 toys then Aakriti has 28 toys more than Vaibhav, it is an equation.
-",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, If Vaibhav has 35 toys and Aakriti has 63 toys then Aakriti has 28 toys more than Vaibhav will form an equation",
-text,1,030101,6,"Two persons A and B are sitting on either side of a See-Saw. Person A is having more weight than Person B, it is an equation.
-",False,,,,True,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, Two persons A and B are sitting on either side of a See-Saw. Person A is having more weight than Person B will not form an equation",
-text,1,030101,6,"Two persons sitting on either side of a See-Saw, having equal weights, it is an equation.
-",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, Two persons sitting on either side of a See-Saw, having equal weights will form an equation",
-text,1,030101,6,"Two persons A and B are sitting on either side of a See-Saw. Person A is having more weight than Person B, it is an equation.
-",False,,,,True,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, Two persons A and B are sitting on either side of a See-Saw. Person A is having more weight than Person B will not form an equation",
-text,1,030101,6,"In a Tug of War if no side wins, it is an equation.
-",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, In a Tug of War if no side wins will form an equation",
-text,1,030101,6,"If Aarav has 69 sheets and Sanket has 414 sheets then Sanket has 2 times the  sheets that Aarav has, it is an equation.
-",False,,,,True,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, If Aarav has 69 sheets and Sanket has 414 sheets then Sanket has 2 times the  sheets that Aarav has will not form an equation",
-text,1,030101,6,"If Atharva has 75 chocolates and Tushar has 375 chocolates then Tushar has 5 times the  chocolates that Atharva has, it is an equation.
-",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, If Atharva has 75 chocolates and Tushar has 375 chocolates then Tushar has 5 times the  chocolates that Atharva has will form an equation",
-text,1,030101,6,"If Suyash has 48 books and Ninad has 103 books then Ninad has 33 books more than Suyash, it is an equation.
-",False,,,,True,,,60,3,,2018.aaryan.raina@ves.ac.in,"Since, we know that, an equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign and the expression on the right hand side of the '=' sign is called the RHS.
-The expression on the left hand side of the '=' sign is called the LHS.<br/>Therefore, according to the question, LHS is equal to RHS<br/>Thus, If Suyash has 48 books and Ninad has 103 books then Ninad has 33 books more than Suyash will not form an equation",
+text,4,30101,6,"A weighing scale having its needle in center, it is an equation. State True or False.
+",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is equal to RHS<br/>Thus, A weighing scale having its needle in center will form an equation",
+text,4,30101,6,"Two persons A and B are sitting on either side of a See-Saw. Person A is having more weight than Person B, it is an equation. State True or False.
+",False,,,,True,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign ,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is not equal to RHS<br/>Thus, Two persons A and B are sitting on either side of a See-Saw. Person A is having more weight than Person B will not form an equation",
+text,4,30101,6,"Two persons sitting on either side of a See-Saw, having equal weights, it is an equation. State True or False.
+",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is equal to RHS<br/>Thus, Two persons sitting on either side of a See-Saw, having equal weights will form an equation",
+text,4,30101,6,"A See-Saw having only one person sitting on a side, it is an equation. State True or False.
+",False,,,,True,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign ,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is not equal to RHS<br/>Thus, A See-Saw having only one person sitting on a side will not form an equation",
+text,4,30101,6,"In a Tug of War if no side wins, it is an equation. State True or False.
+",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is equal to RHS<br/>Thus, In a Tug of War if no side wins will form an equation",
+text,4,30101,6,"A weighing machine having $2$ Kg  rice on one side and $1$ Kg sugar on the other side, it is an equation. State True or False.
+",False,,,,True,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign ,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is not equal to RHS<br/>Thus, A weighing machine having $2$ Kg  rice on one side and $1$ Kg sugar on the other side will not form an equation",
+text,4,30101,6,"If Prathamesh has $80$ Cookies and Gautami has $132$ Cookies then Gautami has $52$ Cookies more than Prathamesh, it is an equation. State True or False.
+",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is equal to RHS<br/>Thus, If Prathamesh has $80$ Cookies and Gautami has $132$ Cookies then Gautami has $52$ Cookies more than Prathamesh will form an equation",
+text,4,30101,6,"If Aarav has $58$ shirts and Kajal has $232$ shirts then Kajal has $2$ times the  shirts that Aarav has, it is an equation. State True or False.
+",False,,,,True,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign ,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is not equal to RHS<br/>Thus, If Aarav has $58$ shirts and Kajal has $232$ shirts then Kajal has $2$ times the  shirts that Aarav has will not form an equation",
+text,4,30101,6,"If Ishan has $51$ pens and Prajwal has $255$ pens then Prajwal has $5$ times the  pens that Ishan has, it is an equation. State True or False.
+",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is equal to RHS<br/>Thus, If Ishan has $51$ pens and Prajwal has $255$ pens then Prajwal has $5$ times the  pens that Ishan has will form an equation",
+text,4,30101,6,"If there are equal weights in both pans of a weighing scale, then the scale is balanced. Such a balanced scale is like an equation., it is an equation. State True or False.
+",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is equal to RHS<br/>Thus, If there are equal weights in both pans of a weighing scale, then the scale is balanced. Such a balanced scale is like an equation. will form an equation",
+text,4,30101,6,"If Divya has $78$ Apples and Manali has $312$ Apples then Manali has $4$ times the  Apples that Divya has, it is an equation. State True or False.
+",True,,,,False,,,60,3,,2018.aaryan.raina@ves.ac.in,"An equation is defined as a mathematical statement consisting of two algebraic expressions having the same value<br/>So, in an equation there is always an '=' sign,
+The expression on the right hand side of the '=' sign is called the RHS.
+The expression on the left hand side of the '=' sign is called the LHS
+<br/>An equation is formed only if LHS is equal to RHS<br/>But in this question, LHS is equal to RHS<br/>Thus, If Divya has $78$ Apples and Manali has $312$ Apples then Manali has $4$ times the  Apples that Divya has will form an equation",

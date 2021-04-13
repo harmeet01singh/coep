@@ -1,0 +1,52 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,v4,"Solve for x, $2x + 16 = 26$",5.0,,,,-21.0,44,20,60,3,,,"solution: 
+$2x + 16 = 26$
+$2x = 26 - 16$(subtracting 16 from both sides)$2x = 10$$x = $$\frac{10}{2}$(dividing by 2 on both sides)$x = 5.0$",
+text,1,30203,v4,"Solve for x, $2x + 6 = 32$",13.0,,,,-19.0,40,52,60,3,,,"solution: 
+$2x + 6 = 32$
+$2x = 32 - 6$(subtracting 6 from both sides)$2x = 26$$x = $$\frac{26}{2}$(dividing by 2 on both sides)$x = 13.0$",
+text,1,30203,v4,"Solve for x, $2x + 10 = 22$",6.0,,,,-16.0,34,24,60,3,,,"solution: 
+$2x + 10 = 22$
+$2x = 22 - 10$(subtracting 10 from both sides)$2x = 12$$x = $$\frac{12}{2}$(dividing by 2 on both sides)$x = 6.0$",
+text,1,30203,v4,"Solve for x, $2x + 8 = 24$",8.0,,,,-16.0,34,32,60,3,,,"solution: 
+$2x + 8 = 24$
+$2x = 24 - 8$(subtracting 8 from both sides)$2x = 16$$x = $$\frac{16}{2}$(dividing by 2 on both sides)$x = 8.0$",
+text,1,30203,v4,"Solve for x, $2x + 8 = 26$",9.0,,,,-17.0,36,36,60,3,,,"solution: 
+$2x + 8 = 26$
+$2x = 26 - 8$(subtracting 8 from both sides)$2x = 18$$x = $$\frac{18}{2}$(dividing by 2 on both sides)$x = 9.0$",
+text,1,30203,v4,"Solve for x, $2x + 20 = 22$",1.0,,,,-21.0,44,4,60,3,,,"solution: 
+$2x + 20 = 22$
+$2x = 22 - 20$(subtracting 20 from both sides)$2x = 2$$x = $$\frac{2}{2}$(dividing by 2 on both sides)$x = 1.0$",
+text,1,30203,v4,"Solve for x, $2x + 22 = 30$",4.0,,,,-26.0,54,16,60,3,,,"solution: 
+$2x + 22 = 30$
+$2x = 30 - 22$(subtracting 22 from both sides)$2x = 8$$x = $$\frac{8}{2}$(dividing by 2 on both sides)$x = 4.0$",
+text,1,30203,v4,"Solve for x, $2x + 14 = 24$",5.0,,,,-19.0,40,20,60,3,,,"solution: 
+$2x + 14 = 24$
+$2x = 24 - 14$(subtracting 14 from both sides)$2x = 10$$x = $$\frac{10}{2}$(dividing by 2 on both sides)$x = 5.0$",
+text,1,30203,v4,"Solve for x, $2x + 4 = 32$",14.0,,,,-18.0,38,56,60,3,,,"solution: 
+$2x + 4 = 32$
+$2x = 32 - 4$(subtracting 4 from both sides)$2x = 28$$x = $$\frac{28}{2}$(dividing by 2 on both sides)$x = 14.0$",
+text,1,30203,v4,"Solve for x, $2x + 10 = 24$",7.0,,,,-17.0,36,28,60,3,,,"solution: 
+$2x + 10 = 24$
+$2x = 24 - 10$(subtracting 10 from both sides)$2x = 14$$x = $$\frac{14}{2}$(dividing by 2 on both sides)$x = 7.0$",
+text,1,30203,v4,"Solve for x, $2x + 10 = 30$",10.0,,,,-20.0,42,40,60,3,,,"solution: 
+$2x + 10 = 30$
+$2x = 30 - 10$(subtracting 10 from both sides)$2x = 20$$x = $$\frac{20}{2}$(dividing by 2 on both sides)$x = 10.0$",
+text,1,30203,v4,"Solve for x, $2x + 18 = 32$",7.0,,,,-25.0,52,28,60,3,,,"solution: 
+$2x + 18 = 32$
+$2x = 32 - 18$(subtracting 18 from both sides)$2x = 14$$x = $$\frac{14}{2}$(dividing by 2 on both sides)$x = 7.0$",
+text,1,30203,v4,"Solve for x, $2x + 6 = 34$",14.0,,,,-20.0,42,56,60,3,,,"solution: 
+$2x + 6 = 34$
+$2x = 34 - 6$(subtracting 6 from both sides)$2x = 28$$x = $$\frac{28}{2}$(dividing by 2 on both sides)$x = 14.0$",
+text,1,30203,v4,"Solve for x, $2x + 4 = 26$",11.0,,,,-15.0,32,44,60,3,,,"solution: 
+$2x + 4 = 26$
+$2x = 26 - 4$(subtracting 4 from both sides)$2x = 22$$x = $$\frac{22}{2}$(dividing by 2 on both sides)$x = 11.0$",
+text,1,30203,v4,"Solve for x, $2x + 4 = 34$",15.0,,,,-19.0,40,60,60,3,,,"solution: 
+$2x + 4 = 34$
+$2x = 34 - 4$(subtracting 4 from both sides)$2x = 30$$x = $$\frac{30}{2}$(dividing by 2 on both sides)$x = 15.0$",
+text,1,30203,v4,"Solve for x, $2x + 16 = 30$",7.0,,,,-23.0,48,28,60,3,,,"solution: 
+$2x + 16 = 30$
+$2x = 30 - 16$(subtracting 16 from both sides)$2x = 14$$x = $$\frac{14}{2}$(dividing by 2 on both sides)$x = 7.0$",
+text,1,30203,v4,"Solve for x, $2x + 20 = 26$",3.0,,,,-23.0,48,12,60,3,,,"solution: 
+$2x + 20 = 26$
+$2x = 26 - 20$(subtracting 20 from both sides)$2x = 6$$x = $$\frac{6}{2}$(dividing by 2 on both sides)$x = 3.0$",

@@ -1,0 +1,51 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030203,v2,"For the equation $x - 15 = 11$, is the value of $x=26? (Yes/No)$
+",Yes,,,,No,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x - 15 = 11
+$$x - 15 + 15 = 11 + 15             (Adding 15 on both sides)
+$$x = 26
+$",
+text,1,030203,v2,"For the equation $x - 12 = 18$, is the value of $x=32? (Yes/No)$
+",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x - 12 = 18
+$$x - 12 + 12 = 18 + 12             (Adding 12 on both sides)
+$$x = 30
+$",
+text,1,030203,v2,"For the equation $x - 18 = 4$, is the value of $x=21? (Yes/No)$
+",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x - 18 = 4
+$$x - 18 + 18 = 4 + 18             (Adding 18 on both sides)
+$$x = 22
+$",
+text,1,030203,v2,"For the equation $x - 2 = 30$, is the value of $x=31? (Yes/No)$
+",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x - 2 = 30
+$$x - 2 + 2 = 30 + 2             (Adding 2 on both sides)
+$$x = 32
+$",
+text,1,030203,v2,"For the equation $x - 20 = 5$, is the value of $x=26? (Yes/No)$
+",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$x - 20 = 5
+$$x - 20 + 20 = 5 + 20             (Adding 20 on both sides)
+$$x = 25
+$",
+text,1,030203,v2,"For the equation $b - 11 = 6$, is the value of $b=16? (Yes/No)$
+",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$b - 11 = 6
+$$b - 11 + 11 = 6 + 11             (Adding 11 on both sides)
+$$b = 17
+$",
+text,1,030203,v2,"For the equation $b - 4 = 30$, is the value of $b=35? (Yes/No)$
+",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$b - 4 = 30
+$$b - 4 + 4 = 30 + 4             (Adding 4 on both sides)
+$$b = 34
+$",
+text,1,030203,v2,"For the equation $a - 17 = 28$, is the value of $a=45? (Yes/No)$
+",Yes,,,,No,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$a - 17 = 28
+$$a - 17 + 17 = 28 + 17             (Adding 17 on both sides)
+$$a = 45
+$",
+text,1,030203,v2,"For the equation $y - 4 = 18$, is the value of $y=23? (Yes/No)$
+",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$y - 4 = 18
+$$y - 4 + 4 = 18 + 4             (Adding 4 on both sides)
+$$y = 22
+$",
+text,1,030203,v2,"For the equation $c - 19 = 20$, is the value of $c=38? (Yes/No)$
+",No,,,,Yes,,,60,3,,2019janhavi.mhatre@ves.ac.in,"$c - 19 = 20
+$$c - 19 + 19 = 20 + 19             (Adding 19 on both sides)
+$$c = 39
+$",
