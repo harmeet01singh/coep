@@ -1,0 +1,51 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,03020101,v1,"Quotient of a certain dividend having eight as a divisor, is five
+Represent the following in the form of an equation : ",$y/8=5$,,,,$y/5=8$,$8/5=y$,$8/y=5$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $y$
+For finding the Dividend, we need to perform division operation
+Divisor : $8$ and Quotient : $5$
+Solution would be : $y / 8 = 5$",
+text,1,03020101,v1,"Quotient of a certain dividend having twenty-eight as a divisor, is one
+Represent the following in the form of an equation : ",$a/28=1$,,,,$a/1=28$,$28/1=a$,$28/a=1$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $a$
+For finding the Dividend, we need to perform division operation
+Divisor : $28$ and Quotient : $1$
+Solution would be : $a / 28 = 1$",
+text,1,03020101,v1,"Quotient of a certain dividend having two as a divisor, is five
+Represent the following in the form of an equation : ",$x/2=5$,,,,$x/5=2$,$2/5=x$,$2/x=5$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $x$
+For finding the Dividend, we need to perform division operation
+Divisor : $2$ and Quotient : $5$
+Solution would be : $x / 2 = 5$",
+text,1,03020101,v1,"Quotient of a certain dividend having four as a divisor, is five
+Represent the following in the form of an equation : ",$b/4=5$,,,,$b/5=4$,$4/5=b$,$4/b=5$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $b$
+For finding the Dividend, we need to perform division operation
+Divisor : $4$ and Quotient : $5$
+Solution would be : $b / 4 = 5$",
+text,1,03020101,v1,"Quotient of a certain dividend having twenty-two as a divisor, is one
+Represent the following in the form of an equation : ",$x/22=1$,,,,$x/1=22$,$22/1=x$,$22/x=1$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $x$
+For finding the Dividend, we need to perform division operation
+Divisor : $22$ and Quotient : $1$
+Solution would be : $x / 22 = 1$",
+text,1,03020101,v1,"Quotient of a certain dividend having fifteen as a divisor, is seven
+Represent the following in the form of an equation : ",$x/15=7$,,,,$x/7=15$,$15/7=x$,$15/x=7$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $x$
+For finding the Dividend, we need to perform division operation
+Divisor : $15$ and Quotient : $7$
+Solution would be : $x / 15 = 7$",
+text,1,03020101,v1,"Quotient of a certain dividend having twelve as a divisor, is nine
+Represent the following in the form of an equation : ",$a/12=9$,,,,$a/9=12$,$12/9=a$,$12/a=9$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $a$
+For finding the Dividend, we need to perform division operation
+Divisor : $12$ and Quotient : $9$
+Solution would be : $a / 12 = 9$",
+text,1,03020101,v1,"Quotient of a certain dividend having eighteen as a divisor, is two
+Represent the following in the form of an equation : ",$a/18=2$,,,,$a/2=18$,$18/2=a$,$18/a=2$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $a$
+For finding the Dividend, we need to perform division operation
+Divisor : $18$ and Quotient : $2$
+Solution would be : $a / 18 = 2$",
+text,1,03020101,v1,"Quotient of a certain dividend having twenty-four as a divisor, is ten
+Represent the following in the form of an equation : ",$c/24=10$,,,,$c/10=24$,$24/10=c$,$24/c=10$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $c$
+For finding the Dividend, we need to perform division operation
+Divisor : $24$ and Quotient : $10$
+Solution would be : $c / 24 = 10$",
+text,1,03020101,v1,"Quotient of a certain dividend having fourteen as a divisor, is seven
+Represent the following in the form of an equation : ",$a/14=7$,,,,$a/7=14$,$14/7=a$,$14/a=7$,60,3,,2019rahul.nailwal@ves.ac.in,"Let's say certain no. will be : $a$
+For finding the Dividend, we need to perform division operation
+Divisor : $14$ and Quotient : $7$
+Solution would be : $a / 14 = 7$",

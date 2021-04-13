@@ -1,0 +1,41 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030203,v2,"For the equation $9b = 29$, is the value of $b = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,2019siddhi.mudras@ves.ac.in,"$9b = 29$
+$\dfrac{9b}{9} = \dfrac{29}{9}$            (Dividing 9 on both sides)
+$b = \dfrac{29}{9}$
+$b = 3.2222222222222223$",
+text,1,030203,v2,"For the equation $2z = 26$, is the value of $z = 13$ ? (Yes/No)",Yes,,,,No,,,60,3,,2019siddhi.mudras@ves.ac.in,"$2z = 26$
+$\dfrac{2z}{2} = \dfrac{26}{2}$            (Dividing 2 on both sides)
+$z = \dfrac{26}{2}$
+$z = 13.0$",
+text,1,030203,v2,"For the equation $3b = 26$, is the value of $b = 8$ ? (Yes/No)",No,,,,Yes,,,60,3,,2019siddhi.mudras@ves.ac.in,"$3b = 26$
+$\dfrac{3b}{3} = \dfrac{26}{3}$            (Dividing 3 on both sides)
+$b = \dfrac{26}{3}$
+$b = 8.666666666666666$",
+text,1,030203,v2,"For the equation $2b = 30$, is the value of $b = 15$ ? (Yes/No)",Yes,,,,No,,,60,3,,2019siddhi.mudras@ves.ac.in,"$2b = 30$
+$\dfrac{2b}{2} = \dfrac{30}{2}$            (Dividing 2 on both sides)
+$b = \dfrac{30}{2}$
+$b = 15.0$",
+text,1,030203,v2,"For the equation $9y = 27$, is the value of $y = 3$ ? (Yes/No)",Yes,,,,No,,,60,3,,2019siddhi.mudras@ves.ac.in,"$9y = 27$
+$\dfrac{9y}{9} = \dfrac{27}{9}$            (Dividing 9 on both sides)
+$y = \dfrac{27}{9}$
+$y = 3.0$",
+text,1,030203,v2,"For the equation $3a = 28$, is the value of $a = 9$ ? (Yes/No)",No,,,,Yes,,,60,3,,2019siddhi.mudras@ves.ac.in,"$3a = 28$
+$\dfrac{3a}{3} = \dfrac{28}{3}$            (Dividing 3 on both sides)
+$a = \dfrac{28}{3}$
+$a = 9.333333333333334$",
+text,1,030203,v2,"For the equation $7x = 27$, is the value of $x = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,2019siddhi.mudras@ves.ac.in,"$7x = 27$
+$\dfrac{7x}{7} = \dfrac{27}{7}$            (Dividing 7 on both sides)
+$x = \dfrac{27}{7}$
+$x = 3.857142857142857$",
+text,1,030203,v2,"For the equation $5a = 30$, is the value of $a = 6$ ? (Yes/No)",Yes,,,,No,,,60,3,,2019siddhi.mudras@ves.ac.in,"$5a = 30$
+$\dfrac{5a}{5} = \dfrac{30}{5}$            (Dividing 5 on both sides)
+$a = \dfrac{30}{5}$
+$a = 6.0$",
+text,1,030203,v2,"For the equation $7a = 26$, is the value of $a = 3$ ? (Yes/No)",No,,,,Yes,,,60,3,,2019siddhi.mudras@ves.ac.in,"$7a = 26$
+$\dfrac{7a}{7} = \dfrac{26}{7}$            (Dividing 7 on both sides)
+$a = \dfrac{26}{7}$
+$a = 3.7142857142857144$",
+text,1,030203,v2,"For the equation $6c = 27$, is the value of $c = 4$ ? (Yes/No)",No,,,,Yes,,,60,3,,2019siddhi.mudras@ves.ac.in,"$6c = 27$
+$\dfrac{6c}{6} = \dfrac{27}{6}$            (Dividing 6 on both sides)
+$c = \dfrac{27}{6}$
+$c = 4.5$",

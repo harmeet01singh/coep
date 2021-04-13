@@ -1,0 +1,41 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030203,v2,"('For the equation, $$c / 14 = 7$$ is the value of ', '$c$', '=', '$105$', '? (Yes/No)')",No,,,,Yes,,,60,3,,2019rahul.nailwal@ves.ac.in,"$c / 14 = 7$
+$( c / 14 ) * 14 = 7 * 14             (Multiplying 14 on both sides)$
+$c = 7 * 14$
+$c = 98$",
+text,1,030203,v2,"('For the equation, $$y / 20 = 5$$ is the value of ', '$y$', '=', '$2000$', '? (Yes/No)')",No,,,,Yes,,,60,3,,2019rahul.nailwal@ves.ac.in,"$y / 20 = 5$
+$( y / 20 ) * 20 = 5 * 20             (Multiplying 20 on both sides)$
+$y = 5 * 20$
+$y = 100$",
+text,1,030203,v2,"('For the equation, $$c / 11 = 10$$ is the value of ', '$c$', '=', '$121$', '? (Yes/No)')",No,,,,Yes,,,60,3,,2019rahul.nailwal@ves.ac.in,"$c / 11 = 10$
+$( c / 11 ) * 11 = 10 * 11             (Multiplying 11 on both sides)$
+$c = 10 * 11$
+$c = 110$",
+text,1,030203,v2,"('For the equation, $$y / 27 = 7$$ is the value of ', '$y$', '=', '$216$', '? (Yes/No)')",No,,,,Yes,,,60,3,,2019rahul.nailwal@ves.ac.in,"$y / 27 = 7$
+$( y / 27 ) * 27 = 7 * 27             (Multiplying 27 on both sides)$
+$y = 7 * 27$
+$y = 189$",
+text,1,030203,v2,"('For the equation, $$a / 20 = 3$$ is the value of ', '$a$', '=', '$180$', '? (Yes/No)')",No,,,,Yes,,,60,3,,2019rahul.nailwal@ves.ac.in,"$a / 20 = 3$
+$( a / 20 ) * 20 = 3 * 20             (Multiplying 20 on both sides)$
+$a = 3 * 20$
+$a = 60$",
+text,1,030203,v2,"('For the equation, $$b / 14 = 9$$ is the value of ', '$b$', '=', '$126$', '? (Yes/No)')",Yes,,,,No,,,60,3,,2019rahul.nailwal@ves.ac.in,"$b / 14 = 9$
+$( b / 14 ) * 14 = 9 * 14             (Multiplying 14 on both sides)$
+$b = 9 * 14$
+$b = 126$",
+text,1,030203,v2,"('For the equation, $$a / 24 = 6$$ is the value of ', '$a$', '=', '$150$', '? (Yes/No)')",No,,,,Yes,,,60,3,,2019rahul.nailwal@ves.ac.in,"$a / 24 = 6$
+$( a / 24 ) * 24 = 6 * 24             (Multiplying 24 on both sides)$
+$a = 6 * 24$
+$a = 144$",
+text,1,030203,v2,"('For the equation, $$y / 22 = 6$$ is the value of ', '$y$', '=', '$154$', '? (Yes/No)')",No,,,,Yes,,,60,3,,2019rahul.nailwal@ves.ac.in,"$y / 22 = 6$
+$( y / 22 ) * 22 = 6 * 22             (Multiplying 22 on both sides)$
+$y = 6 * 22$
+$y = 132$",
+text,1,030203,v2,"('For the equation, $$c / 20 = 3$$ is the value of ', '$c$', '=', '$1200$', '? (Yes/No)')",No,,,,Yes,,,60,3,,2019rahul.nailwal@ves.ac.in,"$c / 20 = 3$
+$( c / 20 ) * 20 = 3 * 20             (Multiplying 20 on both sides)$
+$c = 3 * 20$
+$c = 60$",
+text,1,030203,v2,"('For the equation, $$a / 18 = 5$$ is the value of ', '$a$', '=', '$1620$', '? (Yes/No)')",No,,,,Yes,,,60,3,,2019rahul.nailwal@ves.ac.in,"$a / 18 = 5$
+$( a / 18 ) * 18 = 5 * 18             (Multiplying 18 on both sides)$
+$a = 5 * 18$
+$a = 90$",

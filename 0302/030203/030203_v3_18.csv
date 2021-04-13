@@ -1,0 +1,41 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,text,302,18,"After $20$ years, Soham  shall be $10$  times as old as he was $10$ years ago. Find his present age. ",20,,,,10,-2,-5,60,3,,2019aarushi.sharma@ves.ac.in,"Let Soham's current age be $x$.<br>Hence, $x$+$20$ = $4$*$(x-10)
+$<br>$x$+$20$ = $4$$x$-$40$.<br>$3$$x$ = $60$
+<br>$x$ = $20.0$
+<br>Hence, Soham is $20$ years old presently.",
+text,text,302,18,"After $8$ years, Aakash  shall be $10$  times as old as he was $10$ years ago. Find her present age. ",19,,,,9,4,9,60,3,,2019aarushi.sharma@ves.ac.in,"Let Aakash's current age be $x$.<br>Hence, $x$+$8$ = $3$*$(x-10)
+$<br>$x$+$8$ = $3$$x$-$30$.<br>$2$$x$ = $38$
+<br>$x$ = $19.0$
+<br>Hence, Aakash is $19$ years old presently.",
+text,text,302,18,"After $7$ years, Soham  shall be $17$  times as old as he was $17$ years ago. Find his present age. ",41,,,,12,10,20,60,3,,2019aarushi.sharma@ves.ac.in,"Let Soham's current age be $x$.<br>Hence, $x$+$7$ = $2$*$(x-17)
+$<br>$x$+$7$ = $2$$x$-$34$.<br>$1$$x$ = $41$
+<br>$x$ = $41.0$
+<br>Hence, Soham is $41$ years old presently.",
+text,text,302,18,"After $9$ years, Aniket  shall be $12$  times as old as he was $12$ years ago. Find her present age. ",33,,,,13,5,10,60,3,,2019aarushi.sharma@ves.ac.in,"Let Aniket's current age be $x$.<br>Hence, $x$+$9$ = $2$*$(x-12)
+$<br>$x$+$9$ = $2$$x$-$24$.<br>$1$$x$ = $33$
+<br>$x$ = $33.0$
+<br>Hence, Aniket is $33$ years old presently.",
+text,text,302,18,"After $19$ years, Aniket  shall be $9$  times as old as he was $9$ years ago. Find his present age. ",16,,,,4,-2,-3,60,3,,2019aarushi.sharma@ves.ac.in,"Let Aniket's current age be $x$.<br>Hence, $x$+$19$ = $5$*$(x-9)
+$<br>$x$+$19$ = $5$$x$-$45$.<br>$4$$x$ = $64$
+<br>$x$ = $16.0$
+<br>Hence, Aniket is $16$ years old presently.",
+text,text,302,18,"After $7$ years, Mihir  shall be $13$  times as old as he was $13$ years ago. Find his present age. ",33,,,,8,-2,-5,60,3,,2019aarushi.sharma@ves.ac.in,"Let Mihir's current age be $x$.<br>Hence, $x$+$7$ = $2$*$(x-13)
+$<br>$x$+$7$ = $2$$x$-$26$.<br>$1$$x$ = $33$
+<br>$x$ = $33.0$
+<br>Hence, Mihir is $33$ years old presently.",
+text,text,302,18,"After $13$ years, Manish  shall be $7$  times as old as he was $7$ years ago. Find his present age. ",17,,,,4,2,3,60,3,,2019aarushi.sharma@ves.ac.in,"Let Manish's current age be $x$.<br>Hence, $x$+$13$ = $3$*$(x-7)
+$<br>$x$+$13$ = $3$$x$-$21$.<br>$2$$x$ = $34$
+<br>$x$ = $17.0$
+<br>Hence, Manish is $17$ years old presently.",
+text,text,302,18,"After $14$ years, Siddhesh  shall be $4$  times as old as he was $4$ years ago. Find her present age. ",22,,,,4,2,4,60,3,,2019aarushi.sharma@ves.ac.in,"Let Siddhesh's current age be $x$.<br>Hence, $x$+$14$ = $2$*$(x-4)
+$<br>$x$+$14$ = $2$$x$-$8$.<br>$1$$x$ = $22$
+<br>$x$ = $22.0$
+<br>Hence, Siddhesh is $22$ years old presently.",
+text,text,302,18,"After $9$ years, Soham  shall be $12$  times as old as he was $12$ years ago. Find her present age. ",33,,,,6,5,8,60,3,,2019aarushi.sharma@ves.ac.in,"Let Soham's current age be $x$.<br>Hence, $x$+$9$ = $2$*$(x-12)
+$<br>$x$+$9$ = $2$$x$-$24$.<br>$1$$x$ = $33$
+<br>$x$ = $33.0$
+<br>Hence, Soham is $33$ years old presently.",
+text,text,302,18,"After $18$ years, Om  shall be $10$  times as old as he was $10$ years ago. Find her present age. ",38,,,,8,6,11,60,3,,2019aarushi.sharma@ves.ac.in,"Let Om's current age be $x$.<br>Hence, $x$+$18$ = $2$*$(x-10)
+$<br>$x$+$18$ = $2$$x$-$20$.<br>$1$$x$ = $38$
+<br>$x$ = $38.0$
+<br>Hence, Om is $38$ years old presently.",

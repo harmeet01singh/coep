@@ -1,0 +1,196 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030203,2,"Aniket and Gauravi have a total of 100 pants.If Aniket has 18pantsless than Gauravi, how many pants does each one have?
+",Gauravi has 59 pants and Aniket has 41 pants,,,,Gauravi has 26 pants and Aniket has 74 pants,Gauravi has 48 pants and Aniket has 30 pants,Gauravi has 41 pants and Aniket has 59 pants,60,3,,2018.aaryan.raina@ves.ac.in,"let Gauravi has $x$ pants.
+    <br/>Since, Aniket has $18$ less pants than Gauravi
+        <br/>Therefore, Aniket will have $x$-$18$ pants.
+    <br/>Since, Gauravi and Aniket have a total of 100 pants    
+        <br/>=> $x+(x-18)=100$  
+        <br/>=> $x+x-18=100$    
+        <br/>=> $2x-18=100$<br/>=> $2x=100+18$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{118}{2}$
+<br/>=> $x=59$
+<br/>=> $x-18=59-18=41$
+<br/>Hence, Gauravi has $59$ pants and Aniket has $41$ pants ",
+text,1,030203,2,"Yogesh and Aarav have a total of 96 Apples.If Yogesh has 6Applesless than Aarav, how many Apples does each one have?
+",Aarav has 51 Apples and Yogesh has 45 Apples,,,,Aarav has 30 Apples and Yogesh has 66 Apples,Aarav has 43 Apples and Yogesh has 37 Apples,Aarav has 45 Apples and Yogesh has 51 Apples,60,3,,2018.aaryan.raina@ves.ac.in,"let Aarav has $x$ Apples.
+    <br/>Since, Yogesh has $6$ less Apples than Aarav
+        <br/>Therefore, Yogesh will have $x$-$6$ Apples.
+    <br/>Since, Aarav and Yogesh have a total of 96 Apples    
+        <br/>=> $x+(x-6)=96$  
+        <br/>=> $x+x-6=96$    
+        <br/>=> $2x-6=96$<br/>=> $2x=96+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{102}{2}$
+<br/>=> $x=51$
+<br/>=> $x-6=51-6=45$
+<br/>Hence, Aarav has $51$ Apples and Yogesh has $45$ Apples ",
+text,1,030203,2,"Mehul and Gagan have a total of 58 Apples.If Mehul has 8Applesless than Gagan, how many Apples does each one have?
+",Gagan has 33 Apples and Mehul has 25 Apples,,,,Gagan has 36 Apples and Mehul has 22 Apples,Gagan has 42 Apples and Mehul has 34 Apples,Gagan has 25 Apples and Mehul has 33 Apples,60,3,,2018.aaryan.raina@ves.ac.in,"let Gagan has $x$ Apples.
+    <br/>Since, Mehul has $8$ less Apples than Gagan
+        <br/>Therefore, Mehul will have $x$-$8$ Apples.
+    <br/>Since, Gagan and Mehul have a total of 58 Apples    
+        <br/>=> $x+(x-8)=58$  
+        <br/>=> $x+x-8=58$    
+        <br/>=> $2x-8=58$<br/>=> $2x=58+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{66}{2}$
+<br/>=> $x=33$
+<br/>=> $x-8=33-8=25$
+<br/>Hence, Gagan has $33$ Apples and Mehul has $25$ Apples ",
+text,1,030203,2,"Shruti and Manali have a total of 52 Cookies.If Manali has 12Cookiesless than Shruti, how many Cookies does each one have?
+",Shruti has 32 Cookies and Manali has 20 Cookies,,,,Shruti has 29 Cookies and Manali has 23 Cookies,Shruti has 22 Cookies and Manali has 10 Cookies,Shruti has 20 Cookies and Manali has 32 Cookies,60,3,,2018.aaryan.raina@ves.ac.in,"let Shruti has $x$ Cookies.
+    <br/>Since, Manali has $12$ less Cookies than Shruti
+        <br/>Therefore, Manali will have $x$-$12$ Cookies.
+    <br/>Since, Shruti and Manali have a total of 52 Cookies    
+        <br/>=> $x+(x-12)=52$  
+        <br/>=> $x+x-12=52$    
+        <br/>=> $2x-12=52$<br/>=> $2x=52+12$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{64}{2}$
+<br/>=> $x=32$
+<br/>=> $x-12=32-12=20$
+<br/>Hence, Shruti has $32$ Cookies and Manali has $20$ Cookies ",
+text,1,030203,2,"Ganesh and Shivani have a total of 92 Apples.If Shivani has 4Applesless than Ganesh, how many Apples does each one have?
+",Ganesh has 48 Apples and Shivani has 44 Apples,,,,Ganesh has 27 Apples and Shivani has 65 Apples,Ganesh has 42 Apples and Shivani has 38 Apples,Ganesh has 44 Apples and Shivani has 48 Apples,60,3,,2018.aaryan.raina@ves.ac.in,"let Ganesh has $x$ Apples.
+    <br/>Since, Shivani has $4$ less Apples than Ganesh
+        <br/>Therefore, Shivani will have $x$-$4$ Apples.
+    <br/>Since, Ganesh and Shivani have a total of 92 Apples    
+        <br/>=> $x+(x-4)=92$  
+        <br/>=> $x+x-4=92$    
+        <br/>=> $2x-4=92$<br/>=> $2x=92+4$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{96}{2}$
+<br/>=> $x=48$
+<br/>=> $x-4=48-4=44$
+<br/>Hence, Ganesh has $48$ Apples and Shivani has $44$ Apples ",
+text,1,030203,2,"Tanmay and Pranali have a total of 78 Cookies.If Pranali has 14Cookiesless than Tanmay, how many Cookies does each one have?
+",Tanmay has 46 Cookies and Pranali has 32 Cookies,,,,Tanmay has 28 Cookies and Pranali has 50 Cookies,Tanmay has 35 Cookies and Pranali has 21 Cookies,Tanmay has 32 Cookies and Pranali has 46 Cookies,60,3,,2018.aaryan.raina@ves.ac.in,"let Tanmay has $x$ Cookies.
+    <br/>Since, Pranali has $14$ less Cookies than Tanmay
+        <br/>Therefore, Pranali will have $x$-$14$ Cookies.
+    <br/>Since, Tanmay and Pranali have a total of 78 Cookies    
+        <br/>=> $x+(x-14)=78$  
+        <br/>=> $x+x-14=78$    
+        <br/>=> $2x-14=78$<br/>=> $2x=78+14$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{92}{2}$
+<br/>=> $x=46$
+<br/>=> $x-14=46-14=32$
+<br/>Hence, Tanmay has $46$ Cookies and Pranali has $32$ Cookies ",
+text,1,030203,2,"Kshitij and Aarav have a total of 54 books.If Aarav has 8booksless than Kshitij, how many books does each one have?
+",Kshitij has 31 books and Aarav has 23 books,,,,Kshitij has 30 books and Aarav has 24 books,Kshitij has 37 books and Aarav has 29 books,Kshitij has 23 books and Aarav has 31 books,60,3,,2018.aaryan.raina@ves.ac.in,"let Kshitij has $x$ books.
+    <br/>Since, Aarav has $8$ less books than Kshitij
+        <br/>Therefore, Aarav will have $x$-$8$ books.
+    <br/>Since, Kshitij and Aarav have a total of 54 books    
+        <br/>=> $x+(x-8)=54$  
+        <br/>=> $x+x-8=54$    
+        <br/>=> $2x-8=54$<br/>=> $2x=54+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{62}{2}$
+<br/>=> $x=31$
+<br/>=> $x-8=31-8=23$
+<br/>Hence, Kshitij has $31$ books and Aarav has $23$ books ",
+text,1,030203,2,"Siddhesh and Ishan have a total of 66 Cookies.If Ishan has 8Cookiesless than Siddhesh, how many Cookies does each one have?
+",Siddhesh has 37 Cookies and Ishan has 29 Cookies,,,,Siddhesh has 30 Cookies and Ishan has 36 Cookies,Siddhesh has 30 Cookies and Ishan has 22 Cookies,Siddhesh has 29 Cookies and Ishan has 37 Cookies,60,3,,2018.aaryan.raina@ves.ac.in,"let Siddhesh has $x$ Cookies.
+    <br/>Since, Ishan has $8$ less Cookies than Siddhesh
+        <br/>Therefore, Ishan will have $x$-$8$ Cookies.
+    <br/>Since, Siddhesh and Ishan have a total of 66 Cookies    
+        <br/>=> $x+(x-8)=66$  
+        <br/>=> $x+x-8=66$    
+        <br/>=> $2x-8=66$<br/>=> $2x=66+8$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{74}{2}$
+<br/>=> $x=37$
+<br/>=> $x-8=37-8=29$
+<br/>Hence, Siddhesh has $37$ Cookies and Ishan has $29$ Cookies ",
+text,1,030203,2,"Prajwal and Yash have a total of 60 shirts.If Yash has 2shirtsless than Prajwal, how many shirts does each one have?
+",Prajwal has 31 shirts and Yash has 29 shirts,,,,Prajwal has 25 shirts and Yash has 35 shirts,Prajwal has 28 shirts and Yash has 26 shirts,Prajwal has 29 shirts and Yash has 31 shirts,60,3,,2018.aaryan.raina@ves.ac.in,"let Prajwal has $x$ shirts.
+    <br/>Since, Yash has $2$ less shirts than Prajwal
+        <br/>Therefore, Yash will have $x$-$2$ shirts.
+    <br/>Since, Prajwal and Yash have a total of 60 shirts    
+        <br/>=> $x+(x-2)=60$  
+        <br/>=> $x+x-2=60$    
+        <br/>=> $2x-2=60$<br/>=> $2x=60+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{62}{2}$
+<br/>=> $x=31$
+<br/>=> $x-2=31-2=29$
+<br/>Hence, Prajwal has $31$ shirts and Yash has $29$ shirts ",
+text,1,030203,2,"Chaitrali and Kajal have a total of 60 Apples.If Kajal has 2Applesless than Chaitrali, how many Apples does each one have?
+",Chaitrali has 31 Apples and Kajal has 29 Apples,,,,Chaitrali has 32 Apples and Kajal has 28 Apples,Chaitrali has 25 Apples and Kajal has 23 Apples,Chaitrali has 29 Apples and Kajal has 31 Apples,60,3,,2018.aaryan.raina@ves.ac.in,"let Chaitrali has $x$ Apples.
+    <br/>Since, Kajal has $2$ less Apples than Chaitrali
+        <br/>Therefore, Kajal will have $x$-$2$ Apples.
+    <br/>Since, Chaitrali and Kajal have a total of 60 Apples    
+        <br/>=> $x+(x-2)=60$  
+        <br/>=> $x+x-2=60$    
+        <br/>=> $2x-2=60$<br/>=> $2x=60+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{62}{2}$
+<br/>=> $x=31$
+<br/>=> $x-2=31-2=29$
+<br/>Hence, Chaitrali has $31$ Apples and Kajal has $29$ Apples ",
+text,1,030203,2,"Kshitij and Om have a total of 60 Bananas.If Om has 14Bananasless than Kshitij, how many Bananas does each one have?
+",Kshitij has 37 Bananas and Om has 23 Bananas,,,,Kshitij has 33 Bananas and Om has 27 Bananas,Kshitij has 45 Bananas and Om has 31 Bananas,Kshitij has 23 Bananas and Om has 37 Bananas,60,3,,2018.aaryan.raina@ves.ac.in,"let Kshitij has $x$ Bananas.
+    <br/>Since, Om has $14$ less Bananas than Kshitij
+        <br/>Therefore, Om will have $x$-$14$ Bananas.
+    <br/>Since, Kshitij and Om have a total of 60 Bananas    
+        <br/>=> $x+(x-14)=60$  
+        <br/>=> $x+x-14=60$    
+        <br/>=> $2x-14=60$<br/>=> $2x=60+14$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{74}{2}$
+<br/>=> $x=37$
+<br/>=> $x-14=37-14=23$
+<br/>Hence, Kshitij has $37$ Bananas and Om has $23$ Bananas ",
+text,1,030203,2,"Vedang and Aakash have a total of 94 T-shirts.If Vedang has 6T-shirtsless than Aakash, how many T-shirts does each one have?
+",Aakash has 50 T-shirts and Vedang has 44 T-shirts,,,,Aakash has 28 T-shirts and Vedang has 66 T-shirts,Aakash has 25 T-shirts and Vedang has 19 T-shirts,Aakash has 44 T-shirts and Vedang has 50 T-shirts,60,3,,2018.aaryan.raina@ves.ac.in,"let Aakash has $x$ T-shirts.
+    <br/>Since, Vedang has $6$ less T-shirts than Aakash
+        <br/>Therefore, Vedang will have $x$-$6$ T-shirts.
+    <br/>Since, Aakash and Vedang have a total of 94 T-shirts    
+        <br/>=> $x+(x-6)=94$  
+        <br/>=> $x+x-6=94$    
+        <br/>=> $2x-6=94$<br/>=> $2x=94+6$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{100}{2}$
+<br/>=> $x=50$
+<br/>=> $x-6=50-6=44$
+<br/>Hence, Aakash has $50$ T-shirts and Vedang has $44$ T-shirts ",
+text,1,030203,2,"Mehul and Gargi have a total of 92 Watermelons.If Mehul has 2Watermelonsless than Gargi, how many Watermelons does each one have?
+",Gargi has 47 Watermelons and Mehul has 45 Watermelons,,,,Gargi has 28 Watermelons and Mehul has 64 Watermelons,Gargi has 34 Watermelons and Mehul has 32 Watermelons,Gargi has 45 Watermelons and Mehul has 47 Watermelons,60,3,,2018.aaryan.raina@ves.ac.in,"let Gargi has $x$ Watermelons.
+    <br/>Since, Mehul has $2$ less Watermelons than Gargi
+        <br/>Therefore, Mehul will have $x$-$2$ Watermelons.
+    <br/>Since, Gargi and Mehul have a total of 92 Watermelons    
+        <br/>=> $x+(x-2)=92$  
+        <br/>=> $x+x-2=92$    
+        <br/>=> $2x-2=92$<br/>=> $2x=92+2$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{94}{2}$
+<br/>=> $x=47$
+<br/>=> $x-2=47-2=45$
+<br/>Hence, Gargi has $47$ Watermelons and Mehul has $45$ Watermelons ",
+text,1,030203,2,"Gayatri and Chaitanya have a total of 66 candies.If Gayatri has 16candiesless than Chaitanya, how many candies does each one have?
+",Chaitanya has 41 candies and Gayatri has 25 candies,,,,Chaitanya has 34 candies and Gayatri has 32 candies,Chaitanya has 44 candies and Gayatri has 28 candies,Chaitanya has 25 candies and Gayatri has 41 candies,60,3,,2018.aaryan.raina@ves.ac.in,"let Chaitanya has $x$ candies.
+    <br/>Since, Gayatri has $16$ less candies than Chaitanya
+        <br/>Therefore, Gayatri will have $x$-$16$ candies.
+    <br/>Since, Chaitanya and Gayatri have a total of 66 candies    
+        <br/>=> $x+(x-16)=66$  
+        <br/>=> $x+x-16=66$    
+        <br/>=> $2x-16=66$<br/>=> $2x=66+16$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{82}{2}$
+<br/>=> $x=41$
+<br/>=> $x-16=41-16=25$
+<br/>Hence, Chaitanya has $41$ candies and Gayatri has $25$ candies ",
+text,1,030203,2,"Abhijeet and Vedang have a total of 80 Bananas.If Vedang has 10Bananasless than Abhijeet, how many Bananas does each one have?
+",Abhijeet has 45 Bananas and Vedang has 35 Bananas,,,,Abhijeet has 29 Bananas and Vedang has 51 Bananas,Abhijeet has 23 Bananas and Vedang has 13 Bananas,Abhijeet has 35 Bananas and Vedang has 45 Bananas,60,3,,2018.aaryan.raina@ves.ac.in,"let Abhijeet has $x$ Bananas.
+    <br/>Since, Vedang has $10$ less Bananas than Abhijeet
+        <br/>Therefore, Vedang will have $x$-$10$ Bananas.
+    <br/>Since, Abhijeet and Vedang have a total of 80 Bananas    
+        <br/>=> $x+(x-10)=80$  
+        <br/>=> $x+x-10=80$    
+        <br/>=> $2x-10=80$<br/>=> $2x=80+10$
+<br/>Dividing both the sides by 2
+<br/>=> $x=\dfrac{90}{2}$
+<br/>=> $x=45$
+<br/>=> $x-10=45-10=35$
+<br/>Hence, Abhijeet has $45$ Bananas and Vedang has $35$ Bananas ",

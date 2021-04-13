@@ -1,5 +1,5 @@
 #Balanced see-saw is an equation - True or False
-from coep_package.csv import putInCsv,database_fn
+from coep_package.csv_module import putInCsv,database_fn
 import random
 def main():
     eq=["Balanced see-saw","Simple pulley system","Analog weighing machine","Car-towing","A lever system"]

@@ -1,0 +1,35 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,v6,"Solve for x, $2x = 36$",18,,,,72,34,0.055555556,60,3,,,"solution: 
+$2x = 36$$x = $$\frac{36}{2}$(dividing by 2 on both sides)$x = 18.0$",
+text,1,30203,v6,"Solve for x, $2x = 26$",13,,,,52,24,0.076923077,60,3,,,"solution: 
+$2x = 26$$x = $$\frac{26}{2}$(dividing by 2 on both sides)$x = 13.0$",
+text,1,30203,v6,"Solve for x, $2x = 24$",12,,,,48,22,0.083333333,60,3,,,"solution: 
+$2x = 24$$x = $$\frac{24}{2}$(dividing by 2 on both sides)$x = 12.0$",
+text,1,30203,v6,"Solve for x, $8x = 36$",4.5,,,,288,28,0.222222222,60,3,,,"solution: 
+$8x = 36$$x = $$\frac{36}{8}$(dividing by 8 on both sides)$x = 4.5$",
+text,1,30203,v6,"Solve for x, $10x = 26$",2.6,,,,260,16,0.384615385,60,3,,,"solution: 
+$10x = 26$$x = $$\frac{26}{10}$(dividing by 10 on both sides)$x = 2.6$",
+text,1,30203,v6,"Solve for x, $12x = 40$",3.33,,,,480,28,0.3,60,3,,,"solution: 
+$12x = 40$$x = $$\frac{40}{12}$(dividing by 12 on both sides)$x = 3.33$",
+text,1,30203,v6,"Solve for x, $4x = 26$",6.5,,,,104,22,0.153846154,60,3,,,"solution: 
+$4x = 26$$x = $$\frac{26}{4}$(dividing by 4 on both sides)$x = 6.5$",
+text,1,30203,v6,"Solve for x, $8x = 26$",3.25,,,,208,18,0.307692308,60,3,,,"solution: 
+$8x = 26$$x = $$\frac{26}{8}$(dividing by 8 on both sides)$x = 3.25$",
+text,1,30203,v6,"Solve for x, $12x = 22$",1.83,,,,264,10,0.545454545,60,3,,,"solution: 
+$12x = 22$$x = $$\frac{22}{12}$(dividing by 12 on both sides)$x = 1.83$",
+text,1,30203,v6,"Solve for x, $8x = 40$",5,,,,320,32,0.2,60,3,,,"solution: 
+$8x = 40$$x = $$\frac{40}{8}$(dividing by 8 on both sides)$x = 5.0$",
+text,1,30203,v6,"Solve for x, $2x = 34$",17,,,,68,32,0.058823529,60,3,,,"solution: 
+$2x = 34$$x = $$\frac{34}{2}$(dividing by 2 on both sides)$x = 17.0$",
+text,1,30203,v6,"Solve for x, $8x = 22$",2.75,,,,176,14,0.363636364,60,3,,,"solution: 
+$8x = 22$$x = $$\frac{22}{8}$(dividing by 8 on both sides)$x = 2.75$",
+text,1,30203,v6,"Solve for x, $8x = 24$",3,,,,192,16,0.333333333,60,3,,,"solution: 
+$8x = 24$$x = $$\frac{24}{8}$(dividing by 8 on both sides)$x = 3.0$",
+text,1,30203,v6,"Solve for x, $4x = 28$",7,,,,112,24,0.142857143,60,3,,,"solution: 
+$4x = 28$$x = $$\frac{28}{4}$(dividing by 4 on both sides)$x = 7.0$",
+text,1,30203,v6,"Solve for x, $4x = 34$",8.5,,,,136,30,0.117647059,60,3,,,"solution: 
+$4x = 34$$x = $$\frac{34}{4}$(dividing by 4 on both sides)$x = 8.5$",
+text,1,30203,v6,"Solve for x, $10x = 28$",2.8,,,,280,18,0.357142857,60,3,,,"solution: 
+$10x = 28$$x = $$\frac{28}{10}$(dividing by 10 on both sides)$x = 2.8$",
+text,1,30203,v6,"Solve for x, $4x = 24$",6,,,,96,20,0.166666667,60,3,,,"solution: 
+$4x = 24$$x = $$\frac{24}{4}$(dividing by 4 on both sides)$x = 6.0$",
