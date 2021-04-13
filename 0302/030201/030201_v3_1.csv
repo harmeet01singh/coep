@@ -1,0 +1,61 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$23 - 18,9 * 10$",,,,"$2 * 6,24 - 12$","$4 * 2,2 + 6$","$1 + 2,7 - 4$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $23 - 18 = 5$
+ <br>Second expression $9 * 10 = 90$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$3 * 9,22 - 2$",,,,"$4 * 3,1 + 11$","$9 + 1,2 * 5$","$7 * 1,5 + 2$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 9 = 27$
+ <br>Second expression $22 - 2 = 20$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$1 * 4,2 + 16$",,,,"$1 + 0,1 * 1$","$18 - 0,11 + 7$","$21 - 7,3 + 11$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 4 = 4$
+ <br>Second expression $2 + 16 = 18$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$14 - 10,4 * 9$",,,,"$22 - 2,2 * 10$","$10 - 0,5 + 5$","$1 + 3,21 - 17$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $14 - 10 = 4$
+ <br>Second expression $4 * 9 = 36$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$6 + 14,5 * 6$",,,,"$20 - 10,2 * 5$","$2 * 6,4 + 8$","$1 * 1,14 - 13$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $6 + 14 = 20$
+ <br>Second expression $5 * 6 = 30$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$1 * 10,14 + 23$",,,,"$1 + 19,25 - 5$","$17 - 10,3 + 4$","$8 - 1,3 + 4$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $1 * 10 = 10$
+ <br>Second expression $14 + 23 = 37$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$3 * 9,17 - 18$",,,,"$6 * 1,0 + 6$","$14 - 9,3 + 2$","$24 - 0,8 * 3$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $3 * 9 = 27$
+ <br>Second expression $17 - 18 = -1$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$7 + 20,2 - 3$",,,,"$1 + 9,1 * 10$","$7 * 1,2 + 5$","$3 + 1,10 - 6$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 + 20 = 27$
+ <br>Second expression $2 - 3 = -1$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$0 + 15,6 * 5$",,,,"$7 * 2,15 - 1$","$6 + 0,1 * 6$","$7 + 3,24 - 14$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $0 + 15 = 15$
+ <br>Second expression $6 * 5 = 30$
+<br>Since both expressions give different values, they do not form a balanced equation",
+text,1,030201,v3_1,"
+ <br> Which of the following pairs will not form a balanced equation ?","$7 + 10,8 * 7$",,,,"$9 + 1,17 - 7$","$1 + 6,12 - 5$","$1 * 7,12 - 5$",60,3,,2018.rohan.pol@ves.ac.in,"<br> 
+To check equality of expressions we will check if both of them give same result or not
+ <br>First expression $7 + 10 = 17$
+ <br>Second expression $8 * 7 = 56$
+<br>Since both expressions give different values, they do not form a balanced equation",
