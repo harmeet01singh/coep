@@ -1,0 +1,39 @@
+Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
+text,1,30203,v11,"Solve for x, $x /36 = 10$",360,,,,3.6,26,0.2777777777777778,60,3,,,"solution: 
+$\frac{x}{36}$$ = 10$$x = 36*10$(Multiplying by 36 on both sides)$x = 360$",
+text,1,30203,v11,"Solve for x, $x /26 = 12$",312,,,,2.1666666666666665,14,0.4615384615384615,60,3,,,"solution: 
+$\frac{x}{26}$$ = 12$$x = 26*12$(Multiplying by 26 on both sides)$x = 312$",
+text,1,30203,v11,"Solve for x, $x /24 = 10$",240,,,,2.4,14,0.4166666666666667,60,3,,,"solution: 
+$\frac{x}{24}$$ = 10$$x = 24*10$(Multiplying by 24 on both sides)$x = 240$",
+text,1,30203,v11,"Solve for x, $x /34 = 8$",272,,,,4.25,26,0.2352941176470588,60,3,,,"solution: 
+$\frac{x}{34}$$ = 8$$x = 34*8$(Multiplying by 34 on both sides)$x = 272$",
+text,1,30203,v11,"Solve for x, $x /24 = 6$",144,,,,4.0,18,0.25,60,3,,,"solution: 
+$\frac{x}{24}$$ = 6$$x = 24*6$(Multiplying by 24 on both sides)$x = 144$",
+text,1,30203,v11,"Solve for x, $x /40 = 4$",160,,,,10.0,36,0.1,60,3,,,"solution: 
+$\frac{x}{40}$$ = 4$$x = 40*4$(Multiplying by 40 on both sides)$x = 160$",
+text,1,30203,v11,"Solve for x, $x /36 = 8$",288,,,,4.5,28,0.2222222222222222,60,3,,,"solution: 
+$\frac{x}{36}$$ = 8$$x = 36*8$(Multiplying by 36 on both sides)$x = 288$",
+text,1,30203,v11,"Solve for x, $x /30 = 8$",240,,,,3.75,22,0.2666666666666666,60,3,,,"solution: 
+$\frac{x}{30}$$ = 8$$x = 30*8$(Multiplying by 30 on both sides)$x = 240$",
+text,1,30203,v11,"Solve for x, $x /28 = 4$",112,,,,7.0,24,0.1428571428571428,60,3,,,"solution: 
+$\frac{x}{28}$$ = 4$$x = 28*4$(Multiplying by 28 on both sides)$x = 112$",
+text,1,30203,v11,"Solve for x, $x /38 = 8$",304,,,,4.75,30,0.2105263157894736,60,3,,,"solution: 
+$\frac{x}{38}$$ = 8$$x = 38*8$(Multiplying by 38 on both sides)$x = 304$",
+text,1,30203,v11,"Solve for x, $x /24 = 12$",288,,,,2.0,12,0.5,60,3,,,"solution: 
+$\frac{x}{24}$$ = 12$$x = 24*12$(Multiplying by 24 on both sides)$x = 288$",
+text,1,30203,v11,"Solve for x, $x /36 = 12$",432,,,,3.0,24,0.3333333333333333,60,3,,,"solution: 
+$\frac{x}{36}$$ = 12$$x = 36*12$(Multiplying by 36 on both sides)$x = 432$",
+text,1,30203,v11,"Solve for x, $x /26 = 2$",52,,,,13.0,24,0.0769230769230769,60,3,,,"solution: 
+$\frac{x}{26}$$ = 2$$x = 26*2$(Multiplying by 26 on both sides)$x = 52$",
+text,1,30203,v11,"Solve for x, $x /22 = 12$",264,,,,1.8333333333333333,10,0.5454545454545454,60,3,,,"solution: 
+$\frac{x}{22}$$ = 12$$x = 22*12$(Multiplying by 22 on both sides)$x = 264$",
+text,1,30203,v11,"Solve for x, $x /28 = 2$",56,,,,14.0,26,0.0714285714285714,60,3,,,"solution: 
+$\frac{x}{28}$$ = 2$$x = 28*2$(Multiplying by 28 on both sides)$x = 56$",
+text,1,30203,v11,"Solve for x, $x /34 = 12$",408,,,,2.833333333333333,22,0.3529411764705882,60,3,,,"solution: 
+$\frac{x}{34}$$ = 12$$x = 34*12$(Multiplying by 34 on both sides)$x = 408$",
+text,1,30203,v11,"Solve for x, $x /40 = 12$",480,,,,3.333333333333333,28,0.3,60,3,,,"solution: 
+$\frac{x}{40}$$ = 12$$x = 40*12$(Multiplying by 40 on both sides)$x = 480$",
+text,1,30203,v11,"Solve for x, $x /24 = 8$",192,,,,3.0,16,0.3333333333333333,60,3,,,"solution: 
+$\frac{x}{24}$$ = 8$$x = 24*8$(Multiplying by 24 on both sides)$x = 192$",
+text,1,30203,v11,"Solve for x, $x /40 = 8$",320,,,,5.0,32,0.2,60,3,,,"solution: 
+$\frac{x}{40}$$ = 8$$x = 40*8$(Multiplying by 40 on both sides)$x = 320$",

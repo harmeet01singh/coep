@@ -1,41 +1,41 @@
 Question_Type,Answer_Type,Topic_Number,Variation,Question,Correct_Answer_1,Correct_Answer_2,Correct_Answer_3,Correct_Answer_4,Wrong_Answer_1,Wrong_Answer_2,Wrong_Answer_3,Time_in_seconds,Difficulty_Level,Question_IAV,ContributorMail,Solution_text,Solution_IAV
-text,1,030101,v1,Which of the following is an equation ?,$4x * 8 = 28$,,,,$12p < 19$,$33 / 12 > 2.75$,$x / 8$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $4x * 8 = 28$=> $x$ is the variable and $4$$x$ is the variable term=> $8$ and $28$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$19z / 30 = 23$,,,,$16p < 26$,$27 / 12 < 2.25$,$x / 23$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $19z / 30 = 23$=> $z$ is the variable and $19$$z$ is the variable term=> $30$ and $23$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$10z - 22 = 30$,,,,$3p < 18$,$12 / 4 > 3.0$,$x / 15$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $10z - 22 = 30$=> $z$ is the variable and $10$$z$ is the variable term=> $22$ and $30$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$25b - 27 = 30$,,,,$24p < 18$,$14 + 4 > 18$,$x / 13$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $25b - 27 = 30$=> $b$ is the variable and $25$$b$ is the variable term=> $27$ and $30$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$8x / 9 = 30$,,,,$19p < 24$,$27 - 5 > 22$,$x / 20$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $8x / 9 = 30$=> $x$ is the variable and $8$$x$ is the variable term=> $9$ and $30$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$5y - 3 = 22$,,,,$13p < 19$,$25 - 1 > 24$,$x - 2$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $5y - 3 = 22$=> $y$ is the variable and $5$$y$ is the variable term=> $3$ and $22$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$12y + 18 = 22$,,,,$24p > 27$,$12 * 3 < 36$,$x - 4$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $12y + 18 = 22$=> $y$ is the variable and $12$$y$ is the variable term=> $18$ and $22$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$24a * 17 = 25$,,,,$28p < 26$,$21 / 12 > 1.75$,$x - 16$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $24a * 17 = 25$=> $a$ is the variable and $24$$a$ is the variable term=> $17$ and $25$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$28b - 26 = 16$,,,,$27p < 19$,$17 / 6 > 2.8333333333333335$,$x / 2$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $28b - 26 = 16$=> $b$ is the variable and $28$$b$ is the variable term=> $26$ and $16$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$27z + 29 = 18$,,,,$26p > 25$,$19 + 4 < 23$,$x - 3$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $27z + 29 = 18$=> $z$ is the variable and $27$$z$ is the variable term=> $29$ and $18$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$29c - 22 = 28$,,,,$11p < 29$,$30 / 7 < 4.285714285714286$,$x / 9$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $29c - 22 = 28$=> $c$ is the variable and $29$$c$ is the variable term=> $22$ and $28$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$2b / 18 = 27$,,,,$27p < 29$,$19 * 10 < 190$,$x + 20$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $2b / 18 = 27$=> $b$ is the variable and $2$$b$ is the variable term=> $18$ and $27$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$10a - 14 = 29$,,,,$21p > 15$,$30 / 4 > 7.5$,$x / 19$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $10a - 14 = 29$=> $a$ is the variable and $10$$a$ is the variable term=> $14$ and $29$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$17a * 20 = 18$,,,,$28p > 26$,$21 * 8 > 168$,$x + 17$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $17a * 20 = 18$=> $a$ is the variable and $17$$a$ is the variable term=> $20$ and $18$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$2b - 26 = 20$,,,,$4p < 23$,$16 - 5 > 11$,$x / 30$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $2b - 26 = 20$=> $b$ is the variable and $2$$b$ is the variable term=> $26$ and $20$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$11z - 13 = 29$,,,,$26p > 24$,$28 * 4 < 112$,$x / 4$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $11z - 13 = 29$=> $z$ is the variable and $11$$z$ is the variable term=> $13$ and $29$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$30b + 27 = 17$,,,,$22p > 24$,$14 - 11 < 3$,$x / 3$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $30b + 27 = 17$=> $b$ is the variable and $30$$b$ is the variable term=> $27$ and $17$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$24z * 11 = 19$,,,,$20p > 18$,$13 - 5 > 8$,$x - 21$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $24z * 11 = 19$=> $z$ is the variable and $24$$z$ is the variable term=> $11$ and $19$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$17a * 7 = 24$,,,,$23p < 26$,$20 / 12 < 1.6666666666666667$,$x * 3$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $17a * 7 = 24$=> $a$ is the variable and $17$$a$ is the variable term=> $7$ and $24$ are the constant terms",
-text,1,030101,v1,Which of the following is an equation ?,$17x - 19 = 29$,,,,$28p > 15$,$31 + 3 < 34$,$x - 13$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution:Equation can be defined as a mathematical statement 
-in which two expressions are set equal to each otherIn option => $17x - 19 = 29$=> $x$ is the variable and $17$$x$ is the variable term=> $19$ and $29$ are the constant terms",
+text,1,030102,v1,Which of the following is not an equation ?,$x / 20$,,,,$8x - 4 = 18$,$16b + 21 = 30$,$4y * 8 = 26$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$x / 20$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$15 - 9 > 6$,,,,$18a / 6 = 21$,$30x - 19 = 17$,$17z / 5 = 22$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$15 - 9 > 6$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$x - 3$,,,,$25y - 15 = 30$,$25b - 11 = 21$,$12b * 3 = 28$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$x - 3$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$25 - 4 < 21$,,,,$30b * 13 = 20$,$11b * 10 = 17$,$3z * 21 = 15$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$25 - 4 < 21$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$8p < 28$,,,,$27z / 20 = 16$,$26x / 9 = 17$,$14z + 11 = 23$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$8p < 28$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$19p > 29$,,,,$10c - 4 = 22$,$23z / 18 = 16$,$6a * 15 = 22$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$19p > 29$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$20p > 16$,,,,$15c * 8 = 26$,$2a * 10 = 19$,$13z / 30 = 17$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$20p > 16$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$18p < 18$,,,,$5c / 17 = 26$,$17c - 16 = 19$,$18x + 8 = 17$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$18p < 18$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$20 - 9 > 11$,,,,$8z * 17 = 29$,$10a * 7 = 24$,$16a * 7 = 18$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$20 - 9 > 11$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$15 + 7 < 22$,,,,$27y - 5 = 26$,$17y / 16 = 18$,$28b + 18 = 18$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$15 + 7 < 22$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$12 + 10 > 22$,,,,$29x - 3 = 24$,$17a * 25 = 26$,$25y * 8 = 24$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$12 + 10 > 22$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$x * 29$,,,,$15x - 16 = 26$,$5z - 3 = 27$,$4a + 4 = 29$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$x * 29$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$x - 24$,,,,$24z + 3 = 15$,$7z / 26 = 26$,$21y - 3 = 20$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$x - 24$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$x / 29$,,,,$8z + 8 = 21$,$5a - 24 = 23$,$29x / 27 = 20$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$x / 29$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$30 - 3 > 27$,,,,$21c - 3 = 19$,$22c + 29 = 24$,$23b + 3 = 25$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$30 - 3 > 27$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$27p > 26$,,,,$5b - 12 = 24$,$17y * 16 = 15$,$27y + 15 = 30$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$27p > 26$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$x / 3$,,,,$22x - 13 = 25$,$29z / 17 = 18$,$29x + 24 = 26$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$x / 3$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$27 / 1 < 27.0$,,,,$8a - 16 = 20$,$18c * 10 = 30$,$28a + 17 = 26$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$27 / 1 < 27.0$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$27p > 27$,,,,$21x - 5 = 22$,$18x + 13 = 22$,$17y / 30 = 22$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$27p > 27$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
+text,1,030102,v1,Which of the following is not an equation ?,$12p < 17$,,,,$2y / 11 = 30$,$20c / 11 = 29$,$17x + 14 = 21$,60,3,,2018.hemkesh.raina@ves.ac.in,"Solution: $$12p < 17$$Equation can be defined as a mathematical statement 
+in which two expressions are set equal to each other",
